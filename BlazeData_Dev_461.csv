@@ -1,0 +1,2435 @@
+timestamp,developer_id,message
+2014-06-04 02:09:25,461,View.File
+2014-06-04 02:09:26,461,View.OnChangeCaretLine
+2014-06-04 02:09:40,461,View.VisualStudioBgOrFg
+2014-06-04 02:10:10,461,View.VisualStudioBgOrFg
+2014-06-04 02:11:14,461,View.Solution Explorer
+2014-06-04 02:11:21,461,View.File
+2014-06-04 02:11:39,461,View.OnChangeScrollInfo
+2014-06-04 02:12:10,461,View.VisualStudioBgOrFg
+2014-06-04 02:12:44,461,Edit.LineUp
+2014-06-04 02:12:45,461,Edit.BreakLine
+2014-06-04 02:12:50,461,Edit.InsertTab
+2014-06-04 02:12:59,461,Edit.BreakLine
+2014-06-04 02:13:05,461,Edit.BreakLine
+2014-06-04 02:13:29,461,View.OnChangeCaretLine
+2014-06-04 02:13:30,461,Edit.BreakLine
+2014-06-04 02:13:35,461,Edit.BreakLine
+2014-06-04 02:13:35,461,View.OnChangeScrollInfo
+2014-06-04 02:14:10,461,View.VisualStudioBgOrFg
+2014-06-04 02:15:09,461,Edit.BreakLine
+2014-06-04 02:15:13,461,Edit.LineDown
+2014-06-04 02:15:13,461,Edit.BreakLine
+2014-06-04 02:15:15,461,Edit.BreakLine
+2014-06-04 02:15:19,461,Edit.BreakLine
+2014-06-04 02:15:24,461,Edit.LineUp
+2014-06-04 02:15:25,461,Edit.BreakLine
+2014-06-04 02:15:42,461,Edit.BreakLine
+2014-06-04 02:15:46,461,Edit.BreakLine
+2014-06-04 02:15:51,461,Edit.BreakLine
+2014-06-04 02:15:55,461,Edit.BreakLine
+2014-06-04 02:15:58,461,Edit.BreakLine
+2014-06-04 02:16:05,461,Edit.BreakLine
+2014-06-04 02:16:17,461,Edit.BreakLine
+2014-06-04 02:16:26,461,View.OnChangeScrollInfo
+2014-06-04 02:16:26,461,Edit.BreakLine
+2014-06-04 02:16:27,461,Edit.BreakLine
+2014-06-04 02:16:31,461,Edit.BreakLine
+2014-06-04 02:16:40,461,Edit.Paste
+2014-06-04 02:16:44,461,View.OnChangeScrollInfo
+2014-06-04 02:16:46,461,Edit.BreakLine
+2014-06-04 02:16:46,461,View.OnChangeScrollInfo
+2014-06-04 02:16:53,461,Edit.LineUp
+2014-06-04 02:16:53,461,Edit.BreakLine
+2014-06-04 02:17:02,461,View.OnChangeScrollInfo
+2014-06-04 02:17:10,461,View.VisualStudioBgOrFg
+2014-06-04 02:17:54,461,View.Solution Explorer
+2014-06-04 02:18:29,461,View.OpenWith
+2014-06-04 02:18:34,461,View.OnChangeCaretLine
+2014-06-04 02:18:34,461,View.OnChangeScrollInfo
+2014-06-04 02:18:34,461,View.File
+2014-06-04 02:18:37,461,View.Solution Explorer
+2014-06-04 02:19:21,461,View.Server Explorer
+2014-06-04 02:19:44,461,ViewFileInScriptPanel
+2014-06-04 02:19:45,461,ViewFileInScriptPanel
+2014-06-04 02:19:45,461,View.File
+2014-06-04 02:19:46,461,ViewFileInScriptPanel
+2014-06-04 02:19:58,461,ViewFileInScriptPanel
+2014-06-04 02:20:10,461,View.VisualStudioBgOrFg
+2014-06-04 02:20:36,461,View.Solution Explorer
+2014-06-04 02:20:36,461,ViewFileInScriptPanel
+2014-06-04 02:20:38,461,ViewFileInScriptPanel
+2014-06-04 02:20:44,461,Build.BuildSolution
+2014-06-04 02:20:45,461,ViewFileInScriptPanel
+2014-06-04 02:20:45,461,Build.BuildBegin
+2014-06-04 02:20:47,461,Build.BuildDone
+2014-06-04 02:20:48,461,ViewFileInScriptPanel
+2014-06-04 02:20:55,461,View.Package Manager Console
+2014-06-04 02:20:56,461,ViewFileInScriptPanel
+2014-06-04 02:20:59,461,ViewFileInScriptPanel
+2014-06-04 02:21:12,461,Edit.BreakLine
+2014-06-04 02:21:13,461,ViewFileInScriptPanel
+2014-06-04 02:21:13,461,Build.BuildDone
+2014-06-04 02:21:13,461,Build.BuildBegin
+2014-06-04 02:21:19,461,View.File
+2014-06-04 02:21:20,461,ViewFileInScriptPanel
+2014-06-04 02:21:20,461,View.Package Manager Console
+2014-06-04 02:21:21,461,ViewFileInScriptPanel
+2014-06-04 02:21:41,461,ViewFileInScriptPanel
+2014-06-04 02:21:43,461,Edit.BreakLine
+2014-06-04 02:21:43,461,ViewFileInScriptPanel
+2014-06-04 02:21:44,461,Build.BuildBegin
+2014-06-04 02:21:45,461,ViewFileInScriptPanel
+2014-06-04 02:21:45,461,Build.BuildDone
+2014-06-04 02:21:45,461,Build.BuildBegin
+2014-06-04 02:21:48,461,ViewFileInScriptPanel
+2014-06-04 02:22:11,461,View.File
+2014-06-04 02:22:12,461,ViewFileInScriptPanel
+2014-06-04 02:22:12,461,View.OnChangeCaretLine
+2014-06-04 02:22:17,461,View.OnChangeScrollInfo
+2014-06-04 02:22:18,461,View.OnChangeScrollInfo
+2014-06-04 02:22:20,461,View.OnChangeScrollInfo
+2014-06-04 02:22:21,461,View.OnChangeScrollInfo
+2014-06-04 02:22:23,461,ViewFileInScriptPanel
+2014-06-04 02:22:25,461,ViewFileInScriptPanel
+2014-06-04 02:22:26,461,ViewFileInScriptPanel
+2014-06-04 02:22:27,461,ViewFileInScriptPanel
+2014-06-04 02:22:27,461,View.OnChangeScrollInfo
+2014-06-04 02:22:28,461,View.OnChangeScrollInfo
+2014-06-04 02:22:29,461,ViewFileInScriptPanel
+2014-06-04 02:22:40,461,View.VisualStudioBgOrFg
+2014-06-04 02:24:40,461,ViewFileInScriptPanel
+2014-06-04 02:29:40,461,ViewFileInScriptPanel
+2014-06-04 02:34:40,461,ViewFileInScriptPanel
+2014-06-04 02:39:40,461,ViewFileInScriptPanel
+2014-06-04 02:44:40,461,ViewFileInScriptPanel
+2014-06-04 02:49:40,461,ViewFileInScriptPanel
+2014-06-04 02:52:13,461,ViewFileInScriptPanel
+2014-06-04 02:52:15,461,ViewFileInScriptPanel
+2014-06-04 02:52:15,461,View.File
+2014-06-04 02:52:30,461,View.File
+2014-06-04 02:52:35,461,View.Code Navigation Window
+2014-06-04 02:52:35,461,View.File
+2014-06-04 02:52:36,461,View.OnChangeCaretLine
+2014-06-04 02:52:36,461,View.OnChangeScrollInfo
+2014-06-04 02:52:39,461,View.Server Explorer
+2014-06-04 02:52:41,461,View.File
+2014-06-04 02:52:41,461,ViewFileInScriptPanel
+2014-06-04 02:52:42,461,ViewFileInScriptPanel
+2014-06-04 02:53:11,461,View.VisualStudioBgOrFg
+2014-06-04 02:54:40,461,ViewFileInScriptPanel
+2014-06-04 02:59:40,461,ViewFileInScriptPanel
+2014-06-04 03:04:40,461,ViewFileInScriptPanel
+2014-06-04 03:09:41,461,ViewFileInScriptPanel
+2014-06-04 03:14:40,461,ViewFileInScriptPanel
+2014-06-04 03:19:40,461,ViewFileInScriptPanel
+2014-06-04 03:24:40,461,ViewFileInScriptPanel
+2014-06-04 03:29:40,461,ViewFileInScriptPanel
+2014-06-04 03:34:40,461,ViewFileInScriptPanel
+2014-06-04 03:39:40,461,ViewFileInScriptPanel
+2014-06-04 03:44:40,461,ViewFileInScriptPanel
+2014-06-04 03:49:40,461,ViewFileInScriptPanel
+2014-06-04 03:54:41,461,ViewFileInScriptPanel
+2014-06-04 03:59:41,461,ViewFileInScriptPanel
+2014-06-04 04:04:40,461,ViewFileInScriptPanel
+2014-06-04 04:09:41,461,ViewFileInScriptPanel
+2014-06-04 04:10:34,461,Build.BuildDone
+2014-06-04 04:10:34,461,Debug.Start
+2014-06-04 04:10:34,461,ViewFileInScriptPanel
+2014-06-04 04:10:36,461,View.File
+2014-06-04 04:10:36,461,Debug.Debug Run Mode
+2014-06-04 04:10:38,461,ViewFileInScriptPanel
+2014-06-04 04:10:39,461,ViewFileInScriptPanel
+2014-06-04 04:10:53,461,ViewFileInScriptPanel
+2014-06-04 04:11:03,461,ViewFileInScriptPanel
+2014-06-04 04:11:04,461,ViewFileInScriptPanel
+2014-06-04 04:11:05,461,ViewFileInScriptPanel
+2014-06-04 04:11:06,461,ViewFileInScriptPanel
+2014-06-04 04:11:09,461,ViewFileInScriptPanel
+2014-06-04 04:11:10,461,ViewFileInScriptPanel
+2014-06-04 04:11:14,461,ViewFileInScriptPanel
+2014-06-04 04:11:19,461,ViewFileInScriptPanel
+2014-06-04 04:11:20,461,ViewFileInScriptPanel
+2014-06-04 04:11:21,461,ViewFileInScriptPanel
+2014-06-04 04:11:22,461,ViewFileInScriptPanel
+2014-06-04 04:11:33,461,ViewFileInScriptPanel
+2014-06-04 04:11:43,461,View.VisualStudioBgOrFg
+2014-06-04 04:11:54,461,ViewFileInScriptPanel
+2014-06-04 04:14:40,461,ViewFileInScriptPanel
+2014-06-04 04:19:40,461,ViewFileInScriptPanel
+2014-06-04 04:21:20,461,ViewFileInScriptPanel
+2014-06-04 04:24:41,461,ViewFileInScriptPanel
+2014-06-04 04:29:40,461,ViewFileInScriptPanel
+2014-06-04 04:34:40,461,ViewFileInScriptPanel
+2014-06-04 04:39:40,461,ViewFileInScriptPanel
+2014-06-04 04:39:48,461,ViewFileInScriptPanel
+2014-06-04 04:44:41,461,ViewFileInScriptPanel
+2014-06-04 04:49:41,461,ViewFileInScriptPanel
+2014-06-04 04:54:34,461,ViewFileInScriptPanel
+2014-06-04 04:54:35,461,View.File
+2014-06-04 04:54:35,461,Debug.Enter Design Mode
+2014-06-04 04:54:37,461,View.Server Explorer
+2014-06-04 04:54:37,461,File.Exit
+2014-07-03 03:59:22,461,View.VisualStudioBgOrFg
+2014-07-03 03:59:25,461,View.File
+2014-07-03 03:59:30,461,View.Solution Explorer
+2014-07-03 03:59:32,461,View.Team Explorer
+2014-07-03 03:59:33,461,View.Properties
+2014-07-03 03:59:33,461,View.Notifications
+2014-07-03 03:59:34,461,View.Solution Explorer
+2014-07-03 04:00:01,461,View.OnChangeScrollInfo
+2014-07-03 04:00:01,461,View.File
+2014-07-03 04:00:09,461,View.OnChangeScrollInfo
+2014-07-03 04:00:09,461,View.OnChangeCaretLine
+2014-07-03 04:00:11,461,View.OnChangeCaretLine
+2014-07-03 04:00:11,461,View.OnChangeScrollInfo
+2014-07-03 04:00:22,461,View.VisualStudioBgOrFg
+2014-07-03 04:01:21,461,View.OnChangeScrollInfo
+2014-07-03 04:01:35,461,View.OnChangeScrollInfo
+2014-07-03 04:01:36,461,View.OnChangeScrollInfo
+2014-07-03 04:01:45,461,View.OnChangeScrollInfo
+2014-07-03 04:01:48,461,View.OnChangeScrollInfo
+2014-07-03 04:02:22,461,View.VisualStudioBgOrFg
+2014-07-03 04:15:43,461,View.OnChangeCaretLine
+2014-07-03 04:15:46,461,View.OnChangeCaretLine
+2014-07-03 04:15:46,461,View.OnChangeScrollInfo
+2014-07-03 04:15:59,461,View.OnChangeScrollInfo
+2014-07-03 04:16:53,461,View.VisualStudioBgOrFg
+2014-07-03 04:18:48,461,View.OnChangeCaretLine
+2014-07-03 05:19:09,461,View.Server Explorer
+2014-07-03 22:59:25,461,View.VisualStudioBgOrFg
+2014-07-03 23:10:55,461,View.VisualStudioBgOrFg
+2014-07-03 23:14:31,461,View.Server Explorer
+2014-07-04 01:55:47,461,View.File
+2014-07-04 01:55:53,461,View.VisualStudioBgOrFg
+2014-07-04 01:56:53,461,View.VisualStudioBgOrFg
+2014-07-04 01:59:02,461,View.OnChangeScrollInfo
+2014-07-04 02:03:53,461,View.VisualStudioBgOrFg
+2014-07-04 03:54:02,461,View.OnChangeCaretLine
+2014-07-04 03:59:27,461,View.VisualStudioBgOrFg
+2014-07-04 04:02:10,461,View.Server Explorer
+2014-07-04 04:03:27,461,View.VisualStudioBgOrFg
+2014-07-04 04:05:57,461,View.VisualStudioBgOrFg
+2014-07-04 04:19:57,461,View.VisualStudioBgOrFg
+2014-07-04 04:41:28,461,View.VisualStudioBgOrFg
+2014-07-04 04:54:28,461,View.File
+2014-07-04 04:54:28,461,View.OnChangeCaretLine
+2014-07-04 04:54:28,461,View.Code Navigation Window
+2014-07-04 04:54:28,461,Window.ActivateDocumentWindow
+2014-07-04 04:54:31,461,View.Code Navigation Window
+2014-07-04 04:54:32,461,File.Exit
+2014-11-12 23:54:20,461,View.File
+2014-11-12 23:54:46,461,View.VisualStudioBgOrFg
+2014-11-12 23:56:34,461,View.Solution Explorer
+2014-11-12 23:56:48,461,Build.BuildBegin
+2014-11-12 23:56:48,461,Debug.Start
+2014-11-12 23:56:51,461,Build.BuildDone
+2014-11-12 23:57:22,461,ClassViewContextMenus.ClassViewProject.Rebuild
+2014-11-12 23:57:22,461,Build.BuildBegin
+2014-11-12 23:57:25,461,Build.BuildDone
+2014-11-12 23:57:31,461,Build.RebuildSolution
+2014-11-12 23:57:31,461,Build.BuildBegin
+2014-11-12 23:57:32,461,Build.BuildDone
+2014-11-12 23:59:46,461,View.VisualStudioBgOrFg
+2014-11-13 00:00:43,461,View.OnChangeCaretLine
+2014-11-13 00:00:48,461,View.File
+2014-11-13 00:00:48,461,View.Code Navigation Window
+2014-11-13 00:00:48,461,View.OnChangeCaretLine
+2014-11-13 00:00:51,461,View.File
+2014-11-13 00:00:58,461,View.OnChangeScrollInfo
+2014-11-13 00:01:08,461,View.OnChangeScrollInfo
+2014-11-13 00:01:10,461,View.Notifications
+2014-11-13 00:01:11,461,View.Solution Explorer
+2014-11-13 00:01:32,461,View.File
+2014-11-13 00:01:34,461,ProjectandSolutionContextMenus.Project.ViewClassDiagram
+2014-11-13 00:01:34,461,ClassViewContextMenus.ClassViewProject.View.ViewClassDiagram
+2014-11-13 00:02:01,461,View.File
+2014-11-13 00:02:03,461,View.Solution Explorer
+2014-11-13 00:02:14,461,File.Exit
+2014-11-13 18:49:17,461,View.Navigation History Window
+2014-11-13 18:49:18,461,View.Notifications
+2014-11-13 18:49:20,461,View.Solution Explorer
+2014-11-13 18:49:39,461,View.VisualStudioBgOrFg
+2014-11-13 18:50:35,461,File.Exit
+2014-11-13 18:52:07,461,View.Solution Explorer
+2014-11-13 18:52:29,461,View.VisualStudioBgOrFg
+2014-11-13 18:53:29,461,View.VisualStudioBgOrFg
+2014-11-13 18:53:38,461,View.Navigation History Window
+2014-11-13 18:53:40,461,View.Solution Explorer
+2014-11-13 18:53:43,461,View.File
+2014-11-13 18:53:46,461,View.Navigation History Window
+2014-11-13 18:53:47,461,View.File
+2014-11-13 18:53:55,461,View.OnChangeScrollInfo
+2014-11-13 18:53:57,461,View.OnChangeScrollInfo
+2014-11-13 18:53:58,461,View.Solution Explorer
+2014-11-13 18:55:21,461,View.Server Explorer
+2014-11-13 18:55:21,461,View.Toolbox
+2014-11-13 18:55:26,461,View.Server Explorer
+2014-11-13 18:55:28,461,View.OnChangeCaretLine
+2014-11-13 18:55:28,461,View.File
+2014-11-13 18:55:33,461,View.OnChangeScrollInfo
+2014-11-13 18:55:39,461,View.Solution Explorer
+2014-11-13 18:55:47,461,View.File
+2014-11-13 18:56:12,461,View.OnChangeCaretLine
+2014-11-13 18:56:15,461,View.OnChangeCaretLine
+2014-11-13 18:56:16,461,View.OnChangeScrollInfo
+2014-11-13 18:56:18,461,View.OnChangeScrollInfo
+2014-11-13 18:56:22,461,View.Solution Explorer
+2014-11-13 18:56:39,461,View.Code Metrics Results
+2014-11-13 18:56:40,461,Build.BuildBegin
+2014-11-13 18:56:47,461,Build.BuildDone
+2014-11-13 18:56:47,461,View.Error List
+2014-11-13 18:56:48,461,View.Code Metrics Results
+2014-11-13 18:56:49,461,View.OnChangeCaretLine
+2014-11-13 18:56:49,461,View.File
+2014-11-13 18:56:50,461,View.Solution Explorer
+2014-11-13 18:57:00,461,View.File
+2014-11-13 18:57:03,461,View.Solution Explorer
+2014-11-13 18:57:07,461,View.File
+2014-11-13 18:57:34,461,View.Notifications
+2014-11-13 18:57:35,461,View.Solution Explorer
+2014-11-13 18:57:39,461,View.OnChangeCaretLine
+2014-11-13 18:57:39,461,View.OnChangeScrollInfo
+2014-11-13 18:57:39,461,View.File
+2014-11-13 18:58:40,461,File.OpenProject
+2014-11-13 18:58:40,461,View.File
+2014-11-13 18:58:44,461,View.File
+2014-11-13 18:58:45,461,View.OnChangeCaretLine
+2014-11-13 18:58:45,461,View.Solution Explorer
+2014-11-13 18:58:58,461,View.OnChangeScrollInfo
+2014-11-13 18:58:58,461,View.OnChangeCaretLine
+2014-11-13 18:58:58,461,View.File
+2014-11-13 18:58:59,461,View.OnChangeCaretLine
+2014-11-13 18:59:00,461,View.OnChangeScrollInfo
+2014-11-13 18:59:32,461,View.OnChangeScrollInfo
+2014-11-13 18:59:45,461,View.OnChangeScrollInfo
+2014-11-13 19:00:05,461,View.OnChangeCaretLine
+2014-11-13 19:00:24,461,View.Properties
+2014-11-13 19:00:25,461,View.OnChangeCaretLine
+2014-11-13 19:00:25,461,View.File
+2014-11-13 19:00:26,461,View.Team Explorer
+2014-11-13 19:00:27,461,View.Solution Explorer
+2014-11-13 19:00:28,461,View.Notifications
+2014-11-13 19:00:31,461,View.File
+2014-11-13 19:00:31,461,View.OnChangeCaretLine
+2014-11-13 19:01:09,461,View.OnChangeScrollInfo
+2014-11-13 19:01:34,461,View.OnChangeScrollInfo
+2014-11-13 19:01:43,461,View.OnChangeScrollInfo
+2014-11-13 19:01:44,461,View.OnChangeScrollInfo
+2014-11-13 19:02:00,461,View.OnChangeScrollInfo
+2014-11-13 19:02:02,461,View.OnChangeScrollInfo
+2014-11-13 19:02:06,461,View.OnChangeScrollInfo
+2014-11-13 19:02:25,461,View.OnChangeScrollInfo
+2014-11-13 19:02:26,461,View.OnChangeScrollInfo
+2014-11-13 19:02:42,461,View.OnChangeScrollInfo
+2014-11-13 19:02:48,461,View.OnChangeCaretLine
+2014-11-13 19:03:32,461,View.OnChangeScrollInfo
+2014-11-13 19:03:36,461,View.OnChangeCaretLine
+2014-11-13 19:03:41,461,View.OnChangeCaretLine
+2014-11-13 19:03:48,461,View.OnChangeCaretLine
+2014-11-13 19:03:56,461,View.OnChangeScrollInfo
+2014-11-13 19:04:17,461,View.OnChangeScrollInfo
+2014-11-13 19:04:27,461,View.OnChangeCaretLine
+2014-11-13 19:04:35,461,View.OnChangeCaretLine
+2014-11-13 19:05:37,461,View.VisualStudioBgOrFg
+2014-11-13 19:07:05,461,View.OnChangeCaretLine
+2014-11-13 19:07:06,461,View.OnChangeCaretLine
+2014-11-13 19:07:54,461,View.OnChangeScrollInfo
+2014-11-13 19:08:23,461,View.OnChangeScrollInfo
+2014-11-13 19:08:24,461,View.OnChangeScrollInfo
+2014-11-13 19:09:08,461,View.VisualStudioBgOrFg
+2014-11-13 19:09:30,461,View.OnChangeScrollInfo
+2014-11-13 19:09:34,461,View.OnChangeScrollInfo
+2014-11-13 19:09:39,461,View.OnChangeCaretLine
+2014-11-13 19:10:05,461,View.OnChangeScrollInfo
+2014-11-13 19:10:08,461,View.OnChangeScrollInfo
+2014-11-13 19:10:09,461,View.OnChangeScrollInfo
+2014-11-13 19:10:22,461,View.OnChangeScrollInfo
+2014-11-13 19:10:23,461,View.OnChangeScrollInfo
+2014-11-13 19:10:24,461,View.OnChangeScrollInfo
+2014-11-13 19:10:25,461,View.OnChangeScrollInfo
+2014-11-13 19:10:31,461,View.OnChangeScrollInfo
+2014-11-13 19:10:34,461,View.OnChangeScrollInfo
+2014-11-13 19:10:35,461,View.OnChangeScrollInfo
+2014-11-13 19:10:36,461,View.OnChangeScrollInfo
+2014-11-13 19:10:56,461,View.OnChangeScrollInfo
+2014-11-13 19:11:55,461,View.Solution Explorer
+2014-11-13 19:12:21,461,View.File
+2014-11-13 19:12:21,461,View.OnChangeCaretLine
+2014-11-13 19:12:49,461,View.VisualStudioBgOrFg
+2014-11-13 19:13:28,461,View.Navigation History Window
+2014-11-13 19:13:31,461,Tools.NavHistoryItemSingleClick1
+2014-11-13 19:13:35,461,View.OnChangeCaretLine
+2014-11-13 19:13:35,461,View.File
+2014-11-13 19:13:37,461,View.Navigation History Window
+2014-11-13 19:13:38,461,Tools.NavHistoryItemSingleClick2
+2014-11-13 19:13:41,461,View.File
+2014-11-13 19:13:41,461,View.OnChangeCaretLine
+2014-11-13 19:13:41,461,View.OnChangeScrollInfo
+2014-11-13 19:13:42,461,Tools.NavHistoryItemSingleClick2
+2014-11-13 19:13:42,461,View.Navigation History Window
+2014-11-13 19:13:46,461,View.File
+2014-11-13 19:13:55,461,View.Package Manager Console
+2014-11-13 19:13:56,461,View.File
+2014-11-13 19:13:56,461,View.OnChangeCaretLine
+2014-11-13 19:14:19,461,View.VisualStudioBgOrFg
+2014-11-13 19:14:49,461,View.Solution Explorer
+2014-11-13 19:15:19,461,View.VisualStudioBgOrFg
+2014-11-13 19:23:49,461,View.VisualStudioBgOrFg
+2014-11-13 19:30:29,461,View.Properties
+2014-11-13 19:30:30,461,View.Team Explorer
+2014-11-13 19:30:38,461,View.Solution Explorer
+2014-11-13 19:30:40,461,View.Notifications
+2014-11-13 19:30:41,461,View.Solution Explorer
+2014-11-13 19:33:55,461,View.OnChangeCaretLine
+2014-11-13 19:33:55,461,View.File
+2014-11-13 19:33:59,461,View.Solution Explorer
+2014-11-13 19:34:19,461,View.File
+2014-11-13 19:37:52,461,View.OnChangeCaretLine
+2014-11-13 19:39:01,461,View.OnChangeScrollInfo
+2014-11-13 19:39:09,461,View.OnChangeScrollInfo
+2014-11-13 19:39:14,461,View.OnChangeCaretLine
+2014-11-13 19:39:15,461,View.OnChangeCaretLine
+2014-11-13 19:39:20,461,View.OnChangeScrollInfo
+2014-11-13 19:39:21,461,View.OnChangeScrollInfo
+2014-11-13 19:40:31,461,View.Solution Explorer
+2014-11-13 19:40:50,461,View.VisualStudioBgOrFg
+2014-11-13 19:41:26,461,View.OnChangeCaretLine
+2014-11-13 19:41:26,461,View.File
+2014-11-13 19:41:33,461,View.OnChangeScrollInfo
+2014-11-13 19:42:32,461,View.OnChangeScrollInfo
+2014-11-13 19:42:42,461,View.OnChangeScrollInfo
+2014-11-13 19:42:53,461,View.OnChangeScrollInfo
+2014-11-13 19:43:19,461,View.OnChangeCaretLine
+2014-11-13 19:43:22,461,View.OnChangeCaretLine
+2014-11-13 19:44:26,461,View.OnChangeScrollInfo
+2014-11-13 19:45:33,461,View.OnChangeScrollInfo
+2014-11-13 19:45:34,461,View.OnChangeScrollInfo
+2014-11-13 19:45:46,461,View.OnChangeScrollInfo
+2014-11-13 19:45:57,461,View.OnChangeScrollInfo
+2014-11-13 19:45:58,461,View.OnChangeScrollInfo
+2014-11-13 19:46:02,461,View.OnChangeScrollInfo
+2014-11-13 19:46:03,461,View.OnChangeScrollInfo
+2014-11-13 19:46:05,461,View.OnChangeScrollInfo
+2014-11-13 19:46:06,461,View.OnChangeScrollInfo
+2014-11-13 19:46:07,461,View.OnChangeScrollInfo
+2014-11-13 19:46:16,461,View.OnChangeScrollInfo
+2014-11-13 19:46:28,461,View.OnChangeScrollInfo
+2014-11-13 19:46:32,461,View.OnChangeScrollInfo
+2014-11-13 19:47:15,461,View.OnChangeScrollInfo
+2014-11-13 19:47:48,461,View.OnChangeScrollInfo
+2014-11-13 19:48:10,461,View.OnChangeScrollInfo
+2014-11-13 19:48:16,461,View.OnChangeScrollInfo
+2014-11-13 19:49:02,461,View.OnChangeScrollInfo
+2014-11-13 19:49:05,461,View.OnChangeScrollInfo
+2014-11-13 19:49:36,461,View.OnChangeScrollInfo
+2014-11-13 19:49:40,461,View.OnChangeScrollInfo
+2014-11-13 19:50:03,461,View.OnChangeScrollInfo
+2014-11-13 19:50:15,461,View.OnChangeScrollInfo
+2014-11-13 19:50:26,461,View.OnChangeScrollInfo
+2014-11-13 19:50:32,461,View.OnChangeScrollInfo
+2014-11-13 19:50:44,461,View.OnChangeScrollInfo
+2014-11-13 19:51:03,461,View.OnChangeScrollInfo
+2014-11-13 19:53:26,461,View.OnChangeScrollInfo
+2014-11-13 19:53:46,461,View.OnChangeScrollInfo
+2014-11-13 19:53:47,461,View.OnChangeScrollInfo
+2014-11-13 19:53:51,461,View.OnChangeScrollInfo
+2014-11-13 19:53:52,461,View.OnChangeScrollInfo
+2014-11-13 19:53:53,461,View.OnChangeScrollInfo
+2014-11-13 19:54:11,461,View.OnChangeScrollInfo
+2014-11-13 19:55:36,461,View.OnChangeScrollInfo
+2014-11-13 19:56:06,461,View.OnChangeCaretLine
+2014-11-13 19:56:31,461,View.OnChangeScrollInfo
+2014-11-13 19:56:36,461,View.Solution Explorer
+2014-11-13 19:56:44,461,View.OnChangeScrollInfo
+2014-11-13 19:56:46,461,View.OnChangeScrollInfo
+2014-11-13 19:56:47,461,View.OnChangeScrollInfo
+2014-11-13 19:56:49,461,View.OnChangeScrollInfo
+2014-11-13 19:56:59,461,View.File
+2014-11-13 19:56:59,461,View.OnChangeCaretLine
+2014-11-13 19:57:01,461,Edit.Copy
+2014-11-13 19:57:20,461,View.VisualStudioBgOrFg
+2014-11-13 19:58:11,461,View.OnChangeScrollInfo
+2014-11-13 19:58:12,461,View.OnChangeScrollInfo
+2014-11-13 19:58:13,461,View.OnChangeScrollInfo
+2014-11-13 19:58:26,461,View.OnChangeScrollInfo
+2014-11-13 19:58:27,461,View.OnChangeScrollInfo
+2014-11-13 19:58:28,461,View.Properties
+2014-11-13 19:58:30,461,View.Solution Explorer
+2014-11-13 19:59:14,461,View.File
+2014-11-13 19:59:15,461,View.File
+2014-11-13 19:59:16,461,View.OnChangeScrollInfo
+2014-11-13 19:59:16,461,View.File
+2014-11-13 19:59:17,461,View.File
+2014-11-13 19:59:18,461,View.Solution Explorer
+2014-11-13 19:59:18,461,View.File
+2014-11-13 19:59:51,461,View.Properties
+2014-11-13 19:59:54,461,View.Solution Explorer
+2014-11-13 20:00:07,461,View.File
+2014-11-13 20:00:14,461,View.OnChangeScrollInfo
+2014-11-13 20:00:24,461,View.OnChangeScrollInfo
+2014-11-13 20:00:26,461,View.OnChangeScrollInfo
+2014-11-13 20:00:27,461,View.Solution Explorer
+2014-11-13 20:00:47,461,View.OnChangeCaretLine
+2014-11-13 20:00:47,461,View.File
+2014-11-13 20:00:56,461,View.Solution Explorer
+2014-11-13 20:01:04,461,View.File
+2014-11-13 20:01:05,461,View.OnChangeCaretLine
+2014-11-13 20:01:13,461,View.Solution Explorer
+2014-11-13 20:01:18,461,View.File
+2014-11-13 20:01:20,461,View.OnChangeScrollInfo
+2014-11-13 20:01:51,461,View.VisualStudioBgOrFg
+2014-11-13 20:05:51,461,View.File
+2014-11-13 20:05:51,461,View.OnChangeScrollInfo
+2014-11-13 20:06:04,461,View.OnChangeScrollInfo
+2014-11-13 20:06:05,461,View.OnChangeScrollInfo
+2014-11-13 20:06:09,461,View.OnChangeScrollInfo
+2014-11-13 20:06:10,461,View.OnChangeScrollInfo
+2014-11-13 20:06:21,461,View.VisualStudioBgOrFg
+2014-11-13 20:06:46,461,View.OnChangeCaretLine
+2014-11-13 20:07:10,461,View.OnChangeScrollInfo
+2014-11-13 20:07:20,461,View.OnChangeScrollInfo
+2014-11-13 20:07:21,461,View.VisualStudioBgOrFg
+2014-11-13 20:07:51,461,View.VisualStudioBgOrFg
+2014-11-13 20:07:59,461,View.OnChangeCaretLine
+2014-11-13 20:08:00,461,Edit.Copy
+2014-11-13 20:08:08,461,View.OnChangeCaretLine
+2014-11-13 20:08:16,461,View.OnChangeScrollInfo
+2014-11-13 20:08:39,461,View.OnChangeCaretLine
+2014-11-13 20:08:40,461,View.OnChangeScrollInfo
+2014-11-13 20:08:41,461,View.OnChangeScrollInfo
+2014-11-13 20:08:49,461,View.OnChangeScrollInfo
+2014-11-13 20:08:50,461,View.File
+2014-11-13 20:08:55,461,View.OnChangeScrollInfo
+2014-11-13 20:09:45,461,View.OnChangeScrollInfo
+2014-11-13 20:09:57,461,View.OnChangeScrollInfo
+2014-11-13 20:10:13,461,View.OnChangeScrollInfo
+2014-11-13 20:10:31,461,View.OnChangeScrollInfo
+2014-11-13 20:10:43,461,View.OnChangeScrollInfo
+2014-11-13 20:10:44,461,View.OnChangeScrollInfo
+2014-11-13 20:10:45,461,View.OnChangeScrollInfo
+2014-11-13 20:10:49,461,View.OnChangeScrollInfo
+2014-11-13 20:10:51,461,View.OnChangeScrollInfo
+2014-11-13 20:10:59,461,View.OnChangeScrollInfo
+2014-11-13 20:11:00,461,View.OnChangeScrollInfo
+2014-11-13 20:11:01,461,View.OnChangeScrollInfo
+2014-11-13 20:11:05,461,View.Solution Explorer
+2014-11-13 20:11:15,461,View.File
+2014-11-13 20:11:19,461,View.File
+2014-11-13 20:11:20,461,View.Solution Explorer
+2014-11-13 20:11:27,461,View.File
+2014-11-13 20:11:45,461,View.File
+2014-11-13 20:11:50,461,View.OnChangeScrollInfo
+2014-11-13 20:11:51,461,View.OnChangeScrollInfo
+2014-11-13 20:11:53,461,View.OnChangeScrollInfo
+2014-11-13 20:11:56,461,View.OnChangeScrollInfo
+2014-11-13 20:11:57,461,View.OnChangeScrollInfo
+2014-11-13 20:11:58,461,View.OnChangeScrollInfo
+2014-11-13 20:11:59,461,View.OnChangeScrollInfo
+2014-11-13 20:12:57,461,View.OnChangeScrollInfo
+2014-11-13 20:13:00,461,View.OnChangeScrollInfo
+2014-11-13 20:13:12,461,View.OnChangeScrollInfo
+2014-11-13 20:13:14,461,View.OnChangeScrollInfo
+2014-11-13 20:13:15,461,View.OnChangeScrollInfo
+2014-11-13 20:15:39,461,View.OnChangeScrollInfo
+2014-11-13 20:15:45,461,View.OnChangeScrollInfo
+2014-11-13 20:15:46,461,View.OnChangeScrollInfo
+2014-11-13 20:15:50,461,View.OnChangeScrollInfo
+2014-11-13 20:15:53,461,View.OnChangeCaretLine
+2014-11-13 20:16:00,461,View.OnChangeScrollInfo
+2014-11-13 20:16:02,461,View.OnChangeCaretLine
+2014-11-13 20:16:04,461,View.OnChangeScrollInfo
+2014-11-13 20:16:05,461,View.OnChangeScrollInfo
+2014-11-13 20:16:14,461,View.OnChangeScrollInfo
+2014-11-13 20:16:31,461,View.OnChangeScrollInfo
+2014-11-13 20:16:40,461,View.OnChangeScrollInfo
+2014-11-13 20:17:21,461,View.VisualStudioBgOrFg
+2014-11-13 20:18:02,461,View.OnChangeScrollInfo
+2014-11-13 20:18:13,461,View.OnChangeScrollInfo
+2014-11-13 20:18:21,461,View.VisualStudioBgOrFg
+2014-11-13 20:19:49,461,View.OnChangeCaretLine
+2014-11-13 20:19:57,461,View.OnChangeCaretLine
+2014-11-13 20:20:20,461,View.OnChangeScrollInfo
+2014-11-13 20:20:22,461,View.OnChangeCaretLine
+2014-11-13 20:33:52,461,View.VisualStudioBgOrFg
+2014-11-13 20:50:54,461,View.OnChangeCaretLine
+2014-11-13 20:54:41,461,View.OnChangeScrollInfo
+2014-11-13 20:54:45,461,View.OnChangeScrollInfo
+2014-11-13 20:54:46,461,View.OnChangeScrollInfo
+2014-11-13 20:55:25,461,View.OnChangeScrollInfo
+2014-11-13 20:55:26,461,View.OnChangeScrollInfo
+2014-11-13 20:55:27,461,View.OnChangeScrollInfo
+2014-11-13 20:55:32,461,View.OnChangeScrollInfo
+2014-11-13 20:55:33,461,View.OnChangeScrollInfo
+2014-11-13 20:55:34,461,View.OnChangeScrollInfo
+2014-11-13 20:55:36,461,View.OnChangeCaretLine
+2014-11-13 20:55:41,461,View.OnChangeScrollInfo
+2014-11-13 20:56:00,461,View.OnChangeScrollInfo
+2014-11-13 20:56:13,461,View.OnChangeScrollInfo
+2014-11-13 20:56:14,461,View.OnChangeScrollInfo
+2014-11-13 20:56:15,461,View.OnChangeScrollInfo
+2014-11-13 20:56:16,461,View.OnChangeScrollInfo
+2014-11-13 20:56:17,461,View.OnChangeScrollInfo
+2014-11-13 20:56:18,461,View.OnChangeScrollInfo
+2014-11-13 20:56:19,461,View.OnChangeScrollInfo
+2014-11-13 20:56:20,461,View.OnChangeScrollInfo
+2014-11-13 20:56:45,461,View.OnChangeScrollInfo
+2014-11-13 20:57:06,461,View.OnChangeScrollInfo
+2014-11-13 20:57:08,461,View.OnChangeScrollInfo
+2014-11-13 20:57:09,461,View.OnChangeScrollInfo
+2014-11-13 20:58:08,461,View.OnChangeScrollInfo
+2014-11-13 20:59:00,461,View.OnChangeScrollInfo
+2014-11-13 20:59:02,461,View.OnChangeScrollInfo
+2014-11-13 20:59:03,461,View.OnChangeScrollInfo
+2014-11-13 20:59:04,461,View.OnChangeScrollInfo
+2014-11-13 20:59:13,461,View.OnChangeScrollInfo
+2014-11-13 20:59:15,461,View.OnChangeScrollInfo
+2014-11-13 20:59:16,461,View.OnChangeScrollInfo
+2014-11-13 21:00:26,461,View.OnChangeScrollInfo
+2014-11-13 21:00:27,461,View.OnChangeScrollInfo
+2014-11-13 21:00:28,461,View.OnChangeScrollInfo
+2014-11-13 21:00:29,461,View.OnChangeScrollInfo
+2014-11-13 21:00:31,461,View.OnChangeScrollInfo
+2014-11-13 21:00:32,461,View.OnChangeScrollInfo
+2014-11-13 21:00:43,461,View.OnChangeScrollInfo
+2014-11-13 21:00:47,461,View.OnChangeScrollInfo
+2014-11-13 21:04:31,461,View.OnChangeCaretLine
+2014-11-13 21:05:24,461,View.OnChangeScrollInfo
+2014-11-13 21:05:26,461,View.OnChangeScrollInfo
+2014-11-13 21:05:29,461,View.OnChangeScrollInfo
+2014-11-13 21:05:34,461,View.OnChangeCaretLine
+2014-11-13 21:05:37,461,View.OnChangeScrollInfo
+2014-11-13 21:05:40,461,View.OnChangeScrollInfo
+2014-11-13 21:05:42,461,View.OnChangeScrollInfo
+2014-11-13 21:05:44,461,View.OnChangeScrollInfo
+2014-11-13 21:05:46,461,View.OnChangeScrollInfo
+2014-11-13 21:05:49,461,View.OnChangeScrollInfo
+2014-11-13 21:05:50,461,View.OnChangeScrollInfo
+2014-11-13 21:07:01,461,View.OnChangeScrollInfo
+2014-11-13 21:08:25,461,View.OnChangeScrollInfo
+2014-11-13 21:08:26,461,View.OnChangeScrollInfo
+2014-11-13 21:08:32,461,View.OnChangeScrollInfo
+2014-11-13 21:08:46,461,View.OnChangeScrollInfo
+2014-11-13 21:08:49,461,View.OnChangeScrollInfo
+2014-11-13 21:11:38,461,View.OnChangeCaretLine
+2014-11-13 21:11:49,461,View.OnChangeScrollInfo
+2014-11-13 21:11:53,461,View.OnChangeScrollInfo
+2014-11-13 21:11:54,461,View.OnChangeCaretLine
+2014-11-13 21:11:57,461,View.OnChangeScrollInfo
+2014-11-13 21:12:53,461,View.VisualStudioBgOrFg
+2014-11-13 21:13:01,461,View.OnChangeCaretLine
+2014-11-13 21:13:04,461,View.OnChangeScrollInfo
+2014-11-13 21:13:31,461,View.OnChangeCaretLine
+2014-11-13 21:13:44,461,View.OnChangeScrollInfo
+2014-11-13 21:13:46,461,View.OnChangeScrollInfo
+2014-11-13 21:14:00,461,View.OnChangeScrollInfo
+2014-11-13 21:14:09,461,View.OnChangeScrollInfo
+2014-11-13 21:14:10,461,View.OnChangeScrollInfo
+2014-11-13 21:14:11,461,View.OnChangeScrollInfo
+2014-11-13 21:14:20,461,View.OnChangeScrollInfo
+2014-11-13 21:14:23,461,View.OnChangeScrollInfo
+2014-11-13 21:14:24,461,View.OnChangeScrollInfo
+2014-11-13 21:14:25,461,View.OnChangeScrollInfo
+2014-11-13 21:14:26,461,View.OnChangeScrollInfo
+2014-11-13 21:17:23,461,View.VisualStudioBgOrFg
+2014-11-13 21:17:46,461,View.OnChangeScrollInfo
+2014-11-13 21:18:48,461,View.OnChangeScrollInfo
+2014-11-13 21:18:51,461,View.OnChangeCaretLine
+2014-11-13 21:18:55,461,Edit.Copy
+2014-11-13 21:18:55,461,View.OnChangeCaretLine
+2014-11-13 21:19:23,461,View.VisualStudioBgOrFg
+2014-11-13 21:19:58,461,View.OnChangeCaretLine
+2014-11-13 21:20:15,461,View.OnChangeScrollInfo
+2014-11-13 21:20:17,461,View.OnChangeScrollInfo
+2014-11-13 21:20:18,461,View.OnChangeScrollInfo
+2014-11-13 21:20:19,461,View.OnChangeScrollInfo
+2014-11-13 21:20:22,461,View.OnChangeCaretLine
+2014-11-13 21:20:22,461,View.OnChangeScrollInfo
+2014-11-13 21:20:46,461,View.OnChangeCaretLine
+2014-11-13 21:20:47,461,View.OnChangeScrollInfo
+2014-11-13 21:20:49,461,View.OnChangeScrollInfo
+2014-11-13 21:20:50,461,View.OnChangeScrollInfo
+2014-11-13 21:20:51,461,View.OnChangeScrollInfo
+2014-11-13 21:20:53,461,View.OnChangeScrollInfo
+2014-11-13 21:20:57,461,View.OnChangeScrollInfo
+2014-11-13 21:21:00,461,View.OnChangeScrollInfo
+2014-11-13 21:21:02,461,View.OnChangeScrollInfo
+2014-11-13 21:21:07,461,View.OnChangeScrollInfo
+2014-11-13 21:21:08,461,View.OnChangeScrollInfo
+2014-11-13 21:21:11,461,View.OnChangeScrollInfo
+2014-11-13 21:21:12,461,View.OnChangeScrollInfo
+2014-11-13 21:21:17,461,View.OnChangeScrollInfo
+2014-11-13 21:21:20,461,View.OnChangeScrollInfo
+2014-11-13 21:21:21,461,View.OnChangeScrollInfo
+2014-11-13 21:21:31,461,View.OnChangeCaretLine
+2014-11-13 21:21:37,461,Edit.Copy
+2014-11-13 21:21:53,461,View.VisualStudioBgOrFg
+2014-11-13 21:22:38,461,View.OnChangeScrollInfo
+2014-11-13 21:22:38,461,View.OnChangeCaretLine
+2014-11-13 21:22:42,461,View.OnChangeScrollInfo
+2014-11-13 21:22:43,461,View.OnChangeScrollInfo
+2014-11-13 21:22:44,461,View.OnChangeScrollInfo
+2014-11-13 21:22:45,461,View.OnChangeScrollInfo
+2014-11-13 21:22:48,461,View.OnChangeScrollInfo
+2014-11-13 21:22:48,461,View.OnChangeCaretLine
+2014-11-13 21:22:49,461,View.OnChangeScrollInfo
+2014-11-13 21:22:50,461,View.OnChangeScrollInfo
+2014-11-13 21:22:51,461,View.OnChangeScrollInfo
+2014-11-13 21:22:56,461,View.OnChangeScrollInfo
+2014-11-13 21:23:00,461,View.OnChangeScrollInfo
+2014-11-13 21:23:05,461,View.OnChangeScrollInfo
+2014-11-13 21:23:09,461,View.OnChangeScrollInfo
+2014-11-13 21:23:53,461,View.VisualStudioBgOrFg
+2014-11-13 21:31:53,461,View.VisualStudioBgOrFg
+2014-11-13 21:43:55,461,View.OnChangeCaretLine
+2014-11-13 21:44:41,461,View.OnChangeScrollInfo
+2014-11-13 21:45:24,461,View.VisualStudioBgOrFg
+2014-11-13 21:48:23,461,View.OnChangeScrollInfo
+2014-11-13 21:48:24,461,View.OnChangeScrollInfo
+2014-11-13 21:48:26,461,View.OnChangeScrollInfo
+2014-11-13 21:48:27,461,View.OnChangeScrollInfo
+2014-11-13 21:48:28,461,View.OnChangeScrollInfo
+2014-11-13 21:49:37,461,View.OnChangeScrollInfo
+2014-11-13 21:49:54,461,View.VisualStudioBgOrFg
+2014-11-13 21:53:39,461,File.Exit
+2014-11-14 14:48:38,461,File.OpenProject
+2014-11-14 14:48:38,461,View.File
+2014-11-14 14:48:39,461,View.File
+2014-11-14 14:49:03,461,View.OnChangeScrollInfo
+2014-11-14 14:51:04,461,View.VisualStudioBgOrFg
+2014-11-14 14:51:24,461,View.OnChangeScrollInfo
+2014-11-14 14:51:38,461,View.OnChangeCaretLine
+2014-11-14 14:52:26,461,View.OnChangeScrollInfo
+2014-11-14 14:53:20,461,View.OnChangeScrollInfo
+2014-11-14 14:53:21,461,View.OnChangeScrollInfo
+2014-11-14 14:53:22,461,View.OnChangeScrollInfo
+2014-11-14 14:54:11,461,View.Solution Explorer
+2014-11-14 14:54:18,461,View.File
+2014-11-14 14:54:19,461,View.OnChangeCaretLine
+2014-11-14 14:55:04,461,View.OnChangeScrollInfo
+2014-11-14 14:55:05,461,View.OnChangeScrollInfo
+2014-11-14 14:55:06,461,View.OnChangeScrollInfo
+2014-11-14 14:55:07,461,View.OnChangeScrollInfo
+2014-11-14 14:55:08,461,View.OnChangeScrollInfo
+2014-11-14 14:56:19,461,View.OnChangeCaretLine
+2014-11-14 14:56:19,461,View.OnChangeScrollInfo
+2014-11-14 14:56:59,461,View.OnChangeScrollInfo
+2014-11-14 14:58:26,461,View.OnChangeCaretLine
+2014-11-14 14:58:28,461,View.OnChangeCaretLine
+2014-11-14 14:58:36,461,View.OnChangeScrollInfo
+2014-11-14 14:58:43,461,View.OnChangeScrollInfo
+2014-11-14 14:59:04,461,View.VisualStudioBgOrFg
+2014-11-14 14:59:07,461,View.OnChangeScrollInfo
+2014-11-14 14:59:11,461,View.OnChangeScrollInfo
+2014-11-14 14:59:16,461,View.OnChangeScrollInfo
+2014-11-14 14:59:20,461,View.OnChangeScrollInfo
+2014-11-14 14:59:26,461,View.OnChangeCaretLine
+2014-11-14 14:59:30,461,View.OnChangeScrollInfo
+2014-11-14 14:59:32,461,View.OnChangeScrollInfo
+2014-11-14 14:59:37,461,View.OnChangeScrollInfo
+2014-11-14 14:59:39,461,View.OnChangeCaretLine
+2014-11-14 14:59:41,461,View.OnChangeScrollInfo
+2014-11-14 15:18:35,461,View.OnChangeScrollInfo
+2014-11-14 15:18:36,461,View.OnChangeScrollInfo
+2014-11-14 15:18:37,461,View.OnChangeScrollInfo
+2014-11-14 15:18:38,461,View.OnChangeScrollInfo
+2014-11-14 15:18:39,461,View.OnChangeScrollInfo
+2014-11-14 15:19:18,461,View.OnChangeScrollInfo
+2014-11-14 15:19:36,461,View.OnChangeScrollInfo
+2014-11-14 15:19:37,461,View.OnChangeScrollInfo
+2014-11-14 15:19:38,461,View.OnChangeScrollInfo
+2014-11-14 15:19:39,461,View.OnChangeScrollInfo
+2014-11-14 15:19:42,461,View.OnChangeScrollInfo
+2014-11-14 15:19:43,461,View.OnChangeScrollInfo
+2014-11-14 15:20:35,461,View.VisualStudioBgOrFg
+2014-11-14 15:24:56,461,View.OnChangeScrollInfo
+2014-11-14 15:24:58,461,View.OnChangeCaretLine
+2014-11-14 15:25:27,461,View.OnChangeScrollInfo
+2014-11-14 15:25:28,461,View.OnChangeScrollInfo
+2014-11-14 15:25:29,461,View.OnChangeScrollInfo
+2014-11-14 15:25:33,461,View.OnChangeScrollInfo
+2014-11-14 15:26:35,461,View.VisualStudioBgOrFg
+2014-11-14 15:32:49,461,View.OnChangeCaretLine
+2014-11-14 15:33:35,461,View.VisualStudioBgOrFg
+2014-11-14 15:34:10,461,View.OnChangeCaretLine
+2014-11-14 15:35:03,461,View.OnChangeScrollInfo
+2014-11-14 15:35:07,461,View.OnChangeScrollInfo
+2014-11-14 15:35:11,461,View.OnChangeScrollInfo
+2014-11-14 15:35:33,461,View.OnChangeCaretLine
+2014-11-14 15:35:34,461,View.OnChangeScrollInfo
+2014-11-14 15:38:05,461,View.OnChangeScrollInfo
+2014-11-14 15:39:14,461,View.OnChangeCaretLine
+2014-11-14 15:39:42,461,View.OnChangeScrollInfo
+2014-11-14 15:39:43,461,View.OnChangeScrollInfo
+2014-11-14 15:39:44,461,View.OnChangeScrollInfo
+2014-11-14 15:39:46,461,View.OnChangeScrollInfo
+2014-11-14 15:39:47,461,View.OnChangeScrollInfo
+2014-11-14 15:40:05,461,View.OnChangeScrollInfo
+2014-11-14 15:41:59,461,View.OnChangeScrollInfo
+2014-11-14 15:43:50,461,View.OnChangeScrollInfo
+2014-11-14 15:47:48,461,View.OnChangeScrollInfo
+2014-11-14 15:54:05,461,View.OnChangeCaretLine
+2014-11-14 15:54:31,461,View.OnChangeScrollInfo
+2014-11-14 15:59:05,461,View.OnChangeCaretLine
+2014-11-14 15:59:18,461,View.OnChangeScrollInfo
+2014-11-14 15:59:28,461,View.OnChangeScrollInfo
+2014-11-14 15:59:52,461,View.OnChangeScrollInfo
+2014-11-14 15:59:55,461,View.OnChangeCaretLine
+2014-11-14 15:59:55,461,View.OnChangeScrollInfo
+2014-11-14 15:59:57,461,View.OnChangeScrollInfo
+2014-11-14 15:59:58,461,View.OnChangeScrollInfo
+2014-11-14 16:05:36,461,View.VisualStudioBgOrFg
+2014-11-14 16:10:24,461,View.OnChangeCaretLine
+2014-11-14 16:10:33,461,View.OnChangeScrollInfo
+2014-11-14 16:10:34,461,View.OnChangeScrollInfo
+2014-11-14 16:10:39,461,View.OnChangeScrollInfo
+2014-11-14 16:10:41,461,View.OnChangeScrollInfo
+2014-11-14 16:10:43,461,View.OnChangeScrollInfo
+2014-11-14 16:10:44,461,View.OnChangeScrollInfo
+2014-11-14 16:10:45,461,View.OnChangeScrollInfo
+2014-11-14 16:10:46,461,View.OnChangeScrollInfo
+2014-11-14 16:11:35,461,View.OnChangeScrollInfo
+2014-11-14 16:12:54,461,View.OnChangeCaretLine
+2014-11-14 16:25:37,461,View.VisualStudioBgOrFg
+2014-11-14 16:25:44,461,View.Solution Explorer
+2014-11-14 16:26:24,461,View.File
+2014-11-14 16:26:24,461,View.OnChangeScrollInfo
+2014-11-14 16:26:24,461,View.Solution Explorer
+2014-11-14 16:26:25,461,View.File
+2014-11-14 16:26:25,461,View.OnChangeCaretLine
+2014-11-14 16:26:37,461,View.VisualStudioBgOrFg
+2014-11-14 16:30:15,461,View.OnChangeCaretLine
+2014-11-14 16:30:15,461,View.OnChangeScrollInfo
+2014-11-14 16:30:19,461,View.OnChangeScrollInfo
+2014-11-14 16:31:14,461,View.OnChangeScrollInfo
+2014-11-14 16:31:31,461,View.OnChangeScrollInfo
+2014-11-14 16:31:36,461,View.OnChangeScrollInfo
+2014-11-14 16:31:45,461,View.OnChangeScrollInfo
+2014-11-14 16:31:52,461,View.OnChangeScrollInfo
+2014-11-14 16:31:53,461,View.OnChangeScrollInfo
+2014-11-14 16:34:02,461,View.OnChangeScrollInfo
+2014-11-14 16:34:22,461,View.OnChangeScrollInfo
+2014-11-14 16:34:25,461,View.Solution Explorer
+2014-11-14 16:34:28,461,View.File
+2014-11-14 16:34:29,461,View.OnChangeCaretLine
+2014-11-14 16:34:31,461,View.OnChangeScrollInfo
+2014-11-14 16:34:47,461,View.OnChangeScrollInfo
+2014-11-14 16:34:48,461,View.OnChangeScrollInfo
+2014-11-14 16:34:54,461,View.Solution Explorer
+2014-11-14 16:35:02,461,View.File
+2014-11-14 16:35:03,461,View.File
+2014-11-14 16:35:12,461,View.Solution Explorer
+2014-11-14 16:35:17,461,View.File
+2014-11-14 16:35:18,461,View.OnChangeScrollInfo
+2014-11-14 16:35:20,461,View.OnChangeScrollInfo
+2014-11-14 16:35:21,461,View.OnChangeScrollInfo
+2014-11-14 16:35:28,461,View.OnChangeScrollInfo
+2014-11-14 16:35:29,461,View.OnChangeScrollInfo
+2014-11-14 16:35:31,461,View.Solution Explorer
+2014-11-14 16:35:38,461,View.File
+2014-11-14 16:35:38,461,View.OnChangeScrollInfo
+2014-11-14 16:35:38,461,View.OnChangeCaretLine
+2014-11-14 16:35:55,461,View.OnChangeScrollInfo
+2014-11-14 16:35:56,461,View.OnChangeScrollInfo
+2014-11-14 16:35:58,461,View.OnChangeScrollInfo
+2014-11-14 16:36:01,461,View.Solution Explorer
+2014-11-14 16:36:07,461,View.File
+2014-11-14 16:36:08,461,View.OnChangeCaretLine
+2014-11-14 16:36:09,461,View.OnChangeScrollInfo
+2014-11-14 16:36:10,461,View.OnChangeScrollInfo
+2014-11-14 16:36:11,461,View.OnChangeScrollInfo
+2014-11-14 16:36:12,461,View.Solution Explorer
+2014-11-14 16:36:15,461,View.File
+2014-11-14 16:36:17,461,View.OnChangeCaretLine
+2014-11-14 16:36:20,461,View.OnChangeCaretLine
+2014-11-14 16:36:21,461,View.OnChangeScrollInfo
+2014-11-14 16:36:24,461,View.OnChangeCaretLine
+2014-11-14 16:36:27,461,View.OnChangeScrollInfo
+2014-11-14 16:36:37,461,View.VisualStudioBgOrFg
+2014-11-14 16:36:56,461,View.Solution Explorer
+2014-11-14 16:37:01,461,View.OnChangeCaretLine
+2014-11-14 16:37:01,461,View.File
+2014-11-14 16:37:03,461,View.OnChangeScrollInfo
+2014-11-14 16:37:09,461,View.OnChangeScrollInfo
+2014-11-14 16:37:16,461,View.OnChangeCaretLine
+2014-11-14 16:37:19,461,View.Solution Explorer
+2014-11-14 16:37:40,461,View.File
+2014-11-14 16:37:41,461,View.OnChangeCaretLine
+2014-11-14 16:37:44,461,View.OnChangeScrollInfo
+2014-11-14 16:37:58,461,View.Solution Explorer
+2014-11-14 16:37:59,461,View.File
+2014-11-14 16:38:00,461,View.OnChangeCaretLine
+2014-11-14 16:38:01,461,View.OnChangeScrollInfo
+2014-11-14 16:38:10,461,View.Solution Explorer
+2014-11-14 16:38:12,461,View.File
+2014-11-14 16:38:13,461,View.OnChangeCaretLine
+2014-11-14 16:38:19,461,View.Solution Explorer
+2014-11-14 16:38:28,461,View.File
+2014-11-14 16:38:55,461,View.Solution Explorer
+2014-11-14 16:39:09,461,View.File
+2014-11-14 16:39:09,461,View.OnChangeCaretLine
+2014-11-14 16:39:19,461,View.OnChangeScrollInfo
+2014-11-14 16:39:20,461,View.OnChangeScrollInfo
+2014-11-14 16:39:21,461,View.Solution Explorer
+2014-11-14 16:39:28,461,View.File
+2014-11-14 16:39:28,461,View.OnChangeCaretLine
+2014-11-14 16:39:30,461,View.OnChangeScrollInfo
+2014-11-14 16:39:31,461,View.OnChangeScrollInfo
+2014-11-14 16:39:32,461,View.OnChangeScrollInfo
+2014-11-14 16:39:33,461,View.OnChangeScrollInfo
+2014-11-14 16:39:34,461,View.OnChangeScrollInfo
+2014-11-14 16:39:35,461,View.Solution Explorer
+2014-11-14 16:39:38,461,View.File
+2014-11-14 16:39:39,461,View.OnChangeCaretLine
+2014-11-14 16:39:39,461,View.OnChangeScrollInfo
+2014-11-14 16:39:40,461,View.OnChangeScrollInfo
+2014-11-14 16:39:41,461,View.Solution Explorer
+2014-11-14 16:40:14,461,View.OnChangeCaretLine
+2014-11-14 16:40:14,461,View.File
+2014-11-14 16:40:37,461,View.VisualStudioBgOrFg
+2014-11-14 18:46:58,461,View.Code Navigation Window
+2014-11-14 18:47:00,461,View.Navigation History Window
+2014-11-14 18:47:04,461,View.Navigation History Window
+2014-11-14 18:47:27,461,View.VisualStudioBgOrFg
+2014-11-14 18:47:30,461,View.Navigation History Window
+2014-11-14 18:47:57,461,View.VisualStudioBgOrFg
+2014-11-14 18:57:34,461,View.Solution Explorer
+2014-11-14 18:57:54,461,View.File
+2014-11-14 19:00:39,461,View.OnChangeCaretLine
+2014-11-14 19:01:28,461,View.VisualStudioBgOrFg
+2014-11-14 19:59:31,461,View.VisualStudioBgOrFg
+2014-11-14 20:15:37,461,View.OnChangeScrollInfo
+2014-11-14 20:15:37,461,View.OnChangeCaretLine
+2014-11-14 20:15:50,461,View.Solution Explorer
+2014-11-14 20:15:54,461,View.File
+2014-11-14 20:18:36,461,View.OnChangeScrollInfo
+2014-11-14 20:18:36,461,View.OnChangeCaretLine
+2014-11-14 20:37:41,461,View.File
+2014-11-14 20:38:08,461,View.File
+2014-11-14 20:38:10,461,View.VisualStudioBgOrFg
+2014-11-14 20:38:40,461,View.VisualStudioBgOrFg
+2014-11-14 20:39:38,461,View.Solution Explorer
+2014-11-14 20:39:43,461,View.File
+2014-11-14 20:39:45,461,View.OnChangeCaretLine
+2014-11-14 20:42:40,461,View.VisualStudioBgOrFg
+2014-11-14 20:49:18,461,View.OnChangeScrollInfo
+2014-11-14 20:49:20,461,View.Solution Explorer
+2014-11-14 20:49:23,461,View.File
+2014-11-14 20:50:10,461,View.VisualStudioBgOrFg
+2014-11-14 21:07:11,461,View.VisualStudioBgOrFg
+2014-11-14 21:14:44,461,View.OnChangeScrollInfo
+2014-11-14 21:15:11,461,View.VisualStudioBgOrFg
+2014-11-14 21:16:21,461,View.OnChangeScrollInfo
+2014-11-14 21:16:33,461,View.OnChangeCaretLine
+2014-11-14 21:16:40,461,Edit.Copy
+2014-11-14 21:17:11,461,View.VisualStudioBgOrFg
+2014-11-14 21:26:41,461,View.VisualStudioBgOrFg
+2014-11-17 14:26:31,461,View.File
+2014-11-17 14:26:34,461,View.File
+2014-11-17 14:26:37,461,View.OnChangeCaretLine
+2014-11-17 14:26:38,461,View.OnChangeScrollInfo
+2014-11-17 14:26:41,461,View.Solution Explorer
+2014-11-17 14:26:54,461,View.OnChangeCaretLine
+2014-11-17 14:26:54,461,View.File
+2014-11-17 14:26:58,461,View.VisualStudioBgOrFg
+2014-11-17 14:28:28,461,View.VisualStudioBgOrFg
+2014-11-17 14:29:04,461,View.OnChangeScrollInfo
+2014-11-17 14:31:58,461,View.OnChangeCaretLine
+2014-11-17 14:32:59,461,View.VisualStudioBgOrFg
+2014-11-17 15:29:48,461,View.OnChangeCaretLine
+2014-11-17 15:29:49,461,View.OnChangeScrollInfo
+2014-11-17 15:34:18,461,View.OnChangeCaretLine
+2014-11-17 15:34:30,461,View.VisualStudioBgOrFg
+2014-11-17 15:44:01,461,View.VisualStudioBgOrFg
+2014-11-17 15:47:01,461,View.VisualStudioBgOrFg
+2014-11-17 15:52:30,461,View.Solution Explorer
+2014-11-17 15:52:36,461,View.OnChangeScrollInfo
+2014-11-17 15:53:21,461,View.OnChangeScrollInfo
+2014-11-17 15:53:21,461,View.File
+2014-11-17 15:53:45,461,View.OnChangeScrollInfo
+2014-11-17 15:53:46,461,View.OnChangeScrollInfo
+2014-11-17 15:53:54,461,View.OnChangeScrollInfo
+2014-11-17 15:53:55,461,View.OnChangeScrollInfo
+2014-11-17 15:54:08,461,View.OnChangeScrollInfo
+2014-11-17 15:54:09,461,View.OnChangeScrollInfo
+2014-11-17 15:54:10,461,View.OnChangeScrollInfo
+2014-11-17 15:54:12,461,View.OnChangeScrollInfo
+2014-11-17 15:54:13,461,View.OnChangeScrollInfo
+2014-11-17 15:54:14,461,View.OnChangeScrollInfo
+2014-11-17 15:54:15,461,View.OnChangeScrollInfo
+2014-11-17 15:54:20,461,View.OnChangeScrollInfo
+2014-11-17 15:54:21,461,View.OnChangeScrollInfo
+2014-11-17 15:54:22,461,View.OnChangeScrollInfo
+2014-11-17 15:54:23,461,View.OnChangeScrollInfo
+2014-11-17 15:54:24,461,View.OnChangeScrollInfo
+2014-11-17 15:54:34,461,View.OnChangeScrollInfo
+2014-11-17 15:54:35,461,View.OnChangeScrollInfo
+2014-11-17 15:54:36,461,View.OnChangeScrollInfo
+2014-11-17 15:54:37,461,View.OnChangeScrollInfo
+2014-11-17 15:54:38,461,View.OnChangeScrollInfo
+2014-11-17 15:54:39,461,View.OnChangeScrollInfo
+2014-11-17 15:54:40,461,View.OnChangeScrollInfo
+2014-11-17 15:54:41,461,View.OnChangeScrollInfo
+2014-11-17 15:54:43,461,View.OnChangeScrollInfo
+2014-11-17 15:54:44,461,View.OnChangeScrollInfo
+2014-11-17 15:55:15,461,View.OnChangeScrollInfo
+2014-11-17 15:55:17,461,View.OnChangeScrollInfo
+2014-11-17 15:55:18,461,View.OnChangeScrollInfo
+2014-11-17 15:55:20,461,View.OnChangeScrollInfo
+2014-11-17 15:55:24,461,View.OnChangeScrollInfo
+2014-11-17 15:55:27,461,View.OnChangeScrollInfo
+2014-11-17 15:55:28,461,View.Solution Explorer
+2014-11-17 15:55:34,461,View.Solution Explorer
+2014-11-17 15:55:34,461,View.File
+2014-11-17 15:55:37,461,View.File
+2014-11-17 15:55:37,461,View.OnChangeCaretLine
+2014-11-17 15:55:59,461,View.OnChangeScrollInfo
+2014-11-17 15:56:03,461,View.OnChangeScrollInfo
+2014-11-17 15:56:25,461,View.OnChangeScrollInfo
+2014-11-17 15:56:26,461,View.OnChangeScrollInfo
+2014-11-17 15:56:27,461,View.OnChangeScrollInfo
+2014-11-17 15:56:32,461,View.OnChangeScrollInfo
+2014-11-17 15:56:36,461,View.OnChangeScrollInfo
+2014-11-17 15:56:41,461,View.OnChangeScrollInfo
+2014-11-17 15:56:48,461,View.OnChangeScrollInfo
+2014-11-17 15:56:49,461,View.OnChangeScrollInfo
+2014-11-17 15:56:53,461,View.OnChangeCaretLine
+2014-11-17 15:56:55,461,View.OnChangeScrollInfo
+2014-11-17 15:57:00,461,View.Solution Explorer
+2014-11-17 15:57:12,461,View.File
+2014-11-17 15:57:14,461,View.OnChangeScrollInfo
+2014-11-17 15:57:14,461,View.OnChangeCaretLine
+2014-11-17 15:57:16,461,View.OnChangeScrollInfo
+2014-11-17 15:57:18,461,View.Solution Explorer
+2014-11-17 15:57:20,461,View.File
+2014-11-17 15:57:22,461,View.OnChangeCaretLine
+2014-11-17 15:57:25,461,View.Solution Explorer
+2014-11-17 15:57:38,461,View.File
+2014-11-17 15:57:38,461,View.Solution Explorer
+2014-11-17 15:57:42,461,View.File
+2014-11-17 15:57:58,461,View.Solution Explorer
+2014-11-17 15:58:14,461,View.OnChangeCaretLine
+2014-11-17 15:58:14,461,View.File
+2014-11-17 15:58:21,461,View.Solution Explorer
+2014-11-17 15:58:47,461,View.File
+2014-11-17 15:58:47,461,View.OnChangeScrollInfo
+2014-11-17 15:58:48,461,View.OnChangeCaretLine
+2014-11-17 15:58:57,461,View.File
+2014-11-17 15:58:59,461,View.File
+2014-11-17 15:59:02,461,View.File
+2014-11-17 15:59:03,461,View.File
+2014-11-17 15:59:05,461,View.File
+2014-11-17 15:59:06,461,View.File
+2014-11-17 15:59:08,461,View.OnChangeScrollInfo
+2014-11-17 15:59:08,461,View.File
+2014-11-17 15:59:09,461,View.OnChangeScrollInfo
+2014-11-17 15:59:09,461,View.File
+2014-11-17 15:59:13,461,View.Solution Explorer
+2014-11-17 15:59:15,461,View.File
+2014-11-17 15:59:17,461,View.Solution Explorer
+2014-11-17 15:59:21,461,View.File
+2014-11-17 15:59:22,461,View.File
+2014-11-17 15:59:26,461,View.File
+2014-11-17 15:59:28,461,View.File
+2014-11-17 15:59:31,461,View.File
+2014-11-17 15:59:32,461,View.File
+2014-11-17 15:59:33,461,View.File
+2014-11-17 15:59:35,461,View.File
+2014-11-17 15:59:36,461,View.File
+2014-11-17 15:59:39,461,View.File
+2014-11-17 15:59:43,461,View.File
+2014-11-17 15:59:47,461,View.File
+2014-11-17 15:59:50,461,View.File
+2014-11-17 15:59:54,461,View.OnChangeScrollInfo
+2014-11-17 15:59:57,461,View.File
+2014-11-17 15:59:58,461,View.OnChangeScrollInfo
+2014-11-17 16:00:03,461,View.File
+2014-11-17 16:00:05,461,View.Solution Explorer
+2014-11-17 16:00:09,461,View.File
+2014-11-17 16:00:40,461,Edit.FindAllReferences
+2014-11-17 16:00:40,461,View.Find Symbol Results
+2014-11-17 16:00:55,461,View.File
+2014-11-17 16:01:57,461,View.Solution Explorer
+2014-11-17 16:02:00,461,View.File
+2014-11-17 16:02:17,461,View.Solution Explorer
+2014-11-17 16:02:18,461,View.File
+2014-11-17 16:02:20,461,View.OnChangeCaretLine
+2014-11-17 16:02:39,461,View.OnChangeScrollInfo
+2014-11-17 16:02:41,461,View.OnChangeScrollInfo
+2014-11-17 16:02:55,461,View.OnChangeScrollInfo
+2014-11-17 16:02:56,461,View.File
+2014-11-17 16:07:01,461,View.VisualStudioBgOrFg
+2014-11-17 16:10:31,461,View.VisualStudioBgOrFg
+2014-11-17 16:11:01,461,View.VisualStudioBgOrFg
+2014-11-17 16:15:32,461,View.VisualStudioBgOrFg
+2014-11-17 16:19:29,461,Edit.FindAllReferences
+2014-11-17 16:19:29,461,View.Find Symbol Results
+2014-11-17 16:19:32,461,View.File
+2014-11-17 16:19:40,461,View.Package Manager Console
+2014-11-17 16:19:41,461,View.Find Symbol Results
+2014-11-17 16:19:43,461,View.File
+2014-11-17 16:19:44,461,View.Find Symbol Results
+2014-11-17 16:19:45,461,View.File
+2014-11-17 16:19:57,461,Edit.FindAllReferences
+2014-11-17 16:19:57,461,View.Find Symbol Results
+2014-11-17 16:19:59,461,View.File
+2014-11-17 16:20:01,461,View.Find Symbol Results
+2014-11-17 16:20:02,461,View.File
+2014-11-17 16:20:08,461,View.Find Symbol Results
+2014-11-17 16:20:09,461,View.File
+2014-11-17 16:21:02,461,View.VisualStudioBgOrFg
+2014-11-17 16:24:14,461,View.Find Symbol Results
+2014-11-17 16:24:14,461,Edit.FindAllReferences
+2014-11-17 16:24:35,461,View.File
+2014-11-17 16:27:31,461,View.Solution Explorer
+2014-11-17 16:27:41,461,View.Object Browser
+2014-11-17 16:31:02,461,View.VisualStudioBgOrFg
+2014-11-17 16:33:16,461,View.Solution Explorer
+2014-11-17 16:33:21,461,View.File
+2014-11-17 16:33:37,461,View.Object Browser
+2014-11-17 16:34:02,461,View.VisualStudioBgOrFg
+2014-11-17 16:34:32,461,View.VisualStudioBgOrFg
+2014-11-17 18:11:35,461,View.VisualStudioBgOrFg
+2014-11-17 18:19:25,461,View.Solution Explorer
+2014-11-17 18:19:30,461,View.File
+2014-11-17 18:19:56,461,View.File
+2014-11-17 18:19:57,461,View.File
+2014-11-17 18:19:58,461,View.Object Browser
+2014-11-17 18:20:04,461,View.File
+2014-11-17 18:20:06,461,View.File
+2014-11-17 18:20:21,461,View.Object Browser
+2014-11-17 18:20:35,461,View.Solution Explorer
+2014-11-17 18:20:39,461,View.Object Browser
+2014-11-17 18:21:05,461,View.File
+2014-11-17 18:21:10,461,View.File
+2014-11-17 18:21:11,461,View.Object Browser
+2014-11-17 18:22:06,461,View.File
+2014-11-17 18:22:25,461,View.Object Browser
+2014-11-17 18:22:32,461,View.File
+2014-11-17 18:22:53,461,View.Object Browser
+2014-11-17 18:25:35,461,View.VisualStudioBgOrFg
+2014-11-17 18:36:06,461,View.VisualStudioBgOrFg
+2014-11-17 18:58:36,461,View.VisualStudioBgOrFg
+2014-11-17 19:05:37,461,View.VisualStudioBgOrFg
+2014-11-17 19:24:50,461,View.Solution Explorer
+2014-11-17 19:25:18,461,View.Object Browser
+2014-11-17 19:28:07,461,View.VisualStudioBgOrFg
+2014-11-17 19:34:37,461,View.VisualStudioBgOrFg
+2014-11-17 19:37:07,461,View.VisualStudioBgOrFg
+2014-11-17 19:38:08,461,View.VisualStudioBgOrFg
+2014-11-17 19:39:38,461,View.VisualStudioBgOrFg
+2014-11-17 19:41:08,461,View.VisualStudioBgOrFg
+2014-11-17 19:45:38,461,View.VisualStudioBgOrFg
+2014-11-17 20:02:38,461,View.VisualStudioBgOrFg
+2014-11-17 20:22:39,461,View.VisualStudioBgOrFg
+2014-11-17 21:19:11,461,View.VisualStudioBgOrFg
+2014-11-17 21:24:11,461,View.VisualStudioBgOrFg
+2014-11-17 21:31:11,461,View.VisualStudioBgOrFg
+2014-11-17 21:38:41,461,View.VisualStudioBgOrFg
+2014-11-17 21:52:34,461,View.Solution Explorer
+2014-11-17 21:53:12,461,View.VisualStudioBgOrFg
+2014-11-18 02:37:35,461,View.File
+2014-11-18 02:37:38,461,View.File
+2014-11-18 02:37:39,461,View.Solution Explorer
+2014-11-18 02:37:45,461,View.Object Browser
+2014-11-18 02:38:02,461,View.VisualStudioBgOrFg
+2014-11-18 02:39:32,461,View.VisualStudioBgOrFg
+2014-11-18 03:21:32,461,View.VisualStudioBgOrFg
+2014-11-18 15:58:19,461,View.File
+2014-11-18 15:58:20,461,View.File
+2014-11-18 15:58:21,461,View.Object Browser
+2014-11-18 15:58:47,461,View.VisualStudioBgOrFg
+2014-11-18 16:01:47,461,View.VisualStudioBgOrFg
+2014-11-18 16:05:47,461,View.VisualStudioBgOrFg
+2014-11-18 16:11:47,461,View.VisualStudioBgOrFg
+2014-11-18 16:14:17,461,View.VisualStudioBgOrFg
+2014-11-18 16:22:18,461,View.VisualStudioBgOrFg
+2014-11-18 16:26:07,461,View.Solution Explorer
+2014-11-18 16:26:49,461,View.Object Browser
+2014-11-18 16:29:18,461,View.VisualStudioBgOrFg
+2014-11-18 16:30:18,461,View.VisualStudioBgOrFg
+2014-11-18 16:32:18,461,View.VisualStudioBgOrFg
+2014-11-18 16:37:18,461,View.VisualStudioBgOrFg
+2014-11-18 20:34:35,461,View.Notifications
+2014-11-18 20:34:55,461,View.VisualStudioBgOrFg
+2014-11-18 20:51:26,461,View.VisualStudioBgOrFg
+2014-11-18 21:05:56,461,View.VisualStudioBgOrFg
+2014-11-18 21:29:27,461,View.VisualStudioBgOrFg
+2014-11-18 22:08:14,461,File.Exit
+2014-11-19 14:02:48,461,View.File
+2014-11-19 14:02:51,461,View.OnChangeCaretLine
+2014-11-19 14:02:52,461,View.Solution Explorer
+2014-11-19 14:02:55,461,View.Object Browser
+2014-11-19 14:03:15,461,View.VisualStudioBgOrFg
+2014-11-19 14:03:24,461,View.Object Browser
+2014-11-19 14:10:45,461,View.VisualStudioBgOrFg
+2014-11-19 14:12:15,461,View.VisualStudioBgOrFg
+2014-11-19 14:13:07,461,View.Solution Explorer
+2014-11-19 14:13:20,461,View.Object Browser
+2014-11-19 14:18:15,461,View.VisualStudioBgOrFg
+2014-11-19 15:24:47,461,View.VisualStudioBgOrFg
+2014-11-19 15:26:17,461,View.VisualStudioBgOrFg
+2014-11-19 15:30:17,461,View.VisualStudioBgOrFg
+2014-11-19 15:37:48,461,View.VisualStudioBgOrFg
+2014-11-19 15:42:18,461,View.VisualStudioBgOrFg
+2014-11-19 15:57:48,461,View.VisualStudioBgOrFg
+2014-11-19 16:03:18,461,View.VisualStudioBgOrFg
+2014-11-19 16:05:38,461,View.Solution Explorer
+2014-11-19 16:05:48,461,View.File
+2014-11-19 16:06:10,461,View.Solution Explorer
+2014-11-19 16:06:20,461,View.Solution Explorer
+2014-11-19 16:06:20,461,View.File
+2014-11-19 16:06:25,461,View.OnChangeCaretLine
+2014-11-19 16:06:25,461,View.File
+2014-11-19 16:06:26,461,View.OnChangeCaretLine
+2014-11-19 16:06:27,461,View.OnChangeScrollInfo
+2014-11-19 16:06:28,461,View.OnChangeScrollInfo
+2014-11-19 16:06:30,461,View.Solution Explorer
+2014-11-19 16:06:38,461,View.File
+2014-11-19 16:06:43,461,View.File
+2014-11-19 16:06:44,461,View.Solution Explorer
+2014-11-19 16:06:46,461,View.File
+2014-11-19 16:06:54,461,View.File
+2014-11-19 16:07:03,461,View.Solution Explorer
+2014-11-19 16:07:34,461,View.File
+2014-11-19 16:07:34,461,View.OnChangeCaretLine
+2014-11-19 16:07:37,461,View.OnChangeScrollInfo
+2014-11-19 16:07:54,461,View.OnChangeScrollInfo
+2014-11-19 16:07:59,461,View.OnChangeScrollInfo
+2014-11-19 16:08:06,461,View.OnChangeScrollInfo
+2014-11-19 16:08:07,461,View.OnChangeScrollInfo
+2014-11-19 16:08:10,461,View.OnChangeScrollInfo
+2014-11-19 16:08:44,461,View.OnChangeCaretLine
+2014-11-19 16:08:45,461,View.OnChangeCaretLine
+2014-11-19 16:08:58,461,View.OnChangeScrollInfo
+2014-11-19 16:08:59,461,View.OnChangeScrollInfo
+2014-11-19 16:09:00,461,View.OnChangeScrollInfo
+2014-11-19 16:09:01,461,View.OnChangeScrollInfo
+2014-11-19 16:09:03,461,View.OnChangeScrollInfo
+2014-11-19 16:09:05,461,View.OnChangeScrollInfo
+2014-11-19 16:09:06,461,View.OnChangeScrollInfo
+2014-11-19 16:09:07,461,View.OnChangeScrollInfo
+2014-11-19 16:09:11,461,View.OnChangeScrollInfo
+2014-11-19 16:09:13,461,View.Solution Explorer
+2014-11-19 16:09:21,461,View.File
+2014-11-19 16:09:22,461,View.OnChangeCaretLine
+2014-11-19 16:09:29,461,View.OnChangeScrollInfo
+2014-11-19 16:09:30,461,View.OnChangeScrollInfo
+2014-11-19 16:09:31,461,View.Solution Explorer
+2014-11-19 16:09:37,461,View.File
+2014-11-19 16:09:38,461,View.Solution Explorer
+2014-11-19 16:09:39,461,View.File
+2014-11-19 16:12:49,461,View.VisualStudioBgOrFg
+2014-11-19 16:19:49,461,View.VisualStudioBgOrFg
+2014-11-19 16:26:24,461,View.File
+2014-11-19 16:26:25,461,View.File
+2014-11-19 16:26:26,461,View.File
+2014-11-19 16:26:29,461,View.File
+2014-11-19 16:26:30,461,View.File
+2014-11-19 16:26:32,461,View.File
+2014-11-19 16:26:34,461,View.Object Browser
+2014-11-19 16:26:35,461,View.OnChangeScrollInfo
+2014-11-19 16:26:35,461,View.File
+2014-11-19 16:26:36,461,View.Object Browser
+2014-11-19 16:26:38,461,View.File
+2014-11-19 16:26:38,461,View.OnChangeScrollInfo
+2014-11-19 16:26:40,461,View.Object Browser
+2014-11-19 16:28:19,461,View.VisualStudioBgOrFg
+2014-11-19 16:31:49,461,View.VisualStudioBgOrFg
+2014-11-19 16:35:00,461,View.Solution Explorer
+2014-11-19 16:36:23,461,Tools.ExtensionManager
+2014-11-19 16:36:23,461,Tools.ExtensionsandUpdates
+2014-11-19 16:36:26,461,View.Object Browser
+2014-11-19 16:37:20,461,View.VisualStudioBgOrFg
+2014-11-19 16:39:20,461,View.VisualStudioBgOrFg
+2014-11-19 16:46:50,461,View.VisualStudioBgOrFg
+2014-11-19 18:18:24,461,View.VisualStudioBgOrFg
+2014-11-19 18:23:24,461,View.VisualStudioBgOrFg
+2014-11-19 18:26:24,461,View.VisualStudioBgOrFg
+2014-11-19 18:30:24,461,View.VisualStudioBgOrFg
+2014-11-19 18:32:27,461,View.OnChangeCaretLine
+2014-11-19 18:32:27,461,View.NavigateBackward
+2014-11-19 18:32:27,461,View.File
+2014-11-19 18:32:28,461,View.Navigation History Window
+2014-11-19 18:32:30,461,View.Object Browser
+2014-11-19 18:42:54,461,View.VisualStudioBgOrFg
+2014-11-19 18:44:54,461,View.VisualStudioBgOrFg
+2014-11-19 18:53:25,461,View.VisualStudioBgOrFg
+2014-11-19 19:06:55,461,View.VisualStudioBgOrFg
+2014-11-19 19:13:55,461,View.VisualStudioBgOrFg
+2014-11-19 19:16:25,461,View.VisualStudioBgOrFg
+2014-11-19 19:20:56,461,View.VisualStudioBgOrFg
+2014-11-19 19:36:26,461,View.VisualStudioBgOrFg
+2014-11-19 19:38:26,461,View.VisualStudioBgOrFg
+2014-11-19 19:39:26,461,View.VisualStudioBgOrFg
+2014-11-19 19:41:26,461,View.VisualStudioBgOrFg
+2014-11-19 19:48:56,461,View.VisualStudioBgOrFg
+2014-11-19 19:53:57,461,View.VisualStudioBgOrFg
+2014-11-19 19:57:57,461,View.VisualStudioBgOrFg
+2014-11-19 20:00:27,461,View.VisualStudioBgOrFg
+2014-11-19 20:01:57,461,View.VisualStudioBgOrFg
+2014-11-19 20:04:27,461,View.VisualStudioBgOrFg
+2014-11-19 20:47:58,461,View.VisualStudioBgOrFg
+2014-11-19 20:49:58,461,View.VisualStudioBgOrFg
+2014-11-19 20:55:16,461,View.Solution Explorer
+2014-11-19 20:55:36,461,View.File
+2014-11-19 20:55:37,461,View.OnChangeCaretLine
+2014-11-19 20:56:15,461,View.OnChangeScrollInfo
+2014-11-19 20:56:21,461,View.OnChangeCaretLine
+2014-11-19 20:56:31,461,View.Object Browser
+2014-11-19 20:56:46,461,View.File
+2014-11-19 20:57:31,461,View.OnChangeScrollInfo
+2014-11-19 20:57:39,461,View.OnChangeScrollInfo
+2014-11-19 20:57:58,461,View.VisualStudioBgOrFg
+2014-11-19 21:00:52,461,View.OnChangeScrollInfo
+2014-11-19 21:00:53,461,View.OnChangeScrollInfo
+2014-11-19 21:00:54,461,View.OnChangeScrollInfo
+2014-11-19 21:00:58,461,View.OnChangeScrollInfo
+2014-11-19 21:00:59,461,View.OnChangeScrollInfo
+2014-11-19 21:01:00,461,View.OnChangeScrollInfo
+2014-11-19 21:01:02,461,View.OnChangeScrollInfo
+2014-11-19 21:01:03,461,View.OnChangeScrollInfo
+2014-11-19 21:01:04,461,View.OnChangeScrollInfo
+2014-11-19 21:01:07,461,View.OnChangeScrollInfo
+2014-11-19 21:01:59,461,View.VisualStudioBgOrFg
+2014-11-19 21:02:26,461,View.OnChangeCaretLine
+2014-11-19 21:02:43,461,View.OnChangeScrollInfo
+2014-11-19 21:03:33,461,View.OnChangeScrollInfo
+2014-11-19 21:04:01,461,View.OnChangeScrollInfo
+2014-11-19 21:04:04,461,View.OnChangeScrollInfo
+2014-11-19 21:04:18,461,View.OnChangeScrollInfo
+2014-11-19 21:04:29,461,View.VisualStudioBgOrFg
+2014-11-19 21:04:34,461,View.OnChangeCaretLine
+2014-11-19 21:06:40,461,View.OnChangeCaretLine
+2014-11-19 21:06:44,461,View.OnChangeScrollInfo
+2014-11-19 21:06:45,461,View.OnChangeScrollInfo
+2014-11-19 21:06:46,461,View.OnChangeScrollInfo
+2014-11-19 21:06:49,461,View.OnChangeScrollInfo
+2014-11-19 21:07:24,461,View.OnChangeScrollInfo
+2014-11-19 21:07:58,461,View.OnChangeScrollInfo
+2014-11-19 21:07:59,461,View.OnChangeScrollInfo
+2014-11-19 21:08:00,461,View.OnChangeScrollInfo
+2014-11-19 21:08:05,461,View.OnChangeScrollInfo
+2014-11-19 21:08:15,461,View.OnChangeScrollInfo
+2014-11-19 21:08:16,461,View.OnChangeScrollInfo
+2014-11-19 21:08:17,461,View.OnChangeScrollInfo
+2014-11-19 21:08:21,461,Edit.Find
+2014-11-19 21:08:27,461,View.OnChangeCaretLine
+2014-11-19 21:08:27,461,View.OnChangeScrollInfo
+2014-11-19 21:08:30,461,View.OnChangeCaretLine
+2014-11-19 21:08:34,461,View.OnChangeScrollInfo
+2014-11-19 21:10:59,461,View.VisualStudioBgOrFg
+2014-11-19 21:12:14,461,View.OnChangeCaretLine
+2014-11-19 21:12:29,461,View.OnChangeScrollInfo
+2014-11-19 21:12:34,461,View.OnChangeScrollInfo
+2014-11-19 21:12:36,461,View.OnChangeScrollInfo
+2014-11-19 21:12:38,461,View.OnChangeScrollInfo
+2014-11-19 21:12:39,461,View.OnChangeScrollInfo
+2014-11-19 21:12:52,461,View.OnChangeScrollInfo
+2014-11-19 21:12:59,461,View.VisualStudioBgOrFg
+2014-11-19 21:18:29,461,View.VisualStudioBgOrFg
+2014-11-19 21:32:25,461,View.OnChangeScrollInfo
+2014-11-19 21:32:38,461,View.OnChangeScrollInfo
+2014-11-19 21:32:39,461,View.OnChangeScrollInfo
+2014-11-19 21:32:40,461,View.OnChangeScrollInfo
+2014-11-19 21:32:42,461,View.OnChangeScrollInfo
+2014-11-19 21:32:45,461,View.Object Browser
+2014-11-19 21:37:00,461,View.VisualStudioBgOrFg
+2014-11-19 21:43:00,461,View.VisualStudioBgOrFg
+2014-11-19 21:44:30,461,View.VisualStudioBgOrFg
+2014-11-19 21:49:00,461,View.VisualStudioBgOrFg
+2014-11-19 22:19:27,461,File.Exit
+2014-11-20 14:04:01,461,View.File
+2014-11-20 14:04:12,461,View.File
+2014-11-20 14:04:28,461,View.VisualStudioBgOrFg
+2014-11-20 14:06:11,461,View.Object Browser
+2014-11-20 14:09:58,461,View.VisualStudioBgOrFg
+2014-11-20 14:16:28,461,View.VisualStudioBgOrFg
+2014-11-20 14:40:59,461,View.VisualStudioBgOrFg
+2014-11-20 14:52:59,461,View.VisualStudioBgOrFg
+2014-11-20 14:55:29,461,View.VisualStudioBgOrFg
+2014-11-20 14:57:59,461,View.VisualStudioBgOrFg
+2014-11-20 15:33:31,461,View.VisualStudioBgOrFg
+2014-11-20 15:37:31,461,View.VisualStudioBgOrFg
+2014-11-20 15:40:31,461,View.VisualStudioBgOrFg
+2014-11-20 15:45:01,461,View.VisualStudioBgOrFg
+2014-11-20 15:48:56,461,View.Code Navigation Window
+2014-11-20 15:48:57,461,View.Object Browser
+2014-11-20 15:49:31,461,View.VisualStudioBgOrFg
+2014-11-20 15:56:31,461,View.VisualStudioBgOrFg
+2014-11-20 16:10:54,461,View.Solution Explorer
+2014-11-20 16:11:18,461,View.Object Browser
+2014-11-20 16:25:32,461,View.VisualStudioBgOrFg
+2014-11-20 17:16:34,461,View.VisualStudioBgOrFg
+2014-11-20 18:14:35,461,View.VisualStudioBgOrFg
+2014-11-20 18:16:35,461,View.VisualStudioBgOrFg
+2014-11-20 18:21:06,461,View.VisualStudioBgOrFg
+2014-11-20 18:27:36,461,View.VisualStudioBgOrFg
+2014-11-20 18:30:06,461,View.Solution Explorer
+2014-11-20 18:30:15,461,View.File
+2014-11-20 18:30:20,461,View.OnChangeCaretLine
+2014-11-20 18:30:31,461,View.Solution Explorer
+2014-11-20 18:30:34,461,View.Object Browser
+2014-11-20 18:36:17,461,View.File
+2014-11-20 18:36:20,461,View.OnChangeCaretLine
+2014-11-20 18:36:30,461,View.OnChangeCaretLine
+2014-11-20 18:37:02,461,View.Object Browser
+2014-11-20 18:37:13,461,View.File
+2014-11-20 18:37:26,461,View.OnChangeCaretLine
+2014-11-20 18:37:49,461,View.OnChangeScrollInfo
+2014-11-20 18:38:12,461,View.OnChangeScrollInfo
+2014-11-20 18:38:20,461,View.Object Browser
+2014-11-20 18:38:31,461,View.File
+2014-11-20 18:38:37,461,View.OnChangeScrollInfo
+2014-11-20 18:38:52,461,View.OnChangeScrollInfo
+2014-11-20 18:38:54,461,View.OnChangeScrollInfo
+2014-11-20 18:38:55,461,View.OnChangeScrollInfo
+2014-11-20 18:38:56,461,View.OnChangeScrollInfo
+2014-11-20 18:39:18,461,View.OnChangeScrollInfo
+2014-11-20 18:39:24,461,View.Object Browser
+2014-11-20 18:39:29,461,View.File
+2014-11-20 18:39:47,461,View.OnChangeScrollInfo
+2014-11-20 18:40:48,461,View.OnChangeScrollInfo
+2014-11-20 18:40:49,461,View.OnChangeScrollInfo
+2014-11-20 18:40:53,461,View.OnChangeScrollInfo
+2014-11-20 18:40:54,461,View.OnChangeScrollInfo
+2014-11-20 18:40:55,461,View.OnChangeScrollInfo
+2014-11-20 18:40:59,461,View.OnChangeScrollInfo
+2014-11-20 18:41:14,461,View.OnChangeScrollInfo
+2014-11-20 18:42:06,461,View.VisualStudioBgOrFg
+2014-11-20 18:43:44,461,View.Object Browser
+2014-11-20 18:43:54,461,View.File
+2014-11-20 18:44:10,461,View.OnChangeScrollInfo
+2014-11-20 18:44:18,461,View.OnChangeCaretLine
+2014-11-20 18:44:23,461,View.OnChangeScrollInfo
+2014-11-20 18:44:32,461,View.OnChangeScrollInfo
+2014-11-20 18:44:33,461,View.OnChangeScrollInfo
+2014-11-20 18:44:35,461,View.OnChangeScrollInfo
+2014-11-20 18:44:36,461,View.OnChangeScrollInfo
+2014-11-20 18:44:37,461,View.OnChangeScrollInfo
+2014-11-20 18:44:44,461,View.OnChangeScrollInfo
+2014-11-20 18:45:08,461,View.OnChangeCaretLine
+2014-11-20 18:45:10,461,View.OnChangeScrollInfo
+2014-11-20 18:45:13,461,View.OnChangeScrollInfo
+2014-11-20 18:45:32,461,View.OnChangeCaretLine
+2014-11-20 18:50:15,461,View.OnChangeScrollInfo
+2014-11-20 18:50:22,461,View.OnChangeScrollInfo
+2014-11-20 18:51:37,461,View.VisualStudioBgOrFg
+2014-11-20 18:53:52,461,View.Object Browser
+2014-11-20 18:54:10,461,View.File
+2014-11-20 18:54:11,461,View.File
+2014-11-20 18:54:14,461,View.Object Browser
+2014-11-20 18:54:19,461,View.File
+2014-11-20 18:54:24,461,View.OnChangeScrollInfo
+2014-11-20 18:54:38,461,View.OnChangeScrollInfo
+2014-11-20 18:54:43,461,View.OnChangeScrollInfo
+2014-11-20 18:54:57,461,View.OnChangeCaretLine
+2014-11-20 18:55:01,461,View.OnChangeScrollInfo
+2014-11-20 18:55:03,461,View.OnChangeScrollInfo
+2014-11-20 18:56:06,461,View.OnChangeScrollInfo
+2014-11-20 18:57:11,461,View.OnChangeScrollInfo
+2014-11-20 18:57:12,461,View.OnChangeScrollInfo
+2014-11-20 18:57:13,461,View.OnChangeScrollInfo
+2014-11-20 18:57:20,461,View.OnChangeScrollInfo
+2014-11-20 18:57:44,461,View.OnChangeScrollInfo
+2014-11-20 18:57:47,461,View.OnChangeScrollInfo
+2014-11-20 18:57:52,461,View.OnChangeScrollInfo
+2014-11-20 18:57:53,461,View.OnChangeScrollInfo
+2014-11-20 18:57:57,461,View.OnChangeScrollInfo
+2014-11-20 18:58:07,461,View.VisualStudioBgOrFg
+2014-11-20 19:04:30,461,View.OnChangeScrollInfo
+2014-11-20 19:04:34,461,View.OnChangeScrollInfo
+2014-11-20 19:04:35,461,View.OnChangeScrollInfo
+2014-11-20 19:04:36,461,View.OnChangeScrollInfo
+2014-11-20 19:04:37,461,View.OnChangeScrollInfo
+2014-11-20 19:04:38,461,View.OnChangeScrollInfo
+2014-11-20 19:04:39,461,View.OnChangeScrollInfo
+2014-11-20 19:04:40,461,View.OnChangeScrollInfo
+2014-11-20 19:04:47,461,View.OnChangeCaretLine
+2014-11-20 19:04:49,461,View.OnChangeScrollInfo
+2014-11-20 19:05:03,461,View.OnChangeScrollInfo
+2014-11-20 19:05:04,461,View.OnChangeScrollInfo
+2014-11-20 19:05:05,461,View.OnChangeScrollInfo
+2014-11-20 19:05:07,461,View.OnChangeScrollInfo
+2014-11-20 19:05:08,461,View.OnChangeScrollInfo
+2014-11-20 19:05:09,461,View.OnChangeScrollInfo
+2014-11-20 19:05:10,461,View.OnChangeScrollInfo
+2014-11-20 19:05:16,461,View.OnChangeScrollInfo
+2014-11-20 19:05:19,461,View.OnChangeScrollInfo
+2014-11-20 19:05:21,461,View.OnChangeScrollInfo
+2014-11-20 19:05:22,461,View.OnChangeScrollInfo
+2014-11-20 19:05:25,461,View.OnChangeScrollInfo
+2014-11-20 19:05:28,461,View.OnChangeScrollInfo
+2014-11-20 19:05:30,461,View.OnChangeScrollInfo
+2014-11-20 19:05:32,461,View.OnChangeCaretLine
+2014-11-20 19:05:34,461,View.OnChangeScrollInfo
+2014-11-20 19:05:38,461,View.OnChangeScrollInfo
+2014-11-20 19:05:40,461,View.OnChangeScrollInfo
+2014-11-20 19:05:42,461,View.OnChangeScrollInfo
+2014-11-20 19:05:44,461,View.OnChangeScrollInfo
+2014-11-20 19:05:48,461,View.OnChangeScrollInfo
+2014-11-20 19:05:51,461,View.OnChangeScrollInfo
+2014-11-20 19:05:57,461,View.OnChangeScrollInfo
+2014-11-20 19:05:58,461,View.OnChangeScrollInfo
+2014-11-20 19:05:59,461,View.OnChangeScrollInfo
+2014-11-20 19:06:33,461,View.OnChangeScrollInfo
+2014-11-20 19:06:36,461,View.OnChangeScrollInfo
+2014-11-20 19:06:37,461,View.OnChangeScrollInfo
+2014-11-20 19:07:07,461,View.VisualStudioBgOrFg
+2014-11-20 19:14:01,461,View.OnChangeScrollInfo
+2014-11-20 19:14:34,461,View.OnChangeScrollInfo
+2014-11-20 19:14:49,461,View.OnChangeScrollInfo
+2014-11-20 19:14:57,461,View.OnChangeScrollInfo
+2014-11-20 19:14:58,461,View.OnChangeScrollInfo
+2014-11-20 19:14:59,461,View.OnChangeScrollInfo
+2014-11-20 19:15:00,461,View.OnChangeScrollInfo
+2014-11-20 19:15:02,461,View.OnChangeScrollInfo
+2014-11-20 19:15:04,461,View.OnChangeScrollInfo
+2014-11-20 19:16:03,461,View.OnChangeScrollInfo
+2014-11-20 19:16:10,461,View.OnChangeScrollInfo
+2014-11-20 19:16:11,461,View.OnChangeScrollInfo
+2014-11-20 19:16:20,461,View.OnChangeScrollInfo
+2014-11-20 19:16:21,461,View.OnChangeScrollInfo
+2014-11-20 19:16:22,461,View.OnChangeScrollInfo
+2014-11-20 19:16:32,461,View.OnChangeScrollInfo
+2014-11-20 19:16:34,461,View.OnChangeScrollInfo
+2014-11-20 19:16:43,461,View.OnChangeScrollInfo
+2014-11-20 19:16:49,461,View.OnChangeScrollInfo
+2014-11-20 19:16:50,461,View.OnChangeScrollInfo
+2014-11-20 19:16:51,461,View.OnChangeScrollInfo
+2014-11-20 19:16:53,461,View.OnChangeScrollInfo
+2014-11-20 19:17:04,461,View.OnChangeScrollInfo
+2014-11-20 19:17:05,461,View.OnChangeScrollInfo
+2014-11-20 19:18:29,461,View.OnChangeScrollInfo
+2014-11-20 19:18:33,461,View.OnChangeCaretLine
+2014-11-20 19:18:37,461,View.OnChangeScrollInfo
+2014-11-20 19:18:38,461,View.OnChangeScrollInfo
+2014-11-20 19:18:43,461,View.OnChangeScrollInfo
+2014-11-20 19:18:50,461,View.OnChangeScrollInfo
+2014-11-20 19:18:52,461,View.OnChangeScrollInfo
+2014-11-20 19:19:33,461,View.OnChangeScrollInfo
+2014-11-20 19:19:34,461,View.OnChangeScrollInfo
+2014-11-20 19:19:38,461,View.OnChangeScrollInfo
+2014-11-20 19:19:39,461,View.OnChangeScrollInfo
+2014-11-20 19:19:51,461,View.OnChangeScrollInfo
+2014-11-20 19:19:52,461,View.OnChangeScrollInfo
+2014-11-20 19:19:59,461,View.OnChangeScrollInfo
+2014-11-20 19:20:12,461,View.OnChangeScrollInfo
+2014-11-20 19:20:14,461,View.OnChangeScrollInfo
+2014-11-20 19:20:18,461,View.OnChangeScrollInfo
+2014-11-20 19:20:33,461,View.OnChangeScrollInfo
+2014-11-20 19:20:39,461,View.OnChangeScrollInfo
+2014-11-20 19:21:38,461,View.VisualStudioBgOrFg
+2014-11-20 19:23:36,461,View.OnChangeScrollInfo
+2014-11-20 19:23:40,461,View.OnChangeScrollInfo
+2014-11-20 19:23:42,461,View.OnChangeScrollInfo
+2014-11-20 19:23:44,461,View.OnChangeScrollInfo
+2014-11-20 19:23:46,461,View.OnChangeScrollInfo
+2014-11-20 19:23:57,461,View.OnChangeScrollInfo
+2014-11-20 19:24:38,461,View.VisualStudioBgOrFg
+2014-11-20 19:26:35,461,View.OnChangeCaretLine
+2014-11-20 19:27:08,461,View.VisualStudioBgOrFg
+2014-11-20 19:38:38,461,View.OnChangeCaretLine
+2014-11-20 19:38:44,461,View.OnChangeCaretLine
+2014-11-20 19:39:05,461,View.OnChangeScrollInfo
+2014-11-20 19:39:31,461,View.OnChangeScrollInfo
+2014-11-20 19:40:48,461,View.OnChangeScrollInfo
+2014-11-20 19:41:27,461,View.OnChangeScrollInfo
+2014-11-20 19:41:49,461,View.OnChangeScrollInfo
+2014-11-20 19:42:17,461,View.OnChangeScrollInfo
+2014-11-20 19:42:30,461,View.OnChangeScrollInfo
+2014-11-20 19:42:31,461,View.OnChangeScrollInfo
+2014-11-20 19:42:32,461,View.OnChangeScrollInfo
+2014-11-20 19:42:38,461,View.Object Browser
+2014-11-20 19:42:59,461,View.Solution Explorer
+2014-11-20 19:43:05,461,View.File
+2014-11-20 19:43:10,461,View.Solution Explorer
+2014-11-20 19:43:38,461,View.File
+2014-11-20 19:43:42,461,View.File
+2014-11-20 19:43:42,461,View.Solution Explorer
+2014-11-20 19:43:45,461,View.File
+2014-11-20 19:43:45,461,View.Solution Explorer
+2014-11-20 19:43:55,461,View.Solution Explorer
+2014-11-20 19:44:02,461,View.File
+2014-11-20 19:44:05,461,View.Solution Explorer
+2014-11-20 19:44:10,461,View.File
+2014-11-20 19:44:11,461,View.File
+2014-11-20 19:44:11,461,View.Solution Explorer
+2014-11-20 19:44:16,461,View.Solution Explorer
+2014-11-20 19:44:31,461,View.File
+2014-11-20 19:44:40,461,View.Solution Explorer
+2014-11-20 19:44:44,461,View.File
+2014-11-20 19:44:53,461,View.Solution Explorer
+2014-11-20 19:45:02,461,View.File
+2014-11-20 19:45:02,461,View.OnChangeScrollInfo
+2014-11-20 19:45:05,461,View.OnChangeScrollInfo
+2014-11-20 19:45:07,461,View.OnChangeScrollInfo
+2014-11-20 19:45:19,461,View.OnChangeScrollInfo
+2014-11-20 19:45:20,461,View.OnChangeScrollInfo
+2014-11-20 19:45:34,461,View.OnChangeScrollInfo
+2014-11-20 19:45:35,461,View.OnChangeScrollInfo
+2014-11-20 19:45:36,461,View.OnChangeScrollInfo
+2014-11-20 19:45:53,461,View.OnChangeScrollInfo
+2014-11-20 19:45:54,461,View.OnChangeScrollInfo
+2014-11-20 19:45:55,461,View.OnChangeScrollInfo
+2014-11-20 19:45:58,461,View.OnChangeCaretLine
+2014-11-20 19:46:00,461,View.OnChangeScrollInfo
+2014-11-20 19:46:01,461,View.OnChangeScrollInfo
+2014-11-20 19:46:03,461,View.OnChangeScrollInfo
+2014-11-20 19:46:04,461,View.Solution Explorer
+2014-11-20 19:46:10,461,View.OnChangeScrollInfo
+2014-11-20 19:46:10,461,View.OnChangeCaretLine
+2014-11-20 19:46:27,461,View.File
+2014-11-20 19:46:27,461,View.OnChangeScrollInfo
+2014-11-20 19:46:27,461,View.OnChangeCaretLine
+2014-11-20 19:46:29,461,View.Solution Explorer
+2014-11-20 19:46:30,461,View.File
+2014-11-20 19:46:31,461,View.Solution Explorer
+2014-11-20 19:46:33,461,View.OnChangeScrollInfo
+2014-11-20 19:46:34,461,View.OnChangeScrollInfo
+2014-11-20 19:46:36,461,View.OnChangeScrollInfo
+2014-11-20 19:46:36,461,View.File
+2014-11-20 19:46:37,461,View.OnChangeScrollInfo
+2014-11-20 19:46:38,461,View.OnChangeScrollInfo
+2014-11-20 19:46:39,461,View.OnChangeScrollInfo
+2014-11-20 19:46:41,461,View.Team Explorer
+2014-11-20 19:46:42,461,View.Solution Explorer
+2014-11-20 19:46:45,461,View.OnChangeScrollInfo
+2014-11-20 19:46:45,461,View.File
+2014-11-20 19:46:47,461,View.Solution Explorer
+2014-11-20 19:46:48,461,View.OnChangeScrollInfo
+2014-11-20 19:46:48,461,View.OnChangeCaretLine
+2014-11-20 19:46:53,461,View.File
+2014-11-20 19:46:53,461,View.OnChangeScrollInfo
+2014-11-20 19:46:53,461,View.OnChangeCaretLine
+2014-11-20 19:46:54,461,View.Solution Explorer
+2014-11-20 19:46:58,461,View.OnChangeCaretLine
+2014-11-20 19:46:58,461,View.File
+2014-11-20 19:47:02,461,View.Solution Explorer
+2014-11-20 19:47:07,461,View.File
+2014-11-20 19:47:14,461,View.Solution Explorer
+2014-11-20 19:47:20,461,View.File
+2014-11-20 19:47:27,461,View.Solution Explorer
+2014-11-20 19:47:43,461,View.File
+2014-11-20 19:47:43,461,View.OnChangeCaretLine
+2014-11-20 19:47:43,461,View.OnChangeScrollInfo
+2014-11-20 19:47:44,461,View.OnChangeScrollInfo
+2014-11-20 19:47:45,461,View.OnChangeScrollInfo
+2014-11-20 19:47:50,461,View.OnChangeScrollInfo
+2014-11-20 19:48:08,461,View.VisualStudioBgOrFg
+2014-11-20 19:48:15,461,View.Solution Explorer
+2014-11-20 19:48:19,461,View.File
+2014-11-20 19:48:19,461,View.OnChangeCaretLine
+2014-11-20 19:48:21,461,View.File
+2014-11-20 19:48:23,461,View.File
+2014-11-20 19:48:30,461,View.File
+2014-11-20 19:48:32,461,Window.CloseAllDocuments
+2014-11-20 19:48:33,461,View.Properties
+2014-11-20 19:48:34,461,View.Solution Explorer
+2014-11-20 19:48:45,461,View.Code Navigation Window
+2014-11-20 19:48:48,461,View.File
+2014-11-20 19:48:48,461,Tools.NavObjectClicked
+2014-11-20 19:48:48,461,View.OnChangeCaretLine
+2014-11-20 19:48:48,461,View.OnChangeScrollInfo
+2014-11-20 19:48:50,461,View.Code Navigation Window
+2014-11-20 19:49:08,461,View.File
+2014-11-20 19:49:09,461,View.Server Explorer
+2014-11-20 19:49:10,461,View.File
+2014-11-20 19:49:10,461,View.OnChangeCaretLine
+2014-11-20 19:49:12,461,View.Solution Explorer
+2014-11-20 19:49:17,461,View.File
+2014-11-20 19:49:20,461,View.Application
+2014-11-20 19:49:20,461,View.Solution Explorer
+2014-11-20 19:49:22,461,View.Solution Explorer
+2014-11-20 19:49:40,461,View.OnChangeCaretLine
+2014-11-20 19:49:40,461,View.File
+2014-11-20 19:49:44,461,View.OnChangeScrollInfo
+2014-11-20 19:49:47,461,View.Solution Explorer
+2014-11-20 19:50:12,461,View.OnChangeCaretLine
+2014-11-20 19:50:12,461,View.File
+2014-11-20 19:50:13,461,View.OnChangeScrollInfo
+2014-11-20 19:50:22,461,View.OnChangeScrollInfo
+2014-11-20 19:50:23,461,View.OnChangeScrollInfo
+2014-11-20 19:50:26,461,View.OnChangeScrollInfo
+2014-11-20 19:50:27,461,View.OnChangeScrollInfo
+2014-11-20 19:50:47,461,View.OnChangeScrollInfo
+2014-11-20 19:50:58,461,View.OnChangeScrollInfo
+2014-11-20 19:51:17,461,View.OnChangeScrollInfo
+2014-11-20 19:51:38,461,View.VisualStudioBgOrFg
+2014-11-20 19:53:20,461,View.OnChangeScrollInfo
+2014-11-20 19:53:36,461,View.OnChangeScrollInfo
+2014-11-20 19:53:44,461,View.OnChangeScrollInfo
+2014-11-20 19:53:49,461,View.OnChangeScrollInfo
+2014-11-20 19:53:54,461,View.OnChangeScrollInfo
+2014-11-20 19:53:55,461,View.OnChangeScrollInfo
+2014-11-20 19:53:56,461,View.OnChangeScrollInfo
+2014-11-20 19:53:57,461,View.OnChangeScrollInfo
+2014-11-20 19:54:09,461,View.OnChangeScrollInfo
+2014-11-20 19:54:20,461,View.OnChangeScrollInfo
+2014-11-20 19:54:24,461,View.OnChangeScrollInfo
+2014-11-20 19:54:25,461,View.OnChangeScrollInfo
+2014-11-20 19:54:29,461,View.OnChangeScrollInfo
+2014-11-20 19:54:30,461,View.OnChangeScrollInfo
+2014-11-20 19:54:32,461,View.OnChangeScrollInfo
+2014-11-20 19:54:43,461,View.OnChangeScrollInfo
+2014-11-20 19:54:44,461,View.OnChangeScrollInfo
+2014-11-20 19:55:02,461,View.OnChangeScrollInfo
+2014-11-20 19:55:23,461,View.OnChangeScrollInfo
+2014-11-20 19:55:24,461,View.OnChangeScrollInfo
+2014-11-20 19:55:25,461,View.OnChangeScrollInfo
+2014-11-20 19:55:26,461,View.Solution Explorer
+2014-11-20 19:55:33,461,View.OnChangeCaretLine
+2014-11-20 19:55:33,461,View.File
+2014-11-20 19:55:34,461,View.Solution Explorer
+2014-11-20 19:55:43,461,View.OnChangeCaretLine
+2014-11-20 19:55:43,461,View.OnChangeScrollInfo
+2014-11-20 19:55:47,461,View.File
+2014-11-20 19:55:47,461,View.OnChangeCaretLine
+2014-11-20 19:58:18,461,View.OnChangeScrollInfo
+2014-11-20 19:58:48,461,View.OnChangeScrollInfo
+2014-11-20 19:58:51,461,View.OnChangeScrollInfo
+2014-11-20 19:59:09,461,View.VisualStudioBgOrFg
+2014-11-20 19:59:11,461,View.OnChangeCaretLine
+2014-11-20 19:59:19,461,View.OnChangeScrollInfo
+2014-11-20 19:59:21,461,View.OnChangeScrollInfo
+2014-11-20 19:59:24,461,View.OnChangeScrollInfo
+2014-11-20 19:59:35,461,View.OnChangeCaretLine
+2014-11-20 19:59:38,461,View.OnChangeCaretLine
+2014-11-20 19:59:42,461,View.OnChangeCaretLine
+2014-11-20 19:59:54,461,View.OnChangeScrollInfo
+2014-11-20 20:00:09,461,View.OnChangeScrollInfo
+2014-11-20 20:00:14,461,View.OnChangeScrollInfo
+2014-11-20 20:00:20,461,View.OnChangeScrollInfo
+2014-11-20 20:00:26,461,View.OnChangeScrollInfo
+2014-11-20 20:00:31,461,View.OnChangeScrollInfo
+2014-11-20 20:00:33,461,View.OnChangeScrollInfo
+2014-11-20 20:00:36,461,View.OnChangeScrollInfo
+2014-11-20 20:00:38,461,View.OnChangeScrollInfo
+2014-11-20 20:00:39,461,View.OnChangeScrollInfo
+2014-11-20 20:00:40,461,View.OnChangeScrollInfo
+2014-11-20 20:00:41,461,View.OnChangeScrollInfo
+2014-11-20 20:00:42,461,View.OnChangeScrollInfo
+2014-11-20 20:00:43,461,View.OnChangeScrollInfo
+2014-11-20 20:00:44,461,View.OnChangeScrollInfo
+2014-11-20 20:00:50,461,View.OnChangeScrollInfo
+2014-11-20 20:01:01,461,View.OnChangeCaretLine
+2014-11-20 20:01:02,461,View.OnChangeScrollInfo
+2014-11-20 20:01:03,461,View.OnChangeScrollInfo
+2014-11-20 20:01:04,461,View.OnChangeScrollInfo
+2014-11-20 20:01:05,461,View.OnChangeScrollInfo
+2014-11-20 20:01:06,461,View.OnChangeScrollInfo
+2014-11-20 20:01:07,461,View.OnChangeScrollInfo
+2014-11-20 20:01:09,461,View.OnChangeScrollInfo
+2014-11-20 20:01:10,461,View.OnChangeScrollInfo
+2014-11-20 20:01:12,461,View.OnChangeScrollInfo
+2014-11-20 20:01:15,461,View.OnChangeScrollInfo
+2014-11-20 20:01:24,461,View.OnChangeScrollInfo
+2014-11-20 20:02:29,461,View.OnChangeScrollInfo
+2014-11-20 20:02:40,461,View.OnChangeScrollInfo
+2014-11-20 20:03:08,461,View.OnChangeScrollInfo
+2014-11-20 20:03:33,461,View.OnChangeScrollInfo
+2014-11-20 20:03:36,461,View.OnChangeScrollInfo
+2014-11-20 20:03:38,461,View.OnChangeScrollInfo
+2014-11-20 20:03:41,461,View.OnChangeScrollInfo
+2014-11-20 20:04:32,461,View.OnChangeCaretLine
+2014-11-20 20:04:34,461,View.OnChangeScrollInfo
+2014-11-20 20:04:42,461,View.OnChangeCaretLine
+2014-11-20 20:07:09,461,View.VisualStudioBgOrFg
+2014-11-20 20:11:08,461,View.OnChangeScrollInfo
+2014-11-20 20:11:10,461,View.OnChangeScrollInfo
+2014-11-20 20:11:11,461,View.OnChangeScrollInfo
+2014-11-20 20:11:12,461,View.OnChangeScrollInfo
+2014-11-20 20:11:13,461,View.OnChangeScrollInfo
+2014-11-20 20:11:14,461,View.OnChangeScrollInfo
+2014-11-20 20:11:15,461,View.OnChangeScrollInfo
+2014-11-20 20:11:16,461,View.OnChangeScrollInfo
+2014-11-20 20:11:17,461,View.OnChangeScrollInfo
+2014-11-20 20:11:18,461,View.OnChangeScrollInfo
+2014-11-20 20:11:23,461,View.OnChangeScrollInfo
+2014-11-20 20:11:25,461,View.OnChangeScrollInfo
+2014-11-20 20:11:26,461,View.OnChangeScrollInfo
+2014-11-20 20:11:27,461,View.OnChangeScrollInfo
+2014-11-20 20:11:30,461,View.OnChangeScrollInfo
+2014-11-20 20:11:47,461,View.OnChangeScrollInfo
+2014-11-20 20:12:04,461,View.OnChangeScrollInfo
+2014-11-20 20:12:12,461,View.OnChangeScrollInfo
+2014-11-20 20:12:16,461,View.OnChangeScrollInfo
+2014-11-20 20:12:19,461,View.OnChangeScrollInfo
+2014-11-20 20:12:25,461,View.OnChangeScrollInfo
+2014-11-20 20:12:32,461,View.OnChangeScrollInfo
+2014-11-20 20:12:34,461,View.OnChangeScrollInfo
+2014-11-20 20:12:49,461,View.OnChangeScrollInfo
+2014-11-20 20:12:51,461,View.OnChangeScrollInfo
+2014-11-20 20:12:52,461,View.OnChangeScrollInfo
+2014-11-20 20:13:22,461,View.OnChangeScrollInfo
+2014-11-20 20:14:02,461,View.OnChangeScrollInfo
+2014-11-20 20:14:11,461,View.OnChangeScrollInfo
+2014-11-20 20:14:12,461,View.OnChangeScrollInfo
+2014-11-20 20:14:13,461,View.OnChangeScrollInfo
+2014-11-20 20:15:09,461,View.VisualStudioBgOrFg
+2014-11-20 20:20:48,461,View.OnChangeScrollInfo
+2014-11-20 20:21:47,461,View.OnChangeScrollInfo
+2014-11-20 20:21:48,461,View.Solution Explorer
+2014-11-20 20:21:54,461,View.OnChangeScrollInfo
+2014-11-20 20:21:54,461,View.OnChangeCaretLine
+2014-11-20 20:21:56,461,View.OnChangeScrollInfo
+2014-11-20 20:21:56,461,View.OnChangeCaretLine
+2014-11-20 20:22:43,461,View.OnChangeCaretLine
+2014-11-20 20:22:43,461,View.File
+2014-11-20 20:22:51,461,View.OnChangeScrollInfo
+2014-11-20 20:22:52,461,View.OnChangeScrollInfo
+2014-11-20 20:22:53,461,View.OnChangeScrollInfo
+2014-11-20 20:22:54,461,View.OnChangeScrollInfo
+2014-11-20 20:22:57,461,View.OnChangeScrollInfo
+2014-11-20 20:22:58,461,View.OnChangeScrollInfo
+2014-11-20 20:23:04,461,View.OnChangeScrollInfo
+2014-11-20 20:23:05,461,View.OnChangeScrollInfo
+2014-11-20 20:23:06,461,View.OnChangeScrollInfo
+2014-11-20 20:23:07,461,View.OnChangeScrollInfo
+2014-11-20 20:23:39,461,View.VisualStudioBgOrFg
+2014-11-20 20:31:32,461,View.Solution Explorer
+2014-11-20 20:32:20,461,View.File
+2014-11-20 20:32:21,461,View.OnChangeCaretLine
+2014-11-20 20:32:22,461,View.OnChangeScrollInfo
+2014-11-20 20:32:24,461,View.OnChangeScrollInfo
+2014-11-20 20:32:25,461,View.OnChangeScrollInfo
+2014-11-20 20:32:26,461,View.OnChangeScrollInfo
+2014-11-20 20:32:28,461,View.OnChangeScrollInfo
+2014-11-20 20:32:33,461,View.Application
+2014-11-20 20:32:34,461,View.File
+2014-11-20 20:32:35,461,View.File
+2014-11-20 20:32:37,461,View.Solution Explorer
+2014-11-20 20:32:41,461,View.Object Browser
+2014-11-20 20:33:16,461,View.Solution Explorer
+2014-11-20 20:33:27,461,View.Object Browser
+2014-11-20 20:34:06,461,View.File
+2014-11-20 20:34:19,461,View.OnChangeScrollInfo
+2014-11-20 20:34:20,461,View.OnChangeScrollInfo
+2014-11-20 20:34:21,461,View.OnChangeScrollInfo
+2014-11-20 20:34:22,461,View.OnChangeScrollInfo
+2014-11-20 20:34:34,461,View.OnChangeScrollInfo
+2014-11-20 20:34:35,461,View.OnChangeScrollInfo
+2014-11-20 20:34:37,461,View.OnChangeScrollInfo
+2014-11-20 20:34:40,461,View.OnChangeScrollInfo
+2014-11-20 20:34:47,461,View.OnChangeScrollInfo
+2014-11-20 20:35:05,461,View.OnChangeScrollInfo
+2014-11-20 20:35:06,461,View.OnChangeScrollInfo
+2014-11-20 20:35:07,461,View.OnChangeScrollInfo
+2014-11-20 20:35:39,461,View.VisualStudioBgOrFg
+2014-11-20 20:36:17,461,View.OnChangeCaretLine
+2014-11-20 20:37:48,461,View.OnChangeScrollInfo
+2014-11-20 20:38:19,461,View.OnChangeScrollInfo
+2014-11-20 20:38:28,461,View.OnChangeScrollInfo
+2014-11-20 20:38:29,461,View.OnChangeCaretLine
+2014-11-20 20:38:38,461,View.Solution Explorer
+2014-11-20 20:38:54,461,View.File
+2014-11-20 20:39:01,461,View.OnChangeScrollInfo
+2014-11-20 20:39:34,461,View.OnChangeScrollInfo
+2014-11-20 20:41:54,461,View.OnChangeScrollInfo
+2014-11-20 20:43:59,461,View.OnChangeScrollInfo
+2014-11-20 20:45:56,461,View.OnChangeScrollInfo
+2014-11-20 20:46:50,461,View.OnChangeScrollInfo
+2014-11-20 20:48:21,461,View.OnChangeScrollInfo
+2014-11-20 20:48:33,461,View.OnChangeScrollInfo
+2014-11-20 20:49:08,461,View.OnChangeScrollInfo
+2014-11-20 20:49:27,461,View.OnChangeScrollInfo
+2014-11-20 20:49:29,461,View.OnChangeScrollInfo
+2014-11-20 20:49:30,461,View.OnChangeScrollInfo
+2014-11-20 20:49:31,461,View.OnChangeScrollInfo
+2014-11-20 20:49:32,461,View.OnChangeScrollInfo
+2014-11-20 20:49:34,461,View.OnChangeScrollInfo
+2014-11-20 20:49:35,461,View.OnChangeScrollInfo
+2014-11-20 20:49:45,461,View.OnChangeCaretLine
+2014-11-20 20:49:48,461,View.OnChangeScrollInfo
+2014-11-20 20:49:49,461,View.OnChangeScrollInfo
+2014-11-20 20:49:50,461,View.OnChangeScrollInfo
+2014-11-20 20:49:52,461,View.OnChangeScrollInfo
+2014-11-20 20:49:58,461,View.OnChangeScrollInfo
+2014-11-20 20:50:07,461,View.OnChangeScrollInfo
+2014-11-20 21:38:40,461,View.VisualStudioBgOrFg
+2014-11-20 21:53:24,461,View.Object Browser
+2014-11-20 21:53:24,461,File.Exit
+2014-11-21 03:29:00,461,View.File
+2014-11-21 03:29:00,461,View.OnChangeScrollInfo
+2014-11-21 03:29:01,461,View.OnChangeScrollInfo
+2014-11-21 03:29:04,461,View.OnChangeScrollInfo
+2014-11-21 03:29:04,461,View.OnChangeCaretLine
+2014-11-21 03:29:04,461,View.File
+2014-11-21 03:29:06,461,View.OnChangeScrollInfo
+2014-11-21 03:29:29,461,View.VisualStudioBgOrFg
+2014-11-21 03:29:40,461,View.OnChangeScrollInfo
+2014-11-21 03:29:42,461,View.Object Browser
+2014-11-21 03:56:11,461,View.Solution Explorer
+2014-11-21 03:56:23,461,View.OnChangeCaretLine
+2014-11-21 03:56:23,461,View.File
+2014-11-21 03:56:30,461,View.OnChangeScrollInfo
+2014-11-21 03:56:30,461,View.Solution Explorer
+2014-11-21 03:56:30,461,View.OnChangeCaretLine
+2014-11-21 03:56:35,461,View.File
+2014-11-21 03:56:37,461,View.Solution Explorer
+2014-11-21 03:57:17,461,View.Object Browser
+2014-11-21 04:08:14,461,File.Exit
+2014-11-21 14:55:36,461,View.File
+2014-11-21 14:55:44,461,View.File
+2014-11-21 14:56:04,461,View.VisualStudioBgOrFg
+2014-11-21 18:06:30,461,View.Object Browser
+2014-11-21 18:13:10,461,View.VisualStudioBgOrFg
+2014-11-21 18:43:41,461,View.VisualStudioBgOrFg
+2014-11-21 18:46:21,461,View.Solution Explorer
+2014-11-21 18:46:55,461,View.Object Browser
+2014-11-21 18:49:22,461,View.File
+2014-11-21 18:49:22,461,View.OnChangeCaretLine
+2014-11-21 18:49:22,461,View.OnChangeScrollInfo
+2014-11-21 18:49:23,461,View.Solution Explorer
+2014-11-21 18:49:24,461,View.OnChangeCaretLine
+2014-11-21 18:49:24,461,View.File
+2014-11-21 18:49:25,461,View.OnChangeScrollInfo
+2014-11-21 18:49:27,461,View.OnChangeScrollInfo
+2014-11-21 18:49:33,461,View.OnChangeScrollInfo
+2014-11-21 18:49:35,461,View.OnChangeScrollInfo
+2014-11-21 18:49:42,461,View.OnChangeScrollInfo
+2014-11-21 18:49:43,461,View.OnChangeScrollInfo
+2014-11-21 18:49:46,461,View.Object Browser
+2014-11-21 18:50:28,461,View.Solution Explorer
+2014-11-21 18:50:35,461,View.Object Browser
+2014-11-21 18:50:50,461,View.Solution Explorer
+2014-11-21 18:50:54,461,View.Object Browser
+2014-11-21 18:50:56,461,View.File
+2014-11-21 18:50:58,461,View.OnChangeCaretLine
+2014-11-21 18:51:02,461,View.OnChangeScrollInfo
+2014-11-21 18:51:03,461,View.OnChangeScrollInfo
+2014-11-21 18:51:05,461,View.OnChangeScrollInfo
+2014-11-21 18:51:06,461,View.OnChangeScrollInfo
+2014-11-21 18:51:09,461,View.OnChangeScrollInfo
+2014-11-21 18:51:11,461,View.OnChangeScrollInfo
+2014-11-21 18:51:13,461,View.OnChangeScrollInfo
+2014-11-21 18:51:15,461,View.OnChangeScrollInfo
+2014-11-21 18:51:22,461,View.OnChangeScrollInfo
+2014-11-21 18:51:26,461,View.OnChangeScrollInfo
+2014-11-21 18:51:40,461,View.OnChangeCaretLine
+2014-11-21 18:51:40,461,View.OnChangeScrollInfo
+2014-11-21 18:51:45,461,View.OnChangeCaretLine
+2014-11-21 18:51:50,461,View.OnChangeCaretLine
+2014-11-21 18:51:53,461,View.OnChangeScrollInfo
+2014-11-21 18:52:10,461,View.OnChangeCaretLine
+2014-11-21 18:52:15,461,View.OnChangeScrollInfo
+2014-11-21 18:52:17,461,View.OnChangeCaretLine
+2014-11-21 18:52:20,461,View.OnChangeCaretLine
+2014-11-21 18:52:28,461,View.OnChangeCaretLine
+2014-11-21 18:52:34,461,View.OnChangeScrollInfo
+2014-11-21 18:52:42,461,View.OnChangeScrollInfo
+2014-11-21 18:52:53,461,View.OnChangeCaretLine
+2014-11-21 18:53:13,461,Edit.FindAllReferences
+2014-11-21 18:53:13,461,View.Find Symbol Results
+2014-11-21 18:53:32,461,View.OnChangeCaretLine
+2014-11-21 18:53:32,461,View.OnChangeScrollInfo
+2014-11-21 18:53:32,461,View.File
+2014-11-21 18:53:53,461,View.OnChangeScrollInfo
+2014-11-21 18:53:55,461,View.OnChangeScrollInfo
+2014-11-21 18:53:57,461,View.OnChangeScrollInfo
+2014-11-21 18:54:00,461,View.OnChangeScrollInfo
+2014-11-21 18:54:02,461,View.OnChangeScrollInfo
+2014-11-21 18:54:08,461,View.OnChangeScrollInfo
+2014-11-21 18:54:08,461,View.OnChangeCaretLine
+2014-11-21 18:54:13,461,View.OnChangeScrollInfo
+2014-11-21 18:54:18,461,View.Object Browser
+2014-11-21 18:54:30,461,View.File
+2014-11-21 18:54:36,461,View.OnChangeScrollInfo
+2014-11-21 18:54:43,461,View.OnChangeScrollInfo
+2014-11-21 18:54:44,461,View.OnChangeScrollInfo
+2014-11-21 18:54:56,461,View.OnChangeScrollInfo
+2014-11-21 18:54:57,461,View.OnChangeScrollInfo
+2014-11-21 18:55:06,461,View.Solution Explorer
+2014-11-21 18:55:43,461,View.OnChangeCaretLine
+2014-11-21 18:55:43,461,View.File
+2014-11-21 18:55:44,461,View.OnChangeScrollInfo
+2014-11-21 18:55:50,461,View.Object Browser
+2014-11-21 18:57:01,461,View.Find and Replace
+2014-11-21 18:57:01,461,Edit.Find
+2014-11-21 18:57:06,461,View.Object Browser
+2014-11-21 18:58:41,461,View.VisualStudioBgOrFg
+2014-11-21 19:01:50,461,View.Solution Explorer
+2014-11-21 19:03:30,461,View.Object Browser
+2014-11-21 19:07:11,461,View.VisualStudioBgOrFg
+2014-11-21 19:10:09,461,View.Package Manager Console
+2014-11-21 19:10:11,461,View.Error List
+2014-11-21 19:10:17,461,View.Object Browser
+2014-11-21 19:20:42,461,View.VisualStudioBgOrFg
+2014-11-21 19:39:45,461,File.Exit
+2014-11-23 19:20:10,461,View.File
+2014-11-23 19:20:12,461,View.File
+2014-11-23 19:20:37,461,View.VisualStudioBgOrFg
+2014-11-23 19:21:28,461,View.Solution Explorer
+2014-11-23 19:21:30,461,Debug.Start
+2014-11-23 19:21:30,461,Build.BuildBegin
+2014-11-23 19:21:31,461,Build.BuildDone
+2014-11-23 19:21:44,461,Build.RebuildSolution
+2014-11-23 19:21:44,461,Build.BuildBegin
+2014-11-23 19:21:44,461,Build.BuildDone
+2014-11-23 19:22:23,461,Build.BuildBegin
+2014-11-23 19:22:23,461,ClassViewContextMenus.ClassViewProject.Rebuild
+2014-11-23 19:22:23,461,Build.BuildDone
+2014-11-23 19:23:07,461,View.VisualStudioBgOrFg
+2014-11-23 19:24:07,461,View.VisualStudioBgOrFg
+2014-11-23 19:24:36,461,ProjectandSolutionContextMenus.Project.Add.AddReference
+2014-11-23 19:25:06,461,ProjectandSolutionContextMenus.Project.OpenFolderinFileExplorer
+2014-11-23 19:25:07,461,View.VisualStudioBgOrFg
+2014-11-23 19:25:40,461,File.NewProject
+2014-11-23 19:25:40,461,View.File
+2014-11-23 19:25:42,461,View.Solution Explorer
+2014-11-23 19:26:46,461,File.OpenProject
+2014-11-23 19:26:54,461,View.Properties
+2014-11-23 19:26:55,461,View.Solution Explorer
+2014-11-23 19:26:56,461,View.Team Explorer
+2014-11-23 19:26:57,461,View.Notifications
+2014-11-23 19:26:59,461,View.Code Navigation Window
+2014-11-23 19:27:01,461,View.Server Explorer
+2014-11-23 19:27:06,461,View.File
+2014-11-23 19:27:06,461,View.Toolbox
+2014-11-23 19:27:06,461,View.OnChangeCaretLine
+2014-11-23 19:27:19,461,File.OpenFile
+2014-11-23 19:27:25,461,View.Navigation History Window
+2014-11-23 19:27:25,461,File.CloseSolution
+2014-11-23 19:28:04,461,File.OpenProject
+2014-11-23 19:28:07,461,View.Object Browser
+2014-11-23 19:29:06,461,File.AddNewProject
+2014-11-23 19:29:06,461,View.File
+2014-11-23 19:29:08,461,View.Solution Explorer
+2014-11-23 19:31:04,461,Edit.Delete
+2014-11-23 19:32:14,461,View.File
+2014-11-23 19:32:15,461,ClassViewContextMenus.ClassViewProject.View.ViewClassDiagram
+2014-11-23 19:32:15,461,ProjectandSolutionContextMenus.Project.ViewClassDiagram
+2014-11-23 19:32:38,461,View.ObjectBrowser
+2014-11-23 19:32:38,461,View.Object Browser
+2014-11-23 19:35:23,461,View.Solution Explorer
+2014-11-23 19:35:27,461,Build.BuildBegin
+2014-11-23 19:35:27,461,Build.RebuildSolution
+2014-11-23 19:35:28,461,View.Error List
+2014-11-23 19:35:28,461,Build.BuildDone
+2014-11-23 19:35:31,461,View.Object Browser
+2014-11-23 19:35:38,461,View.Solution Explorer
+2014-11-23 19:35:46,461,Edit.Delete
+2014-11-23 19:36:07,461,View.VisualStudioBgOrFg
+2014-11-23 19:36:52,461,File.Rename
+2014-11-23 19:37:39,461,View.Object Browser
+2014-11-23 19:43:37,461,View.Solution Explorer
+2014-11-23 19:43:49,461,View.Object Browser
+2014-11-23 19:43:53,461,View.Solution Explorer
+2014-11-23 19:43:58,461,View.File
+2014-11-23 19:44:02,461,View.Solution Explorer
+2014-11-23 19:44:07,461,View.Object Browser
+2014-11-23 19:44:14,461,View.Solution Explorer
+2014-11-23 19:44:58,461,View.Object Browser
+2014-11-23 19:45:03,461,View.File
+2014-11-23 19:45:05,461,View.Solution Explorer
+2014-11-23 19:45:16,461,View.Object Browser
+2014-11-23 19:45:16,461,View.ObjectBrowser
+2014-11-23 19:45:28,461,View.Solution Explorer
+2014-11-23 19:45:31,461,View.File
+2014-11-23 19:45:32,461,View.Solution Explorer
+2014-11-23 19:45:40,461,View.OpenWith
+2014-11-23 19:45:45,461,ProjectandSolutionContextMenus.Project.ViewClassDiagram
+2014-11-23 19:45:45,461,View.File
+2014-11-23 19:45:45,461,ClassViewContextMenus.ClassViewProject.View.ViewClassDiagram
+2014-11-23 19:46:03,461,View.Solution Explorer
+2014-11-23 19:46:05,461,View.File
+2014-11-23 19:46:11,461,View.OnChangeCaretLine
+2014-11-23 19:46:31,461,View.Solution Explorer
+2014-11-23 19:46:34,461,View.File
+2014-11-23 19:46:36,461,View.Solution Explorer
+2014-11-23 19:46:37,461,View.File
+2014-11-23 19:46:39,461,View.Solution Explorer
+2014-11-23 19:46:40,461,View.File
+2014-11-23 19:46:52,461,View.Object Browser
+2014-11-23 19:47:02,461,View.Solution Explorer
+2014-11-23 19:47:14,461,View.File
+2014-11-23 19:47:15,461,View.OnChangeCaretLine
+2014-11-23 19:48:47,461,View.OnChangeScrollInfo
+2014-11-23 19:48:52,461,View.OnChangeScrollInfo
+2014-11-23 19:49:24,461,View.OnChangeScrollInfo
+2014-11-23 19:49:35,461,View.OnChangeScrollInfo
+2014-11-23 19:49:36,461,View.OnChangeScrollInfo
+2014-11-23 19:49:38,461,View.OnChangeScrollInfo
+2014-11-23 19:49:39,461,View.OnChangeScrollInfo
+2014-11-23 19:49:40,461,View.OnChangeScrollInfo
+2014-11-23 19:49:47,461,View.OnChangeScrollInfo
+2014-11-23 19:49:49,461,View.OnChangeScrollInfo
+2014-11-23 19:49:51,461,View.OnChangeScrollInfo
+2014-11-23 19:49:52,461,View.OnChangeScrollInfo
+2014-11-23 19:50:00,461,View.OnChangeScrollInfo
+2014-11-23 19:50:15,461,View.OnChangeScrollInfo
+2014-11-23 19:51:08,461,View.OnChangeScrollInfo
+2014-11-23 19:53:27,461,View.OnChangeScrollInfo
+2014-11-23 19:53:28,461,View.OnChangeScrollInfo
+2014-11-23 19:53:31,461,View.OnChangeScrollInfo
+2014-11-23 19:53:32,461,View.OnChangeScrollInfo
+2014-11-23 19:53:33,461,View.OnChangeScrollInfo
+2014-11-23 19:53:40,461,View.OnChangeScrollInfo
+2014-11-23 19:53:41,461,View.OnChangeScrollInfo
+2014-11-23 19:53:42,461,View.OnChangeScrollInfo
+2014-11-23 19:53:46,461,View.OnChangeScrollInfo
+2014-11-23 19:53:47,461,View.OnChangeScrollInfo
+2014-11-23 19:54:06,461,View.OnChangeScrollInfo
+2014-11-23 19:54:09,461,View.OnChangeScrollInfo
+2014-11-23 19:54:15,461,View.OnChangeScrollInfo
+2014-11-23 19:54:22,461,View.OnChangeScrollInfo
+2014-11-23 19:54:25,461,View.OnChangeScrollInfo
+2014-11-23 19:54:42,461,View.OnChangeScrollInfo
+2014-11-23 19:56:08,461,View.VisualStudioBgOrFg
+2014-11-23 19:57:00,461,View.Solution Explorer
+2014-11-23 19:57:04,461,View.File
+2014-11-23 19:57:05,461,View.Solution Explorer
+2014-11-23 19:57:05,461,View.File
+2014-11-23 19:57:06,461,View.Solution Explorer
+2014-11-23 19:57:07,461,View.OnChangeCaretLine
+2014-11-23 19:57:07,461,View.File
+2014-11-23 19:58:10,461,View.OnChangeScrollInfo
+2014-11-23 20:00:48,461,View.OnChangeScrollInfo
+2014-11-23 20:00:53,461,View.OnChangeScrollInfo
+2014-11-23 20:00:54,461,View.Solution Explorer
+2014-11-23 20:02:17,461,View.File
+2014-11-23 20:02:17,461,View.OnChangeCaretLine
+2014-11-23 20:02:17,461,View.OnChangeScrollInfo
+2014-11-23 20:02:18,461,View.OnChangeScrollInfo
+2014-11-23 20:02:23,461,View.Solution Explorer
+2014-11-23 20:02:29,461,View.OnChangeCaretLine
+2014-11-23 20:02:29,461,View.File
+2014-11-23 20:02:36,461,View.Solution Explorer
+2014-11-23 20:02:44,461,View.File
+2014-11-23 20:02:45,461,View.OnChangeCaretLine
+2014-11-23 20:03:21,461,View.Solution Explorer
+2014-11-23 20:03:23,461,View.File
+2014-11-23 20:03:25,461,View.OnChangeCaretLine
+2014-11-23 20:03:34,461,View.Solution Explorer
+2014-11-23 20:03:36,461,View.File
+2014-11-23 20:03:41,461,View.Solution Explorer
+2014-11-23 20:03:55,461,View.File
+2014-11-23 20:03:55,461,View.OnChangeCaretLine
+2014-11-23 20:04:07,461,View.OnChangeScrollInfo
+2014-11-23 20:04:14,461,View.OnChangeScrollInfo
+2014-11-23 20:04:20,461,View.OnChangeScrollInfo
+2014-11-23 20:04:32,461,View.OnChangeCaretLine
+2014-11-23 20:04:34,461,View.Solution Explorer
+2014-11-23 20:04:44,461,View.OnChangeScrollInfo
+2014-11-23 20:04:48,461,View.OnChangeCaretLine
+2014-11-23 20:04:48,461,View.File
+2014-11-23 20:05:12,461,View.OnChangeScrollInfo
+2014-11-23 20:05:13,461,View.OnChangeScrollInfo
+2014-11-23 20:05:14,461,View.OnChangeScrollInfo
+2014-11-23 20:05:15,461,View.OnChangeScrollInfo
+2014-11-23 20:05:16,461,View.OnChangeScrollInfo
+2014-11-23 20:16:54,461,View.OnChangeScrollInfo
+2014-11-23 20:17:01,461,File.Exit
+2014-11-23 20:17:01,461,View.Object Browser
+2014-11-23 20:23:23,461,View.VisualStudioBgOrFg
+2014-11-23 20:23:53,461,File.OpenProject
+2014-11-23 20:23:53,461,View.File
+2014-11-23 20:24:02,461,View.File
+2014-11-23 20:24:27,461,View.File
+2014-11-23 20:24:32,461,View.Solution Explorer
+2014-11-23 20:24:37,461,View.File
+2014-11-23 20:24:38,461,View.OnChangeCaretLine
+2014-11-23 20:24:53,461,View.VisualStudioBgOrFg
+2014-11-23 20:28:53,461,View.VisualStudioBgOrFg
+2014-11-23 20:33:53,461,View.VisualStudioBgOrFg
+2014-11-26 02:22:34,461,View.Code Navigation Window
+2014-11-26 02:22:34,461,View.Navigation History Window
+2014-11-26 02:22:38,461,View.Navigation History Window
+2014-11-26 02:22:43,461,View.Navigation History Window
+2014-11-26 02:22:45,461,View.Solution Explorer
+2014-11-26 02:22:50,461,View.File
+2014-11-26 02:23:04,461,View.VisualStudioBgOrFg
+2014-11-26 02:23:48,461,View.OnChangeCaretLine
+2014-11-26 02:23:57,461,View.Solution Explorer
+2014-11-26 02:24:03,461,View.Object Browser
+2014-11-26 02:24:03,461,View.ObjectBrowser
+2014-11-26 02:24:13,461,View.Solution Explorer
+2014-11-26 02:24:18,461,View.File
+2014-11-26 02:24:19,461,View.Object Browser
+2014-11-26 02:24:20,461,ClassViewContextMenus.ClassViewProject.Rebuild
+2014-11-26 02:24:20,461,Build.BuildBegin
+2014-11-26 02:24:24,461,View.Solution Explorer
+2014-11-26 02:24:29,461,View.Error List
+2014-11-26 02:24:29,461,Build.BuildDone
+2014-11-26 02:24:32,461,View.Solution Explorer
+2014-11-26 02:24:35,461,View.File
+2014-11-26 02:24:36,461,View.Object Browser
+2014-11-26 02:24:38,461,View.Error List
+2014-11-26 02:24:39,461,View.File
+2014-11-26 02:24:39,461,ClassViewContextMenus.ClassViewProject.Rebuild
+2014-11-26 02:24:39,461,Build.BuildBegin
+2014-11-26 02:24:40,461,View.Solution Explorer
+2014-11-26 02:24:40,461,Build.BuildDone
+2014-11-26 02:24:40,461,View.Error List
+2014-11-26 02:24:43,461,View.File
+2014-11-26 02:24:45,461,View.Solution Explorer
+2014-11-26 02:24:49,461,View.File
+2014-11-26 02:24:54,461,Build.BuildBegin
+2014-11-26 02:24:54,461,ClassViewContextMenus.ClassViewProject.Rebuild
+2014-11-26 02:24:54,461,View.File
+2014-11-26 02:24:55,461,Build.BuildDone
+2014-11-26 02:24:55,461,View.Error List
+2014-11-26 02:24:59,461,View.File
+2014-11-26 02:25:00,461,View.Solution Explorer
+2014-11-26 02:25:02,461,View.File
+2014-11-26 02:25:04,461,Build.BuildBegin
+2014-11-26 02:25:04,461,ClassViewContextMenus.ClassViewProject.Rebuild
+2014-11-26 02:25:04,461,View.File
+2014-11-26 02:25:05,461,View.Error List
+2014-11-26 02:25:05,461,Build.BuildDone
+2014-11-26 02:25:12,461,View.Solution Explorer
+2014-11-26 02:25:20,461,View.File
+2014-11-26 02:25:21,461,View.OnChangeCaretLine
+2014-11-26 02:25:44,461,View.Solution Explorer
+2014-11-26 02:25:53,461,View.File
+2014-11-26 02:25:55,461,View.Solution Explorer
+2014-11-26 02:25:56,461,View.File
+2014-11-26 02:25:58,461,View.File
+2014-11-26 02:25:58,461,View.Solution Explorer
+2014-11-26 02:26:00,461,View.Solution Explorer
+2014-11-26 02:26:04,461,View.VisualStudioBgOrFg
+2014-11-26 02:26:08,461,View.File
+2014-11-26 02:26:09,461,View.OnChangeCaretLine
+2014-11-26 02:26:12,461,View.Solution Explorer
+2014-11-26 02:26:25,461,View.File
+2014-11-26 02:26:28,461,View.OnChangeScrollInfo
+2014-11-26 02:26:29,461,View.OnChangeScrollInfo
+2014-11-26 02:26:34,461,View.File
+2014-11-26 02:26:36,461,View.Start Page
+2014-11-26 02:26:37,461,View.File
+2014-11-26 02:26:38,461,View.File
+2014-11-26 02:26:41,461,View.Object Browser
+2014-11-26 02:27:54,461,View.Solution Explorer
+2014-11-26 02:28:03,461,View.File
+2014-11-26 02:28:43,461,View.Solution Explorer
+2014-11-26 02:28:52,461,View.File
+2014-11-26 02:28:58,461,View.Solution Explorer
+2014-11-26 02:29:01,461,View.File
+2014-11-26 02:29:03,461,View.Solution Explorer
+2014-11-26 02:29:03,461,View.File
+2014-11-26 02:29:06,461,View.Solution Explorer
+2014-11-26 02:29:06,461,View.File
+2014-11-26 02:29:10,461,View.OnChangeCaretLine
+2014-11-26 02:29:16,461,View.Object Browser
+2014-11-26 02:29:42,461,View.Solution Explorer
+2014-11-26 02:29:49,461,View.Object Browser
+2014-11-26 02:35:34,461,View.VisualStudioBgOrFg
+2014-11-26 02:42:04,461,View.VisualStudioBgOrFg
+2014-11-26 03:15:05,461,View.VisualStudioBgOrFg
+2014-11-26 13:52:27,461,View.Error List
+2014-11-26 13:52:28,461,File.Exit
+2014-11-28 02:52:45,461,View.VisualStudioBgOrFg
+2014-11-28 03:00:11,461,View.Navigation History Window
+2014-11-28 03:00:14,461,View.Object Browser
+2014-11-28 03:00:38,461,View.Solution Explorer
+2014-11-28 03:00:48,461,Build.RebuildSolution
+2014-11-28 03:00:49,461,Build.BuildBegin
+2014-11-28 03:00:50,461,Build.BuildDone
+2014-11-28 03:00:50,461,View.File
+2014-11-28 03:00:50,461,View.Error List
+2014-11-28 03:00:55,461,View.Solution Explorer
+2014-11-28 03:01:54,461,View.File
+2014-11-28 03:01:54,461,File.OpenProject
+2014-11-28 03:01:56,461,View.Solution Explorer
+2014-11-28 03:01:58,461,View.Code Navigation Window
+2014-11-28 03:02:10,461,View.File
+2014-11-28 03:02:34,461,View.File
+2014-11-28 03:02:50,461,Edit.Copy
+2014-11-28 03:03:15,461,View.VisualStudioBgOrFg
+2014-11-28 03:05:19,461,View.OnChangeScrollInfo
+2014-11-28 03:44:26,461,View.VisualStudioBgOrFg
+2014-11-28 03:45:08,461,View.OnChangeCaretLine
+2014-11-28 03:49:13,461,View.OnChangeScrollInfo
+2014-11-28 03:49:17,461,View.File
+2014-11-28 03:49:22,461,View.File
+2014-11-28 03:49:25,461,View.OnChangeScrollInfo
+2014-11-28 03:49:25,461,View.File
+2014-11-28 03:49:26,461,View.File
+2014-11-28 03:49:26,461,View.OnChangeScrollInfo
+2014-11-28 03:49:27,461,View.OnChangeScrollInfo
+2014-11-28 03:49:46,461,View.OnChangeScrollInfo
+2014-11-28 03:49:54,461,View.Code Navigation Window
+2014-11-28 03:49:57,461,View.Solution Explorer
+2014-11-28 03:50:41,461,View.OnChangeCaretLine
+2014-11-28 03:50:41,461,View.File
+2014-11-28 04:05:54,461,View.OnChangeScrollInfo
+2014-11-28 04:05:55,461,View.OnChangeScrollInfo
+2014-11-28 04:05:56,461,View.OnChangeScrollInfo
+2014-11-28 04:05:57,461,View.OnChangeScrollInfo
+2014-11-28 04:05:58,461,View.OnChangeScrollInfo
+2014-11-28 04:06:02,461,View.OnChangeScrollInfo
+2014-11-28 04:07:03,461,View.OnChangeScrollInfo
+2014-11-28 04:07:04,461,View.OnChangeScrollInfo
+2014-11-28 04:07:06,461,View.OnChangeScrollInfo
+2014-11-28 04:07:07,461,View.OnChangeScrollInfo
+2014-11-28 04:07:09,461,View.OnChangeScrollInfo
+2014-11-28 04:11:20,461,View.OnChangeScrollInfo
+2014-11-28 04:12:21,461,View.OnChangeCaretLine
+2014-11-28 04:12:25,461,View.Solution Explorer
+2014-11-28 04:12:29,461,View.OnChangeCaretLine
+2014-11-28 04:12:29,461,View.File
+2014-11-28 04:12:34,461,View.Object Browser
+2014-11-28 04:13:48,461,View.VisualStudioBgOrFg
+2014-11-28 13:54:37,461,View.VisualStudioBgOrFg
+2014-11-28 13:56:09,461,File.Exit
+2014-11-30 19:50:11,461,View.Navigation History Window
+2014-11-30 19:50:30,461,View.VisualStudioBgOrFg
+2014-11-30 19:54:40,461,View.Solution Explorer
+2014-11-30 19:54:45,461,View.Toolbox
+2014-11-30 19:54:46,461,View.Code Navigation Window
+2014-11-30 19:54:47,461,View.Server Explorer
+2014-11-30 19:54:59,461,File.OpenProject
+2014-11-30 19:54:59,461,View.File
+2014-11-30 19:55:00,461,View.File
+2014-11-30 19:55:02,461,View.OnChangeScrollInfo
+2014-11-30 19:55:31,461,View.OnChangeScrollInfo
+2014-11-30 19:56:30,461,View.VisualStudioBgOrFg
+2014-11-30 19:59:40,461,Edit.LineDown
+2014-11-30 19:59:40,461,View.OnChangeScrollInfo
+2014-11-30 19:59:42,461,Edit.LineDown
+2014-11-30 19:59:43,461,View.OnChangeCaretLine
+2014-11-30 19:59:44,461,View.OnChangeScrollInfo
+2014-11-30 20:01:23,461,View.OnChangeScrollInfo
+2014-11-30 20:01:47,461,View.OnChangeScrollInfo
+2014-11-30 20:03:04,461,View.OnChangeScrollInfo
+2014-11-30 20:03:14,461,View.OnChangeScrollInfo
+2014-11-30 20:03:37,461,View.OnChangeScrollInfo
+2014-11-30 20:03:47,461,View.OnChangeScrollInfo
+2014-11-30 20:06:25,461,View.Object Browser
+2014-11-30 20:06:30,461,View.File
+2014-11-30 20:06:38,461,View.Object Browser
+2014-11-30 20:06:57,461,View.File
+2014-11-30 20:07:12,461,View.File
+2014-11-30 20:07:15,461,View.File
+2014-11-30 20:07:17,461,View.Solution Explorer
+2014-11-30 20:08:08,461,View.OnChangeCaretLine
+2014-11-30 20:08:08,461,View.File
+2014-11-30 20:08:10,461,View.File
+2014-11-30 20:17:31,461,View.VisualStudioBgOrFg
+2014-11-30 20:22:42,461,View.OnChangeScrollInfo
+2014-11-30 20:22:42,461,Edit.LineDown
+2014-11-30 20:28:01,461,View.VisualStudioBgOrFg
+2014-11-30 20:33:01,461,View.VisualStudioBgOrFg
+2014-11-30 20:38:30,461,View.OnChangeScrollInfo
+2014-11-30 20:38:49,461,View.OnChangeScrollInfo
+2014-11-30 20:38:56,461,View.OnChangeCaretLine
+2014-11-30 20:42:56,461,View.OnChangeScrollInfo
+2014-11-30 20:43:04,461,View.File
+2014-11-30 20:43:06,461,View.Solution Explorer
+2014-11-30 20:43:15,461,View.File
+2014-11-30 20:51:32,461,View.VisualStudioBgOrFg
+2014-11-30 21:00:02,461,View.VisualStudioBgOrFg
+2014-12-01 00:29:24,461,View.OnChangeCaretLine
+2014-12-01 03:34:02,461,View.Object Browser
+2014-12-03 02:35:33,461,View.File
+2014-12-03 02:35:35,461,View.File
+2014-12-03 02:35:35,461,View.Solution Explorer
+2014-12-03 02:35:47,461,View.File
+2014-12-03 02:35:47,461,View.OnChangeCaretLine
+2014-12-03 02:35:48,461,View.OnChangeScrollInfo
+2014-12-03 02:35:55,461,View.Solution Explorer
+2014-12-03 02:35:59,461,View.File
+2014-12-03 02:35:59,461,View.OnChangeCaretLine
+2014-12-03 02:36:03,461,View.VisualStudioBgOrFg
+2014-12-03 02:36:40,461,View.Solution Explorer
+2014-12-03 02:36:54,461,View.File
+2014-12-03 02:36:54,461,View.OnChangeCaretLine
+2014-12-03 02:38:10,461,View.OnChangeScrollInfo
+2014-12-03 02:38:12,461,View.OnChangeScrollInfo
+2014-12-03 02:38:15,461,View.OnChangeScrollInfo
+2014-12-03 02:38:20,461,View.OnChangeScrollInfo
+2014-12-03 02:38:21,461,View.OnChangeScrollInfo
+2014-12-03 02:38:25,461,View.Solution Explorer
+2014-12-03 02:39:02,461,View.Properties
+2014-12-03 02:39:02,461,ClassViewContextMenus.ClassViewMultiselectProjectreferencesItems.Properties
+2014-12-03 02:39:05,461,View.Solution Explorer
+2014-12-03 02:39:29,461,View.File
+2014-12-03 02:39:30,461,View.OnChangeCaretLine
+2014-12-03 02:39:38,461,View.OnChangeCaretLine
+2014-12-03 02:39:40,461,View.OnChangeScrollInfo
+2014-12-03 02:39:41,461,View.OnChangeScrollInfo
+2014-12-03 02:44:18,461,View.OnChangeCaretLine
+2014-12-03 02:44:33,461,View.OnChangeScrollInfo
+2014-12-03 02:44:55,461,View.OnChangeScrollInfo
+2014-12-03 02:45:06,461,View.OnChangeScrollInfo
+2014-12-03 02:45:16,461,View.OnChangeCaretLine
+2014-12-03 02:45:48,461,View.OnChangeScrollInfo
+2014-12-03 02:47:17,461,View.OnChangeCaretLine
+2014-12-03 02:47:48,461,View.OnChangeScrollInfo
+2014-12-03 02:48:21,461,View.Navigation History Window
+2014-12-03 02:48:21,461,Tools.NavHistoryItemSingleClick1
+2014-12-03 02:48:25,461,View.File
+2014-12-03 02:48:28,461,View.OnChangeScrollInfo
+2014-12-03 02:50:03,461,View.OnChangeScrollInfo
+2014-12-03 02:54:18,461,View.OnChangeScrollInfo
+2014-12-03 02:55:27,461,View.OnChangeCaretLine
+2014-12-03 02:55:31,461,View.OnChangeCaretLine
+2014-12-03 02:58:33,461,View.VisualStudioBgOrFg
+2014-12-03 03:03:13,461,View.OnChangeCaretLine
+2014-12-03 03:04:43,461,View.OnChangeScrollInfo
+2014-12-03 03:04:56,461,View.OnChangeCaretLine
+2014-12-03 03:05:03,461,View.VisualStudioBgOrFg
+2014-12-03 03:07:42,461,View.OnChangeScrollInfo
+2014-12-03 03:09:00,461,View.OnChangeScrollInfo
+2014-12-03 03:11:41,461,View.OnChangeScrollInfo
+2014-12-03 03:13:13,461,View.OnChangeScrollInfo
+2014-12-03 03:13:24,461,View.OnChangeScrollInfo
+2014-12-03 03:14:45,461,View.OnChangeScrollInfo
+2014-12-03 03:15:05,461,View.OnChangeCaretLine
+2014-12-03 03:15:07,461,View.OnChangeScrollInfo
+2014-12-03 03:15:08,461,View.OnChangeScrollInfo
+2014-12-03 03:17:12,461,View.OnChangeScrollInfo
+2014-12-03 03:17:19,461,View.OnChangeScrollInfo
+2014-12-03 03:17:23,461,View.OnChangeScrollInfo
+2014-12-03 03:17:26,461,View.OnChangeScrollInfo
+2014-12-03 03:17:41,461,View.OnChangeScrollInfo
+2014-12-03 03:17:49,461,View.OnChangeScrollInfo
+2014-12-03 03:18:26,461,View.OnChangeScrollInfo
+2014-12-03 03:18:27,461,View.OnChangeScrollInfo
+2014-12-03 03:19:45,461,View.OnChangeScrollInfo
+2014-12-03 03:20:00,461,View.OnChangeScrollInfo
+2014-12-03 03:20:11,461,View.OnChangeScrollInfo
+2014-12-03 03:20:18,461,View.OnChangeScrollInfo
+2014-12-03 03:20:28,461,View.OnChangeScrollInfo
+2014-12-03 03:20:38,461,View.OnChangeScrollInfo
+2014-12-03 03:20:48,461,View.OnChangeScrollInfo
+2014-12-03 03:21:02,461,View.OnChangeScrollInfo
+2014-12-03 03:21:05,461,View.OnChangeCaretLine
+2014-12-03 03:21:39,461,View.OnChangeCaretLine
+2014-12-03 03:21:41,461,View.OnChangeScrollInfo
+2014-12-03 03:21:43,461,View.OnChangeScrollInfo
+2014-12-03 03:21:44,461,View.OnChangeScrollInfo
+2014-12-03 03:21:46,461,View.OnChangeScrollInfo
+2014-12-03 03:21:48,461,View.OnChangeScrollInfo
+2014-12-03 03:21:49,461,View.OnChangeScrollInfo
+2014-12-03 03:21:50,461,View.OnChangeScrollInfo
+2014-12-03 03:21:52,461,View.OnChangeScrollInfo
+2014-12-03 03:21:53,461,View.OnChangeScrollInfo
+2014-12-03 03:21:58,461,View.OnChangeScrollInfo
+2014-12-03 03:22:00,461,View.OnChangeScrollInfo
+2014-12-03 03:22:01,461,View.OnChangeScrollInfo
+2014-12-03 03:22:16,461,View.OnChangeScrollInfo
+2014-12-03 03:22:20,461,View.OnChangeScrollInfo
+2014-12-03 03:22:48,461,View.OnChangeScrollInfo
+2014-12-03 03:22:52,461,View.OnChangeScrollInfo
+2014-12-03 03:22:53,461,View.OnChangeCaretLine
+2014-12-03 03:22:53,461,View.OnChangeScrollInfo
+2014-12-03 03:22:54,461,View.OnChangeScrollInfo
+2014-12-03 03:23:07,461,View.OnChangeScrollInfo
+2014-12-03 03:23:40,461,View.OnChangeScrollInfo
+2014-12-03 03:23:41,461,View.OnChangeScrollInfo
+2014-12-03 03:23:42,461,View.OnChangeScrollInfo
+2014-12-03 03:23:51,461,View.OnChangeScrollInfo
+2014-12-03 03:23:52,461,View.OnChangeScrollInfo
+2014-12-03 03:23:57,461,View.OnChangeScrollInfo
+2014-12-03 03:27:12,461,View.OnChangeCaretLine
+2014-12-03 03:27:19,461,View.OnChangeScrollInfo
+2014-12-03 03:27:20,461,View.OnChangeScrollInfo
+2014-12-03 03:27:21,461,View.OnChangeScrollInfo
+2014-12-03 03:27:22,461,View.OnChangeScrollInfo
+2014-12-03 03:27:23,461,View.OnChangeScrollInfo
+2014-12-03 03:27:24,461,View.OnChangeScrollInfo
+2014-12-03 03:27:25,461,View.OnChangeScrollInfo
+2014-12-03 03:27:26,461,View.OnChangeScrollInfo
+2014-12-03 03:27:48,461,View.OnChangeScrollInfo
+2014-12-03 03:27:51,461,View.OnChangeScrollInfo

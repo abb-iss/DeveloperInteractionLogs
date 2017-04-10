@@ -1,0 +1,464 @@
+id,message,num_users,category
+0,View.OnChangeCaretLine,145,Navigation.Unstructured
+1,View.OnChangeScrollInfo,145,Navigation.Unstructured
+2,View.File,135,NULL
+3,Debug.DebugType,8,Debug
+4,Debug.Debug Run Mode,139,Debug
+5,Debug.Debug Break Mode,136,Debug
+6,Edit.LineDown,143,Navigation.Read
+7,Edit.BreakLine,142,Edit
+8,View.VisualStudioBgOrFg,145,NA
+9,Edit.LineUp,142,Navigation.Read
+10,Debug.StepOver,131,Debug
+11,TSqlEditorDatabaseCombo,28,Data
+12,View.URL,60,Actions
+13,Edit.Paste,143,Edit
+14,Debug.Start,138,Debug
+15,View.Solution Explorer,145,Navigation.Unstructured
+16,Edit.Copy,144,NA
+17,Edit.Delete,143,Edit
+18,Build.BuildDone,144,Build
+19,Build.BuildBegin,143,Build
+20,Edit.InsertTab,133,Edit
+21,View.Output,137,Actions
+22,Edit.LineStart,109,Navigation.Unstructured
+23,Debug.Enter Design Mode,139,Debug
+24,Edit.LineDownExtend,110,Navigation.Read
+25,Debug.StepInto,128,Debug
+26,Debug.StartDebugTarget,99,Debug
+27,Edit.Undo,138,Edit
+28,View.Error List,134,Debug
+29,Edit.GoToDefinition,134,Navigation.Structured
+30,Debug.StopDebugging,136,Debug
+31,Edit.Cut,134,Edit
+32,View.Team Explorer,126,CMO
+33,View.Find and Replace,126,Search
+34,Window.NextDocumentWindowNav,64,Actions
+35,Debug.ToggleBreakpoint,86,Debug
+36,Build.BuildSolution,128,Build
+37,View.Find Results 1,114,Search
+38,Edit.Find,143,Navigation.Structured
+39,Analyze.CurrentView,18,Analyze
+40,View.Source Control Explorer,91,NULL
+41,Edit.FindNext,68,Search
+42,View.Find Symbol Results,119,Search
+43,View.Code Navigation Window,116,Tools.Prodet
+44,View.NavigateBackward,108,Navigation.Unstructured
+45,Edit.SelectionCancel,113,Edit
+46,Edit.LineUpExtend,104,Navigation.Read
+47,Edit.PageDown,93,Navigation.Unstructured
+48,Edit.PageUp,83,Navigation.Unstructured
+49,Build.RebuildSolution,115,Build
+50,QueryResultsMaxRows,9,Data
+51,Edit.CompleteWord,95,Edit
+52,View.Call Stack,107,Debug
+53,View.Sando Search,104,Tools.Prodet
+54,View.Properties,129,Actions
+55,Edit.FormatDocument,53,Edit
+56,View.Test Explorer,53,Test
+57,Tools.NavObjectClicked,74,Tools.Prodet
+58,ViewFileInScriptPanel,17,View
+59,File.Exit,124,NA
+60,Edit.FindinFiles,99,Search
+61,Edit.FindAllReferences,97,Navigation.Structured
+62,View.Navigation History Window,31,NULL
+63,DirectedGraph.Zoom,25,Design
+64,Edit.CommentSelection,120,Edit
+65,View.History,76,NULL
+66,ClassViewContextMenus.ClassViewMultiselectProjectreferencesItems.Properties,129,View
+67,View.Code Analysis,87,Analyze
+68,Edit.DocumentStart,55,Navigation.Unstructured
+69,ClassViewContextMenus.ClassViewProject.Build,99,View
+70,View.Find Results,32,Search
+71,TeamFoundationContextMenus.PendingChangesPageChangestoInclude.TfsContextPendingChangesPageCompareWithWorkspaceVersion,35,CMO
+72,TeamFoundationContextMenus.PendingChangesPageChangestoInclude.TfsContextPendingChangesPageCompareWithLatestVersion,43,CMO
+73,ClassViewContextMenus.ClassViewProject.Rebuild,96,View
+74,Diff.NextDifference,23,View
+75,Window.CloseDocumentWindow,42,Actions
+76,View.Watch 1,102,NULL
+77,View.Unit Test Sessions,23,Tools
+78,View.ViewCode,83,Actions
+79,View.Pending Changes,23,NULL
+80,Debug.StepOut,51,Debug
+81,Edit.SelectAll,104,Edit
+82,ReSharper.ReSharper_GotoDeclaration,19,Tools
+83,View.Test Results,28,NULL
+84,Edit.Redo,73,Edit
+85,Tools.NavHistoryItemSingleClick1,22,Tools.Prodet
+86,Tools.NavHistoryItemSingleClick3,16,Tools.Prodet
+87,Edit.FindNextSelected,25,Search
+88,Tools.NavHistoryItemSingleClick2,20,Tools.Prodet
+89,ReSharper_AltEnter,18,Tools
+90,Edit.NavigateTo,32,Navigation.Structured
+91,ReSharper.ReSharper_FindUsages,30,Tools
+92,Debug.SetNextStatement,42,Debug
+93,ProjectandSolutionContextMenus.Project.OpenFolderinFileExplorer,72,Analyze
+94,Edit.GoToNextLocation,33,Search
+95,View.Application,103,View
+96,View.Code Coverage Results,17,NULL
+97,Tools.NavHistoryItemSingleClick4,14,Tools.Prodet
+98,Debug.StartWithoutDebugging,37,Debug
+99,Edit.UncommentSelection,107,Edit
+100,View.Diff,10,NULL
+101,Build.CleanSolution,88,Build
+102,TestExplorer.RunSelectedTests,36,Test
+103,View.Find Results 2,10,NULL
+104,View.Immediate Window,67,NULL
+105,ReSharper.ReSharper_GotoType,20,Tools
+106,View.Debug,72,Debug
+107,TestExplorer.DebugSelectedTests,35,Test
+108,View.Start Page,96,NULL
+109,Edit.LineCut,38,Edit
+110,ReSharper.ReSharper_Rename,20,Tools
+111,Tools.NavHistoryItemSingleClick5,9,Tools.Prodet
+112,Edit.DocumentEnd,49,Navigation.Unstructured
+113,View.Navigation Context Window,65,NULL
+114,View.SandoSearch,74,Tools.Prodet
+115,View.Toolbox,88,Actions
+116,TestExplorer.OpenTest,40,Test
+117,TestExplorer.RunAllTests,38,Test
+118,View.Source Not Available,59,NULL
+119,Window.ActivateDocumentWindow,59,Actions
+120,View.Object Browser,77,Navigation.Unstructured
+121,Edit.RemoveUnusedUsings,8,Edit
+122,Tools.NavHistoryItemSingleClick6,7,Tools.Prodet
+123,ClassViewContextMenus.ClassViewProject.Debug.Startnewinstance,34,View
+124,TeamFoundationContextMenus.PendingChangesPageChangestoInclude.TfsContextPendingChangesPageExcludeChanges,43,CMO
+125,View.Build Explorer,40,NULL
+126,View.Resolve Conflicts,55,NULL
+127,TeamFoundationContextMenus.PendingChangesPageChangestoExclude.TfsContextPendingChangesPageIncludeChanges,34,CMO
+128,View.ShowSmartTag,38,Actions
+129,TestExplorer.DebugAllTestsInContext,30,Test
+130,File.TfsCheckOut,40,CMO
+131,ClassViewContextMenus.ClassViewItem.TfsContextCompare,46,View
+132,View.Locals,65,Debug
+133,Debug.QuickWatch,54,Debug
+134,ClassViewContextMenus.ClassViewProject.TfsContextCheckIn,47,View
+135,View.Build,77,Build
+136,View.SolutionExplorer,67,Actions
+137,View.PropertiesWindow,79,Actions
+138,File.TfsCheckIn,42,CMO
+139,View.StartPage,33,Actions
+140,Edit.Replace,47,Search
+141,View.Compile,25,NULL
+142,Edit.FindPrevious,22,Search
+143,TeamFoundationContextMenus.PendingChangesPageChangestoInclude.TfsContextPendingChangesPageUndo,42,CMO
+144,Build.Compile,12,Build
+145,File.ViewinBrowser,13,CMO
+146,File.TfsCompare,39,CMO
+147,Debug.Restart,68,Debug
+148,File.CloseSolution,79,Actions
+149,Build.Cancel,58,Build
+150,View.Build Events,60,Build
+151,File.OpenProject,76,Actions
+152,Edit.OpenFile,25,Navigation.Unstructured
+153,Debug.AttachtoProcess,47,Debug
+154,View.Threads,25,NULL
+155,ReSharper.ReSharper_GotoImplementation,22,Tools
+156,Edit.CycleClipboardRing,18,Edit
+157,View.Server Explorer,72,NULL
+158,Edit.MoveSelectedLinesUp,10,NULL
+159,Debug.AddWatch,66,Debug
+160,Edit.GoToDeclaration,25,Navigation.Structured
+161,Edit.CollapsetoDefinitions,29,Navigation.Unstructured
+162,View.Call Hierarchy,44,Navigation.Structured
+163,TeamFoundationContextMenus.PendingChangesPageChangestoInclude.TfsContextPendingChangesPageCompareWithPreviousVersion,32,CMO
+164,Edit.Addappropriateusingstatement,21,Edit
+165,ClassViewContextMenus.ClassViewProject.TfsContextGetLatestVersion,50,View
+166,Build.BuildSelection,34,Build
+167,Edit.OvertypeMode,80,Edit
+168,Edit.LineDownExtendColumn,13,Navigation.Read
+169,Edit.ParameterInfo,19,Edit
+170,Debug.EvaluateStatement,35,Debug
+171,Edit.GoTo,58,Navigation.Structured
+172,Window.CloseAllDocuments,59,Actions
+173,View.Klocwork Issues,7,Tools
+174,View.ErrorList,32,Actions
+175,View.EditLabel,44,Actions
+176,Tools.ManageNuGetPackagesforSolution,34,Actions
+177,Edit.PageDownExtend,35,Navigation.Unstructured
+178,Tools.NavHistoryItemDoubleClick1,12,NULL
+179,File.OpenContainingFolder,56,Actions
+180,Debug.CallStack,33,Debug
+181,View.Source Not Found,37,NULL
+182,View.PropertyPages,34,Actions
+183,Debug.Print,16,Debug
+184,View.Breakpoints,50,Debug
+185,File.OpenFile,61,Actions
+186,File.Rename,68,Actions
+187,Tools.ExtensionsandUpdates,100,Actions
+188,Tools.ExtensionManager,100,Actions
+189,View.Performance Explorer,30,NULL
+190,CodeMaid.CleanupCode,9,NULL
+191,View.ViewDesigner,57,Actions
+192,View.TfsPendingChanges,11,Actions
+193,View.Disassembly,24,Debug
+194,Edit.FormatSelection,29,Edit
+195,Edit.GotoBrace,20,Navigation.Unstructured
+196,EditorContextMenus.CodeWindow.Rename,11,Refactoring
+197,Debug.Exceptions,53,Debug
+198,View.Web,17,Actions
+199,File.CloseAllButThis,66,Actions
+200,Debug.BreakAll,69,Debug
+201,View.Open,53,Actions
+202,File.TfsUndoCheckout,42,CMO
+203,View.Refresh,53,Actions
+204,Build.QueueNewBuild,33,Build
+205,View.No Symbols Loaded,30,NULL
+206,Edit.MoveSelectedLinesDown,12,NULL
+207,Debug.EnableBreakpoint,22,Debug
+208,View.Code Definition Window,10,NULL
+209,Edit.PeekDefinition,31,Navigation.Structured
+210,ClassViewContextMenus.ClassViewProject.TfsContextUndoCheckout,48,View
+211,ClassViewContextMenus.ClassViewProject.SourceControl.TfsContextUndoCheckout,48,View
+212,View.BlazeWindow,70,Tools.Blaze
+213,Tools.NavHistoryItemDoubleClick2,8,Tools.Prodet
+214,View.Program.cs,10,NULL
+215,View.Autos,49,NULL
+216,Edit.NextHighlightedReference,24,Edit
+217,View.NavigateForward,46,Navigation.Unstructured
+218,CodeCoverage.ShowCodeCoverageColoring,7,Test
+219,View.IntelliTrace,27,Debug
+220,SQL.TSqlEditorExecuteQuery,8,Data
+221,ArchitectureDesigner.Zoom,19,Design
+222,ClassViewContextMenus.ClassViewProject.RunCodeAnalysisonSelection,14,View
+223,ClassViewContextMenus.ClassViewProject.RunCodeAnalysis,14,View
+224,ClassViewContextMenus.ClassViewProject.SourceControl.TfsContextCheckIn,19,NULL
+225,Edit.LineDelete,7,Edit
+226,TestExplorer.RunAllTestsInContext,27,Test
+227,ReSharper.ReSharper_ReSharper_UnitTest_RunContext,14,Tools
+228,View.Class View,75,Navigation.Unstructured
+229,Edit.ScrollLineDown,40,Navigation.Unstructured
+230,Project.UpdateSolution,24,Actions
+231,ReSharper.ReSharper_ReSharper_UnitTest_DebugContext,9,Tools
+232,View.No Source Available,28,NULL
+233,EditorContextMenus.CodeWindow.ViewCallHierarchy,39,Navigation.Structured
+234,Build.BatchBuild,7,Build
+235,Project.ManageNuGetPackages,36,Actions
+236,View.CodeMaid Spade,21,NULL
+237,Build.RebuildSelection,21,Build
+238,Debug.DeleteAllBreakpoints,38,Debug
+239,ReSharper.ReSharper_GotoFile,11,NULL
+240,ClassViewContextMenus.ClassViewProject.Clean,58,View
+241,View.References,22,NULL
+242,Edit.PageUpExtend,28,Navigation.Unstructured
+243,View.Code Metrics Results,24,NULL
+244,View.Task List,20,NULL
+245,View.NavigationHistoryWindow,11,Tools.Prodet
+246,View.SQL Server Object Explorer,13,NULL
+247,TeamFoundationContextMenus.MergeContextMenu.AcceptMerge,33,CMO
+248,File.AddNewProject,54,Actions
+249,ClassViewContextMenus.ClassViewProject.Publish,15,View
+250,Debug.DisableAllBreakpoints,26,Debug
+251,View.Package Manager Console,32,NULL
+252,View.Notifications,41,NULL
+253,Project.RunCustomTool,15,Test
+254,View.TfsSourceControlExplorer,16,Actions
+255,EditorContextMenus.CodeWindow.Breakpoint.BreakpointCondition,38,Debug
+256,ReSharper.ReSharper_CleanupCode,11,NULL
+257,SolutionExplorer.SyncWithActiveDocument,22,Actions
+258,Tools.BlazeStats,61,NULL
+259,EditorContextMenus.CodeWindow.AddComment,10,Data
+260,ReSharper.ReSharper_DuplicateText,19,NULL
+261,Window.Hide,37,Actions
+262,Edit.ScrollLineUp,37,Navigation.Unstructured
+263,Debug.RunToCursor,32,Debug
+264,Edit.PreviousHighlightedReference,13,Edit
+265,Debug.DetachAll,18,Debug
+266,TestExplorer.CancelTests,17,Test
+267,TeamFoundationContextMenus.PendingChangesPageChangestoInclude.TfsContextPendingChangesPageHistory,28,CMO
+268,Edit.ClearOutputWindow,14,Navigation.Unstructured
+269,Edit.FindPreviousSelected,7,Search
+270,Edit.IncrementalSearch,8,Edit
+271,ClassViewContextMenus.ClassViewProject.SourceControl.TfsContextGetLatestVersion,22,NULL
+272,View.TfsTeamExplorer,24,CMO
+273,ReSharper.ReSharper_ExtractMethod,12,NULL
+274,TeamFoundationContextMenus.PendingChangesPageMoreLink.TfsContextPendingChangesRequestReview,10,CMO
+275,ClassViewContextMenus.ClassViewProject.TfsContextCheckOutForEdit,34,View
+276,File.NewProject,60,Actions
+277,Debug.Immediate,16,Debug
+278,View.Document Outline,28,NULL
+279,TeamFoundationContextMenus.WorkItemActionLink.TfsContextPendingChangesPageWorkItemActionLinkAssociate,13,CMO
+280,View.Resource View,24,NULL
+281,EditorContextMenus.CodeWindow.OrganizeUsings.RemoveAndSort,9,Edit
+282,View.Loading...,53,NULL
+283,View.Reference Paths,35,View
+284,ReSharper.ReSharper_GotoRecentFiles,11,NULL
+285,EditorContextMenus.CodeWindow.OrganizeUsings.RemoveUnusedUsings,11,Edit
+286,TeamFoundationContextMenus.PendingChangesPageMoreLink.TfsContextPendingChangesFindShelvesets,21,CMO
+287,View.Publish,22,NULL
+288,Edit.IncreaseLineIndent,8,Edit
+289,View.Signing,47,View
+290,View.Web.config,7,NULL
+291,Data.RetrieveData,7,Data
+292,EditorContextMenus.CodeWindow.ImplementInterface.ImplementInterface,8,Edit
+293,Tools.PackageManagerSettings,12,Actions
+294,ClassViewContextMenus.ClassViewProject.SourceControl.TfsContextGetSpecificVersion,21,View
+295,ClassViewContextMenus.ClassViewProject.TfsContextGetSpecificVersion,21,View
+296,Edit.ClearAll,21,Edit
+297,View.Inspection Results,8,NULL
+298,Tools.ExternalTools,25,Actions
+299,View.Data Sources,25,Analyze
+300,View.Command Window,35,Debug
+301,EditorContextMenus.CodeWindow.SourceControl.TfsAnnotateAnnotateThisLine,16,CMO
+302,Diff.PreviousDifference,13,View
+303,View.Folder Difference,31,NULL
+304,Build.ViewBuilds,22,Build
+305,View.Services,43,View
+306,View.Web Publish Activity,9,NULL
+307,Edit.EditQuery,9,Edit
+308,TeamFoundationContextMenus.SourceControlHistoryChangesets.TfsContextHistoryGetThisVersion,20,CMO
+309,Tools.ExternalCommand1,20,Actions
+310,View.Data Tools Operations,9,NULL
+311,Window.Dock,26,Actions
+312,ReSharper.ReSharper_FindUsagesAdvanced,10,Tools
+313,Debug.BreakatFunction,43,Debug
+314,Build.PublishSelection,8,Build
+315,Debug.HexadecimalDisplay,12,Debug
+316,Edit.SwitchtoReplaceInFiles,20,Search
+317,TestExplorer.DebugAllTests,12,Test
+318,View.Package/Publish Web,7,NULL
+319,View.OpenWith,28,Actions
+320,Edit.DocumentEndExtend,19,Navigation.Unstructured
+321,TeamFoundationContextMenus.BuildExplorer.RetryBuild,8,CMO
+322,TeamFoundationContextMenus.PendingChangesPageChangestoInclude.TfsContextPendingChangesPageView,22,CMO
+323,TeamFoundationContextMenus.FolderDifference.TfsContextFolderDiffCheckOutForEdit,10,CMO
+324,View.Memory 1,9,NULL
+325,View.CodeNavigationWindow,32,NULL
+326,TeamFoundationContextMenus.PendingChangesPageWorkItems.TfsContextPendingChangesPageRemoveWorkItem,17,CMO
+327,Edit.SelectToLastGoBack,18,Edit
+328,Edit.ReplaceinFiles,16,Search
+329,Debug.EnableAllBreakpoints,10,Debug
+330,View.XML Schema Explorer,7,NULL
+331,Build.RunCodeAnalysisonSolution,25,Analyze
+332,DebuggerContextMenus.DataTipWindow.CopyValue,16,Debug
+333,Build.ViewControllerQueue,12,CMO
+334,Window.NewVerticalTabGroup,23,Actions
+335,ReSharper.ReSharper_ShowCodeStructure,8,Tools
+336,TestExplorer.ShowTestExplorer,28,Test
+337,Build.ConfigurationManager,24,Build
+338,EditorContextMenus.CodeWindow.Generate.GenerateMethodStub,10,Edit
+339,Debug.Breakpoints,25,Debug
+340,View.FullScreen,7,Actions
+341,File.NewFile,32,Actions
+342,View.ServerExplorer,22,Actions
+343,TeamFoundationContextMenus.SourceControlExplorer.TfsContextExplorerShelvePendingChanges,8,CMO
+344,TeamFoundationContextMenus.FindShelvesetsPageResults.TfsContextFindShelvesetsPageUnshelve,16,CMO
+345,View.New Query 1 [Editor],7,NULL
+346,TestExplorer.AnalyzeCodeCoverage,7,Test
+347,Analyze.NavigateBackward,10,Analyze
+348,Edit.SelectCurrentWord,12,Edit
+349,ReSharper.ReSharper_Move,8,NULL
+350,Edit.SwitchtoQuickReplace,12,Search
+351,Design.ZoomIn,9,Action
+352,EditorContextMenus.XAMLEditor.NavigatetoEventHandler,9,Navigation.Structured
+353,ClassViewContextMenus.ClassViewProject.TfsContextViewPendingChanges,7,View
+354,View.Package/Publish SQL,7,NULL
+355,TeamFoundationContextMenus.PendingChangesPageMoreLink.TfsContextPendingChangesResolveConflicts,11,CMO
+356,View.Modules,9,NULL
+357,View.ResourceView,16,Actions
+358,DebuggerContextMenus.AutosWindow.DeleteWatch,15,Debug
+359,File.Close,15,Actions
+360,Analyze.CalculateCodeMetricsforSelectedProjects,7,Analyze
+361,ProjectandSolutionContextMenus.Project.ViewClassDiagram,21,Navigation.Structured
+362,DebuggerContextMenus.BreakpointsWindow.Delete,11,Debug
+363,View.ClassView,20,Navigation.Structured
+364,TeamFoundationContextMenus.SourceControlExplorer.Advanced.TfsContextExplorerProperties,22,CMO
+365,Debug.ShowNextStatement,17,Debug
+366,Tools.LogThis,21,NULL
+367,Window.DockasTabbedDocument,29,Actions
+368,Window.AutoHide,10,Actions
+369,View.PackageManagerConsole,20,Actions
+370,TeamFoundationContextMenus.PendingChangesPageChangestoInclude.TfsContextPendingChangesPageOpenInSCE,12,CMO
+371,ProjectandSolutionContextMenus.Project.Add.AddReference,11,NULL
+372,Edit.Fullyqualifyname,8,Edit
+373,Team.NewWorkItemTask,8,CMO
+374,EditorContextMenus.CodeWindow.Breakpoint.InsertBreakpoint,17,Debug
+375,File.TfsUnshelvePendingChanges,8,CMO
+376,TeamFoundationContextMenus.FindShelvesetsPageResults.TfsContextFindShelvesetsPageViewShelvesetDetails,14,CMO
+377,Tools.AddinManager,29,Actions
+378,Debug.OptionsandSettings,20,Debug
+379,View.AssemblyInfo.cs,7,NULL
+380,Window.Float,18,Actions
+381,Team.NewWorkItemBug,18,CMO
+382,TestExplorer.AnalyzeSelectedCodeCoverage,7,Test
+383,View.NavigationContextWindow,20,NULL
+384,TeamFoundationContextMenus.FindShelvesetsPageResults.TfsContextFindShelvesetsPageDeleteShelveset,8,CMO
+385,ReSharper.ReSharper_RefactorThis,11,Tools
+386,TeamFoundationContextMenus.PendingChangesPageChangestoInclude.TfsContextPendingChangesPageExcludeUnselectedChanges,10,CMO
+387,Edit.Remove,10,Edit
+388,Analyze.CalculateCodeMetricsforSolution,11,Analyze
+389,TeamFoundationContextMenus.SourceControlExplorer.Advanced.TfsContextExplorerApplyLabel,12,CMO
+390,EditorContextMenus.CodeWindow.Breakpoint.BreakpointHitCount,7,Debug
+391,Debug.Disassembly,11,Debug
+392,Debug.Threads,15,Debug
+393,ReSharper.ReSharper_ShowOptions,13,Tools
+394,TeamFoundationContextMenus.SourceControlExplorer.Advanced.TfsContextExplorerSetLocalFolder,12,CMO
+395,TeamFoundationContextMenus.PendingChangesFilterChangesLink.TfsContextPendingChangesFilterBySolution,8,CMO
+396,Edit.DocumentStartExtend,12,Navigation.Unstructured
+397,ClassViewContextMenus.ClassViewProject.SourceControl.TfsContextCheckOutForEdit,12,NULL
+398,Build.CleanSelection,11,Build
+399,TeamFoundationContextMenus.PendingChangesFilterChangesLink.TfsContextPendingChangesFilterNone,9,CMO
+400,Analyze.LaunchPerformanceWizard,16,Analyze
+401,View.Security,12,NULL
+402,TeamFoundationContextMenus.SourceControlExplorer.Advanced.TfsContextExplorerUnmap,10,CMO
+403,File.TfsAddSolutionToSourceControl,15,CMO
+404,Debug.DiagnosticsHub.Launch,17,NULL
+405,TestExplorer.SelectRunSettingsFile,7,Test
+406,View.Property Manager,13,NULL
+407,TestExplorer.GroupBy,13,Test
+408,View.Code Clone Analysis Results,8,NULL
+409,View.ObjectBrowser,16,Navigation.Structured
+410,ProjectandSolutionContextMenus.Solution.EnableNuGetPackageRestore,9,NULL
+411,File.OpenWebSite,11,Actions
+412,View.F# Interactive,8,NULL
+413,File.TfsAddFilesToSourceControl,7,CMO
+414,View.TaskList,13,Actions
+415,Debug.Watch1,12,Debug
+416,View.WebBrowser,12,Actions
+417,Window.Windows,15,Actions
+418,View.Parallel Watch 1,9,NULL
+419,ClassViewContextMenus.ClassViewProjectReference.ViewinObjectBrowser,12,View
+420,Window.PreviousDocumentWindowNav,10,Actions
+421,Edit.InsertSnippet,15,Edit
+422,TestExplorer.RunFailedTests,11,Test
+423,EditorContextMenus.CodeWindow.PinToSource,7,Edit
+424,TeamFoundationContextMenus.SourceControlExplorer.Advanced.TfsContextExplorerSecurity,8,CMO
+425,DebuggerContextMenus.ThreadsWindow.Debug.LocationToolbar.ShowThreadIpIndicators,7,Debug
+426,DebuggerContextMenus.GPUThreadsWindowShortcutMenu.Debug.LocationToolbar.ShowThreadIpIndicators,7,Debug
+427,View.DocumentOutline,11,Actions
+428,ProjectandSolutionContextMenus.Project.ScopetoThis,7,Actions
+429,EditorContextMenus.CodeWindow.GoToTypeDefinition,10,Navigation.Structured
+430,Analyze.NewPerformanceSession,10,Analyze
+431,View.UML Model Explorer,7,Design
+432,TeamFoundationContextMenus.SourceControlHistoryChangesets.TfsContextHistoryRollbackChangesInThisVersion,10,CMO
+433,View.SQLServerObjectExplorer,8,Data
+434,Edit.StopSearch,8,Edit
+435,DebuggerContextMenus.AutosWindow.EditValue,10,Debug
+436,View.CommandWindow,11,Actions
+437,Debug.Modules,7,Debug
+438,Edit.RemovefromDiagram,7,Edit
+439,Debug.Output,10,Debug
+440,TeamFoundationContextMenus.WorkItems.NewQuery,10,CMO
+441,EditorContextMenus.CodeWindow.Breakpoint.BreakpointLocation,8,Debug
+442,Edit.SwitchtoFindInFiles,8,Search
+443,Debug.StartupProjectProperties,8,Debug
+444,TeamFoundationContextMenus.SourceControlExplorer.Advanced.TfsContextExplorerCloak,7,CMO
+445,File.TfsChangeSourceControl,8,CMO
+446,TestExplorer.OpenPlaylistFile,8,Test
+447,ProjectandSolutionContextMenus.Project.NewSolutionExplorerView,10,Actions
+448,Edit.QuickInfo,11,Edit
+449,View.CallHierarchy,11,Actions
+450,View.My Extensions,8,NULL
+451,ClassViewContextMenus.ClassViewProject.View.ViewClassDiagram,7,NULL
+452,View.PropertyManager,10,Actions
+453,Debug.Memory1,7,Debug
+454,TeamFoundationContextMenus.SourceControlExplorer.TfsContextExplorerRollback,8,CMO
+455,View.CodeDefinitionWindow,8,Actions
+456,DebuggerContextMenus.AutosWindow.SymbolSettings,7,Debug
+457,DebuggerContextMenus.StacksWindowContextMenu.SymbolSettings,7,Debug
+458,Test.TestResults,7,Test
+459,View.TestResults,7,Test
+460,View.CodeAnalysis,8,Analyze
+461,View.Assembly Explorer,8,NULL
+462,OtherContextMenus.SQLServerObjectExplorerContextMenu.SEAddSqlServerOnContextMenu,7,Data

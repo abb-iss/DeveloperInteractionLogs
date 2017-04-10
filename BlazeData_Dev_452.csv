@@ -1,0 +1,1283 @@
+timestamp,developer_id,message
+2014-04-23 15:44:15,452,View.Source Control Explorer
+2014-04-23 15:44:36,452,View.VisualStudioBgOrFg
+2014-04-23 15:44:44,452,View.Solution Explorer
+2014-04-23 15:44:44,452,View.SolutionExplorer
+2014-04-23 15:45:08,452,View.Source Control Explorer
+2014-04-23 15:45:10,452,View.Team Explorer
+2014-04-23 15:45:12,452,View.Class View
+2014-04-23 15:45:12,452,View.Solution Explorer
+2014-04-23 15:45:18,452,View.Source Control Explorer
+2014-04-23 15:45:21,452,View.Solution Explorer
+2014-04-23 15:45:26,452,View.File
+2014-04-23 15:45:27,452,View.Solution Explorer
+2014-04-23 15:45:29,452,View.File
+2014-04-23 15:45:29,452,View.OnChangeCaretLine
+2014-04-23 15:45:42,452,Build.BuildSolution
+2014-04-23 15:45:42,452,View.Output
+2014-04-23 15:45:42,452,Build.BuildBegin
+2014-04-23 15:45:47,452,Build.BuildDone
+2014-04-23 15:45:55,452,View.Source Control Explorer
+2014-04-23 15:46:00,452,View.File
+2014-04-23 15:46:22,452,View.Sando Search
+2014-04-23 15:46:22,452,View.SandoSearch
+2014-04-23 15:46:51,452,View.CodeNavigationWindow
+2014-04-23 15:46:51,452,View.Code Navigation Window
+2014-04-23 15:47:09,452,View.File
+2014-04-23 15:47:09,452,View.OnChangeCaretLine
+2014-04-23 15:47:23,452,View.OnChangeCaretLine
+2014-04-23 15:47:25,452,View.OnChangeCaretLine
+2014-04-23 15:47:29,452,View.OnChangeCaretLine
+2014-04-23 15:47:31,452,View.OnChangeCaretLine
+2014-04-23 15:47:32,452,View.Code Navigation Window
+2014-04-23 15:47:38,452,View.Sando Search
+2014-04-23 15:48:25,452,View.Sando Search
+2014-04-23 15:48:36,452,View.File
+2014-04-23 15:48:36,452,View.OnChangeScrollInfo
+2014-04-23 15:48:36,452,View.OnChangeCaretLine
+2014-04-23 15:48:39,452,View.Code Navigation Window
+2014-04-23 15:48:40,452,Tools.NavObjectClicked
+2014-04-23 15:48:40,452,View.OnChangeCaretLine
+2014-04-23 15:48:40,452,View.File
+2014-04-23 15:48:40,452,View.OnChangeScrollInfo
+2014-04-23 15:48:44,452,View.OnChangeScrollInfo
+2014-04-23 15:48:45,452,View.File
+2014-04-23 15:48:45,452,View.OnChangeCaretLine
+2014-04-23 15:48:45,452,Tools.NavObjectClicked
+2014-04-23 15:48:45,452,View.OnChangeScrollInfo
+2014-04-23 15:48:45,452,View.Code Navigation Window
+2014-04-23 15:48:46,452,View.Code Navigation Window
+2014-04-23 15:48:46,452,Tools.NavObjectClicked
+2014-04-23 15:48:47,452,View.File
+2014-04-23 15:48:47,452,View.OnChangeScrollInfo
+2014-04-23 15:48:47,452,View.OnChangeCaretLine
+2014-04-23 15:48:53,452,View.Code Navigation Window
+2014-04-23 15:48:53,452,View.OnChangeCaretLine
+2014-04-23 15:48:53,452,Tools.NavObjectClicked
+2014-04-23 15:48:53,452,View.OnChangeScrollInfo
+2014-04-23 15:48:53,452,View.File
+2014-04-23 15:48:55,452,View.Code Navigation Window
+2014-04-23 15:48:57,452,Tools.NavObjectClicked
+2014-04-23 15:48:57,452,View.OnChangeCaretLine
+2014-04-23 15:48:57,452,View.Code Navigation Window
+2014-04-23 15:48:57,452,View.File
+2014-04-23 15:48:58,452,Tools.NavObjectClicked
+2014-04-23 15:48:58,452,View.File
+2014-04-23 15:48:59,452,View.Code Navigation Window
+2014-04-23 15:49:00,452,View.OnChangeScrollInfo
+2014-04-23 15:49:00,452,Tools.NavObjectClicked
+2014-04-23 15:49:00,452,View.OnChangeCaretLine
+2014-04-23 15:49:00,452,View.File
+2014-04-23 15:49:05,452,View.Sando Search
+2014-04-23 15:49:07,452,View.OnChangeScrollInfo
+2014-04-23 15:49:07,452,View.OnChangeCaretLine
+2014-04-23 15:49:07,452,View.File
+2014-04-23 15:49:10,452,View.OnChangeScrollInfo
+2014-04-23 15:49:10,452,View.File
+2014-04-23 15:49:10,452,View.Sando Search
+2014-04-23 15:49:10,452,View.OnChangeCaretLine
+2014-04-23 15:49:12,452,View.Code Navigation Window
+2014-04-23 15:49:12,452,View.OnChangeCaretLine
+2014-04-23 15:49:13,452,View.OnChangeScrollInfo
+2014-04-23 15:49:13,452,View.OnChangeCaretLine
+2014-04-23 15:49:13,452,View.File
+2014-04-23 15:49:13,452,Tools.NavObjectClicked
+2014-04-23 15:49:19,452,View.Sando Search
+2014-04-23 15:49:19,452,View.File
+2014-04-23 15:49:19,452,View.OnChangeCaretLine
+2014-04-23 15:49:19,452,View.OnChangeScrollInfo
+2014-04-23 15:49:30,452,View.Navigation Context Window
+2014-04-23 15:49:31,452,View.NavigationContextWindow
+2014-04-23 15:49:37,452,View.File
+2014-04-23 15:49:37,452,View.Navigation Context Window
+2014-04-23 15:50:01,452,View.File
+2014-04-23 15:50:01,452,View.OnChangeCaretLine
+2014-04-23 15:50:01,452,Tools.NavObjectClicked
+2014-04-23 15:50:01,452,View.Code Navigation Window
+2014-04-23 15:50:02,452,View.File
+2014-04-23 15:50:02,452,View.Code Navigation Window
+2014-04-23 15:50:02,452,Tools.NavObjectClicked
+2014-04-23 15:50:02,452,View.OnChangeCaretLine
+2014-04-23 15:50:05,452,View.Navigation Context Window
+2014-04-23 15:50:08,452,View.Sando Search
+2014-04-23 15:50:17,452,View.File
+2014-04-23 15:50:17,452,View.OnChangeScrollInfo
+2014-04-23 15:50:19,452,View.OnChangeCaretLine
+2014-04-23 15:50:20,452,View.OnChangeCaretLine
+2014-04-23 15:50:39,452,View.Sando Search
+2014-04-23 15:50:42,452,View.File
+2014-04-23 15:50:43,452,View.Sando Search
+2014-04-23 15:50:43,452,View.OnChangeCaretLine
+2014-04-23 15:50:47,452,View.File
+2014-04-23 15:50:47,452,View.OnChangeCaretLine
+2014-04-23 15:51:24,452,View.File
+2014-04-23 15:51:24,452,Debug.Debug Run Mode
+2014-04-23 15:51:24,452,Debug.Start
+2014-04-23 15:51:24,452,Build.BuildDone
+2014-04-23 15:51:24,452,View.OnChangeScrollInfo
+2014-04-23 15:51:24,452,View.Output
+2014-04-23 15:51:37,452,View.VisualStudioBgOrFg
+2014-04-23 15:52:01,452,Debug.Enter Design Mode
+2014-04-23 15:52:01,452,View.OnChangeScrollInfo
+2014-04-23 15:52:10,452,View.File
+2014-04-23 15:52:10,452,Tools.NavObjectClicked
+2014-04-23 15:52:10,452,View.OnChangeCaretLine
+2014-04-23 15:52:10,452,View.Code Navigation Window
+2014-04-23 15:52:11,452,View.Code Navigation Window
+2014-04-23 15:52:12,452,Tools.NavObjectClicked
+2014-04-23 15:52:12,452,View.File
+2014-04-23 15:52:22,452,View.Code Navigation Window
+2014-04-23 15:52:24,452,View.OnChangeCaretLine
+2014-04-23 15:52:24,452,Tools.NavObjectClicked
+2014-04-23 15:52:24,452,View.File
+2014-04-23 15:52:25,452,View.Code Navigation Window
+2014-04-23 15:52:26,452,View.File
+2014-04-23 15:52:26,452,Tools.NavObjectClicked
+2014-04-23 15:52:35,452,View.Sando Search
+2014-04-23 15:52:40,452,View.Code Navigation Window
+2014-04-23 15:52:40,452,Tools.NavObjectClicked
+2014-04-23 15:52:40,452,View.File
+2014-04-23 15:52:41,452,View.Code Navigation Window
+2014-04-23 15:52:42,452,Tools.NavObjectClicked
+2014-04-23 15:52:42,452,View.File
+2014-04-23 15:52:42,452,View.OnChangeCaretLine
+2014-04-23 15:54:10,452,View.Code Navigation Window
+2014-04-23 15:54:26,452,View.BlazeWindow
+2014-04-23 15:54:38,452,View.Code Navigation Window
+2014-04-23 15:55:40,452,File.CloseSolution
+2014-04-23 15:55:44,452,View.Source Control Explorer
+2014-04-23 15:56:07,452,View.VisualStudioBgOrFg
+2014-04-23 15:57:37,452,View.VisualStudioBgOrFg
+2014-04-23 15:58:16,452,Tools.ExtensionsandUpdates
+2014-04-23 15:58:16,452,Tools.ExtensionManager
+2014-04-23 15:59:50,452,View.Code Navigation Window
+2014-04-23 16:00:04,452,View.Sando Search
+2014-04-23 16:00:06,452,View.OnChangeCaretLine
+2014-04-23 16:00:06,452,View.OnChangeScrollInfo
+2014-04-23 16:00:06,452,View.File
+2014-04-23 16:00:18,452,View.Code Navigation Window
+2014-04-23 16:00:19,452,View.Navigation Context Window
+2014-04-23 16:00:23,452,View.Code Navigation Window
+2014-04-23 16:00:31,452,View.File
+2014-04-23 16:00:32,452,View.OnChangeCaretLine
+2014-04-23 16:00:36,452,View.OnChangeScrollInfo
+2014-04-23 16:00:36,452,View.OnChangeCaretLine
+2014-04-23 16:00:39,452,View.OnChangeScrollInfo
+2014-04-23 16:00:52,452,File.CloseSolution
+2014-04-23 16:00:52,452,View.Code Navigation Window
+2014-04-23 16:00:57,452,View.Sando Search
+2014-04-23 16:00:58,452,View.File
+2014-04-23 16:01:05,452,File.OpenProject
+2014-04-23 16:01:15,452,View.File
+2014-04-23 16:01:15,452,View.Sando Search
+2014-04-23 16:01:16,452,View.File
+2014-04-23 16:01:18,452,View.Code Navigation Window
+2014-04-23 16:01:20,452,View.Sando Search
+2014-04-23 16:01:21,452,View.Sando Search
+2014-04-23 16:01:21,452,View.File
+2014-04-23 16:01:23,452,View.File
+2014-04-23 16:01:44,452,View.Code Navigation Window
+2014-04-23 16:01:46,452,View.OnChangeScrollInfo
+2014-04-23 16:01:46,452,View.OnChangeCaretLine
+2014-04-23 16:01:46,452,Tools.NavObjectClicked
+2014-04-23 16:01:46,452,View.File
+2014-04-23 16:01:48,452,View.OnChangeCaretLine
+2014-04-23 16:01:51,452,View.OnChangeScrollInfo
+2014-04-23 16:01:53,452,View.Sando Search
+2014-04-23 16:01:55,452,View.File
+2014-04-23 16:01:58,452,View.Code Navigation Window
+2014-04-23 16:01:59,452,View.File
+2014-04-23 16:01:59,452,Tools.NavObjectClicked
+2014-04-23 16:02:10,452,View.Code Navigation Window
+2014-04-23 16:02:25,452,View.Code Navigation Window
+2014-04-23 16:02:25,452,View.File
+2014-04-23 16:02:25,452,View.OnChangeScrollInfo
+2014-04-23 16:02:25,452,Tools.NavObjectClicked
+2014-04-23 16:02:25,452,View.OnChangeCaretLine
+2014-04-23 16:02:38,452,View.Sando Search
+2014-04-23 16:02:39,452,View.File
+2014-04-23 16:02:41,452,View.Code Navigation Window
+2014-04-23 16:02:43,452,View.Output
+2014-04-23 16:02:44,452,Tools.NavObjectClicked
+2014-04-23 16:02:44,452,View.OnChangeScrollInfo
+2014-04-23 16:02:44,452,View.OnChangeCaretLine
+2014-04-23 16:02:44,452,View.Code Navigation Window
+2014-04-23 16:02:44,452,View.File
+2014-04-23 16:02:47,452,Tools.NavObjectClicked
+2014-04-23 16:02:47,452,View.File
+2014-04-23 16:02:47,452,View.Code Navigation Window
+2014-04-23 16:02:48,452,View.File
+2014-04-23 16:02:48,452,Tools.NavObjectClicked
+2014-04-23 16:02:48,452,View.Code Navigation Window
+2014-04-23 16:02:49,452,View.Code Navigation Window
+2014-04-23 16:02:49,452,Tools.NavObjectClicked
+2014-04-23 16:02:49,452,View.File
+2014-04-23 16:02:50,452,Tools.NavObjectClicked
+2014-04-23 16:02:50,452,View.Code Navigation Window
+2014-04-23 16:02:50,452,View.File
+2014-04-23 16:02:51,452,View.File
+2014-04-23 16:02:51,452,Tools.NavObjectClicked
+2014-04-23 16:02:51,452,View.Code Navigation Window
+2014-04-23 16:02:54,452,Tools.NavObjectClicked
+2014-04-23 16:02:54,452,View.File
+2014-04-23 16:02:54,452,View.Code Navigation Window
+2014-04-23 16:02:57,452,View.Code Navigation Window
+2014-04-23 16:02:57,452,View.OnChangeScrollInfo
+2014-04-23 16:02:57,452,Tools.NavObjectClicked
+2014-04-23 16:02:57,452,View.OnChangeCaretLine
+2014-04-23 16:02:57,452,View.File
+2014-04-23 16:03:00,452,View.Code Navigation Window
+2014-04-23 16:03:00,452,View.OnChangeCaretLine
+2014-04-23 16:03:00,452,View.OnChangeScrollInfo
+2014-04-23 16:03:00,452,Tools.NavObjectClicked
+2014-04-23 16:03:00,452,View.File
+2014-04-23 16:03:02,452,View.Code Navigation Window
+2014-04-23 16:03:04,452,Tools.NavObjectClicked
+2014-04-23 16:03:04,452,View.File
+2014-04-23 16:03:05,452,View.Code Navigation Window
+2014-04-23 16:03:30,452,View.File
+2014-04-23 16:03:32,452,View.Source Control Explorer
+2014-04-23 16:03:51,452,File.CloseSolution
+2014-04-23 16:05:07,452,View.VisualStudioBgOrFg
+2014-04-23 16:14:07,452,View.VisualStudioBgOrFg
+2014-04-23 16:59:49,452,View.Solution Explorer
+2014-04-23 16:59:49,452,View.SolutionExplorer
+2014-04-23 16:59:58,452,View.File
+2014-04-23 17:00:01,452,View.OnChangeCaretLine
+2014-04-23 17:00:03,452,View.OnChangeScrollInfo
+2014-04-23 17:00:04,452,View.OnChangeScrollInfo
+2014-04-23 17:00:07,452,View.OnChangeScrollInfo
+2014-04-23 17:00:10,452,View.OnChangeScrollInfo
+2014-04-23 17:00:12,452,View.Solution Explorer
+2014-04-23 17:00:12,452,View.File
+2014-04-23 17:00:14,452,View.OnChangeCaretLine
+2014-04-23 17:00:14,452,View.OnChangeScrollInfo
+2014-04-23 17:00:16,452,View.OnChangeCaretLine
+2014-04-23 17:00:19,452,View.Sando Search
+2014-04-23 17:00:22,452,View.Code Navigation Window
+2014-04-23 17:00:27,452,View.File
+2014-04-23 17:00:27,452,View.OnChangeScrollInfo
+2014-04-23 17:00:29,452,View.OnChangeCaretLine
+2014-04-23 17:00:32,452,View.OnChangeCaretLine
+2014-04-23 17:00:34,452,View.OnChangeScrollInfo
+2014-04-23 17:00:37,452,View.OnChangeCaretLine
+2014-04-23 17:00:44,452,View.OnChangeScrollInfo
+2014-04-23 17:00:49,452,View.OnChangeScrollInfo
+2014-04-23 17:00:49,452,View.File
+2014-04-23 17:00:49,452,Tools.NavObjectClicked
+2014-04-23 17:00:49,452,View.OnChangeCaretLine
+2014-04-23 17:00:49,452,View.Code Navigation Window
+2014-04-23 17:00:53,452,View.Code Navigation Window
+2014-04-23 17:00:53,452,Tools.NavObjectClicked
+2014-04-23 17:00:53,452,View.File
+2014-04-23 17:00:54,452,View.Code Navigation Window
+2014-04-23 17:00:55,452,View.OnChangeCaretLine
+2014-04-23 17:00:55,452,Tools.NavObjectClicked
+2014-04-23 17:00:55,452,View.File
+2014-04-23 17:00:57,452,View.Code Navigation Window
+2014-04-23 17:01:00,452,View.OnChangeCaretLine
+2014-04-23 17:01:00,452,View.OnChangeScrollInfo
+2014-04-23 17:01:00,452,View.File
+2014-04-23 17:01:02,452,View.OnChangeCaretLine
+2014-04-23 17:01:04,452,View.Code Navigation Window
+2014-04-23 17:01:10,452,View.OnChangeScrollInfo
+2014-04-23 17:01:10,452,View.OnChangeCaretLine
+2014-04-23 17:01:10,452,View.Sando Search
+2014-04-23 17:01:10,452,View.File
+2014-04-23 17:01:14,452,View.File
+2014-04-23 17:01:15,452,View.Sando Search
+2014-04-23 17:01:22,452,View.File
+2014-04-23 17:01:25,452,View.Code Navigation Window
+2014-04-23 17:01:25,452,File.Exit
+2014-04-25 15:31:26,452,View.Source Control Explorer
+2014-04-25 15:31:39,452,View.VisualStudioBgOrFg
+2014-04-25 15:31:46,452,View.History
+2014-04-25 15:32:11,452,View.File
+2014-04-25 15:34:03,452,View.Source Control Explorer
+2014-04-25 15:35:09,452,View.VisualStudioBgOrFg
+2014-04-25 15:39:26,452,View.Source Control Explorer
+2014-04-25 15:40:39,452,View.VisualStudioBgOrFg
+2014-04-25 15:47:00,452,View.File
+2014-04-25 15:47:02,452,View.OnChangeCaretLine
+2014-04-25 15:47:04,452,View.Source Control Explorer
+2014-04-25 15:47:30,452,View.History
+2014-04-25 15:47:35,452,View.Source Control Explorer
+2014-04-25 15:47:40,452,View.VisualStudioBgOrFg
+2014-04-25 23:27:07,452,File.Exit
+2014-04-28 20:24:28,452,View.Source Control Explorer
+2014-04-28 20:24:51,452,View.VisualStudioBgOrFg
+2014-04-28 20:24:59,452,View.Solution Explorer
+2014-04-28 20:25:22,452,View.Source Control Explorer
+2014-04-28 20:25:35,452,Edit.FindinFiles
+2014-04-28 20:25:35,452,View.Find and Replace
+2014-04-28 20:26:20,452,View.Find Results 1
+2014-04-28 20:26:44,452,View.File
+2014-04-28 20:26:44,452,View.OnChangeScrollInfo
+2014-04-28 20:26:44,452,View.OnChangeCaretLine
+2014-04-28 20:27:21,452,View.VisualStudioBgOrFg
+2014-04-28 20:35:51,452,View.VisualStudioBgOrFg
+2014-04-28 23:30:55,452,View.Source Control Explorer
+2014-04-28 23:31:27,452,View.VisualStudioBgOrFg
+2014-04-28 23:31:44,452,View.Find and Replace
+2014-04-28 23:31:44,452,Edit.FindinFiles
+2014-04-28 23:31:55,452,View.Find Results 1
+2014-04-28 23:32:18,452,Edit.FindinFiles
+2014-04-28 23:32:18,452,View.Find and Replace
+2014-04-28 23:32:24,452,View.Find Results 1
+2014-04-28 23:32:32,452,View.Source Control Explorer
+2014-04-28 23:32:36,452,Edit.FindinFiles
+2014-04-28 23:32:36,452,View.Find and Replace
+2014-04-28 23:33:07,452,View.Source Control Explorer
+2014-04-28 23:33:57,452,View.VisualStudioBgOrFg
+2014-04-28 23:42:57,452,View.VisualStudioBgOrFg
+2014-04-29 21:46:55,452,View.File
+2014-04-29 21:48:08,452,View.VisualStudioBgOrFg
+2014-04-29 22:07:53,452,View.Solution Explorer
+2014-04-29 22:08:01,452,View.File
+2014-04-29 22:09:09,452,View.VisualStudioBgOrFg
+2014-04-30 20:36:22,452,View.Source Control Explorer
+2014-04-30 20:36:23,452,File.Exit
+2014-05-08 22:28:12,452,View.VisualStudioBgOrFg
+2014-05-08 22:28:28,452,View.Source Control Explorer
+2014-05-08 22:28:42,452,View.VisualStudioBgOrFg
+2014-05-08 22:32:33,452,View.Solution Explorer
+2014-05-08 22:32:39,452,View.Source Control Explorer
+2014-05-08 22:32:48,452,View.Team Explorer
+2014-05-08 22:32:48,452,View.TfsTeamExplorer
+2014-05-08 22:33:42,452,View.VisualStudioBgOrFg
+2014-05-08 22:43:13,452,View.VisualStudioBgOrFg
+2014-05-08 23:11:24,452,TeamFoundationContextMenus.WorkItems.NewQuery
+2014-05-08 23:11:24,452,View.File
+2014-05-08 23:12:14,452,View.VisualStudioBgOrFg
+2014-05-08 23:13:54,452,View.Team Explorer
+2014-05-08 23:13:56,452,View.Source Control Explorer
+2014-05-08 23:14:02,452,View.History
+2014-05-08 23:14:12,452,View.File
+2014-05-08 23:16:21,452,View.History
+2014-05-08 23:16:33,452,View.Team Explorer
+2014-05-08 23:16:40,452,View.File
+2014-05-08 23:17:32,452,View.File
+2014-05-08 23:17:32,452,Team.NewWorkItemBug
+2014-05-08 23:22:44,452,View.VisualStudioBgOrFg
+2014-05-08 23:25:44,452,View.VisualStudioBgOrFg
+2014-05-08 23:27:20,452,View.Source Control Explorer
+2014-05-08 23:27:27,452,File.TfsCompare
+2014-05-08 23:27:28,452,View.File
+2014-05-08 23:27:36,452,Edit.LineDown
+2014-05-08 23:27:37,452,Edit.LineDown
+2014-05-08 23:27:38,452,Edit.LineDown
+2014-05-08 23:27:40,452,Edit.LineUp
+2014-05-08 23:28:51,452,View.Source Control Explorer
+2014-05-08 23:29:14,452,View.VisualStudioBgOrFg
+2014-05-08 23:37:02,452,View.File
+2014-05-08 23:37:45,452,View.VisualStudioBgOrFg
+2014-05-08 23:47:20,452,View.File
+2014-05-08 23:47:45,452,View.VisualStudioBgOrFg
+2014-05-08 23:51:15,452,View.VisualStudioBgOrFg
+2014-05-09 00:01:15,452,View.VisualStudioBgOrFg
+2014-05-09 00:03:46,452,View.File
+2014-05-09 00:04:21,452,View.File
+2014-05-09 00:05:04,452,View.File
+2014-05-09 03:14:03,452,View.VisualStudioBgOrFg
+2014-05-09 15:57:08,452,View.File
+2014-05-09 15:57:51,452,View.VisualStudioBgOrFg
+2014-05-09 16:00:04,452,View.File
+2014-05-09 16:04:21,452,View.VisualStudioBgOrFg
+2014-05-09 16:09:51,452,View.VisualStudioBgOrFg
+2014-05-09 16:12:51,452,View.VisualStudioBgOrFg
+2014-05-09 16:14:52,452,View.File
+2014-05-09 16:15:14,452,View.File
+2014-05-09 16:15:23,452,View.File
+2014-05-09 16:15:42,452,View.File
+2014-05-09 16:16:21,452,View.VisualStudioBgOrFg
+2014-05-09 17:56:45,452,View.File
+2014-05-09 18:00:11,452,View.File
+2014-05-09 18:00:14,452,View.File
+2014-05-09 18:00:20,452,View.File
+2014-05-09 18:00:23,452,View.File
+2014-05-09 18:00:28,452,View.File
+2014-05-09 18:01:03,452,View.File
+2014-05-09 18:01:11,452,View.File
+2014-05-09 18:01:26,452,View.VisualStudioBgOrFg
+2014-05-09 18:02:51,452,View.File
+2014-05-09 18:03:25,452,View.VisualStudioBgOrFg
+2014-05-09 18:15:15,452,View.File
+2014-05-09 18:15:55,452,View.VisualStudioBgOrFg
+2014-05-09 18:21:19,452,View.File
+2014-05-09 18:21:55,452,View.VisualStudioBgOrFg
+2014-05-09 18:24:55,452,View.VisualStudioBgOrFg
+2014-05-09 18:25:56,452,View.File
+2014-05-09 18:26:52,452,View.File
+2014-05-09 18:27:25,452,View.VisualStudioBgOrFg
+2014-05-09 18:29:12,452,View.File
+2014-05-09 18:29:22,452,View.File
+2014-05-09 18:31:13,452,View.File
+2014-05-09 19:46:15,452,View.File
+2014-05-09 23:28:47,452,View.File
+2014-05-09 23:28:56,452,View.Team Explorer
+2014-05-09 23:28:57,452,View.File
+2014-05-09 23:31:36,452,View.File
+2014-05-09 23:32:35,452,View.VisualStudioBgOrFg
+2014-05-09 23:33:31,452,View.File
+2014-05-09 23:34:54,452,View.File
+2014-05-09 23:35:35,452,View.VisualStudioBgOrFg
+2014-05-09 23:36:28,452,View.File
+2014-05-09 23:37:05,452,View.VisualStudioBgOrFg
+2014-05-09 23:38:20,452,View.File
+2014-05-09 23:39:15,452,View.File
+2014-05-09 23:40:46,452,View.File
+2014-05-09 23:41:35,452,View.VisualStudioBgOrFg
+2014-05-09 23:54:05,452,View.VisualStudioBgOrFg
+2014-05-10 00:14:12,452,View.File
+2014-05-10 00:15:03,452,View.File
+2014-05-10 00:16:36,452,View.VisualStudioBgOrFg
+2014-05-10 00:19:58,452,View.File
+2014-05-10 00:20:36,452,View.VisualStudioBgOrFg
+2014-05-10 07:14:41,452,View.File
+2014-05-10 07:15:18,452,View.VisualStudioBgOrFg
+2014-05-10 07:23:56,452,View.File
+2014-05-10 07:24:48,452,View.VisualStudioBgOrFg
+2014-05-10 07:30:37,452,View.File
+2014-05-10 07:31:18,452,View.VisualStudioBgOrFg
+2014-05-10 07:32:18,452,View.VisualStudioBgOrFg
+2014-05-10 08:07:19,452,View.VisualStudioBgOrFg
+2014-05-10 08:08:32,452,View.Source Control Explorer
+2014-05-10 08:08:32,452,File.Exit
+2014-06-03 15:48:12,452,View.Source Control Explorer
+2014-06-03 15:48:41,452,View.VisualStudioBgOrFg
+2014-06-03 15:48:43,452,View.Team Explorer
+2014-06-03 15:49:19,452,TeamFoundationContextMenus.PendingChangesPageChangestoInclude.TfsContextPendingChangesPageCompareWithLatestVersion
+2014-06-03 15:49:20,452,View.File
+2014-06-03 15:49:46,452,View.Source Control Explorer
+2014-06-03 15:49:54,452,View.Team Explorer
+2014-06-03 15:49:59,452,TeamFoundationContextMenus.PendingChangesPageChangestoInclude.TfsContextPendingChangesPageCompareWithWorkspaceVersion
+2014-06-03 15:49:59,452,View.File
+2014-06-03 15:50:28,452,View.Team Explorer
+2014-06-03 15:50:39,452,TeamFoundationContextMenus.PendingChangesPageChangestoInclude.TfsContextPendingChangesPageHistory
+2014-06-03 15:50:39,452,View.History
+2014-06-03 15:50:42,452,View.File
+2014-06-03 15:50:44,452,View.Team Explorer
+2014-06-03 15:50:48,452,TeamFoundationContextMenus.PendingChangesPageChangestoInclude.TfsContextPendingChangesPageCompareWithLatestVersion
+2014-06-03 15:50:48,452,View.File
+2014-06-03 15:51:12,452,View.Team Explorer
+2014-06-03 15:51:16,452,TeamFoundationContextMenus.PendingChangesPageChangestoInclude.TfsContextPendingChangesPageCompareWithWorkspaceVersion
+2014-06-03 15:51:16,452,View.File
+2014-06-03 15:51:24,452,View.Team Explorer
+2014-06-03 15:51:41,452,View.VisualStudioBgOrFg
+2014-06-03 15:51:45,452,TeamFoundationContextMenus.PendingChangesPageChangestoInclude.TfsContextPendingChangesPageUndo
+2014-06-03 15:52:38,452,View.File
+2014-06-03 15:52:38,452,TeamFoundationContextMenus.PendingChangesPageChangestoInclude.TfsContextPendingChangesPageCompareWithWorkspaceVersion
+2014-06-03 15:54:01,452,View.Team Explorer
+2014-06-03 15:54:03,452,TeamFoundationContextMenus.PendingChangesPageChangestoInclude.TfsContextPendingChangesPageCompareWithWorkspaceVersion
+2014-06-03 15:54:04,452,View.File
+2014-06-03 15:54:21,452,View.Team Explorer
+2014-06-03 15:55:06,452,TeamFoundationContextMenus.PendingChangesPageChangestoInclude.TfsContextPendingChangesPageUndo
+2014-06-03 15:55:19,452,TeamFoundationContextMenus.PendingChangesPageChangestoInclude.TfsContextPendingChangesPageUndo
+2014-06-03 15:55:41,452,View.VisualStudioBgOrFg
+2014-06-03 15:56:36,452,TeamFoundationContextMenus.PendingChangesPageChangestoInclude.TfsContextPendingChangesPageUndo
+2014-06-03 15:56:51,452,View.File
+2014-06-03 15:56:51,452,TeamFoundationContextMenus.PendingChangesPageChangestoInclude.TfsContextPendingChangesPageCompareWithLatestVersion
+2014-06-03 15:56:56,452,View.Team Explorer
+2014-06-03 15:56:59,452,View.File
+2014-06-03 15:56:59,452,TeamFoundationContextMenus.PendingChangesPageChangestoInclude.TfsContextPendingChangesPageCompareWithWorkspaceVersion
+2014-06-03 15:57:08,452,View.Source Control Explorer
+2014-06-03 15:57:09,452,View.Team Explorer
+2014-06-03 15:57:11,452,View.VisualStudioBgOrFg
+2014-06-03 15:57:17,452,TeamFoundationContextMenus.PendingChangesPageChangestoInclude.TfsContextPendingChangesPageUndo
+2014-06-03 15:57:43,452,TeamFoundationContextMenus.PendingChangesPageChangestoInclude.TfsContextPendingChangesPageCompareWithWorkspaceVersion
+2014-06-03 15:57:43,452,View.File
+2014-06-03 15:57:52,452,View.Team Explorer
+2014-06-03 15:57:56,452,TeamFoundationContextMenus.PendingChangesPageChangestoInclude.TfsContextPendingChangesPageCompareWithWorkspaceVersion
+2014-06-03 15:57:56,452,View.File
+2014-06-03 15:58:02,452,View.Source Control Explorer
+2014-06-03 15:58:04,452,View.Team Explorer
+2014-06-03 15:58:11,452,View.VisualStudioBgOrFg
+2014-06-03 15:58:15,452,TeamFoundationContextMenus.PendingChangesPageChangestoInclude.TfsContextPendingChangesPageUndo
+2014-06-03 15:59:05,452,TeamFoundationContextMenus.PendingChangesPageChangestoInclude.TfsContextPendingChangesPageUndo
+2014-06-03 15:59:17,452,View.History
+2014-06-03 15:59:17,452,TeamFoundationContextMenus.PendingChangesPageChangestoInclude.TfsContextPendingChangesPageHistory
+2014-06-03 15:59:28,452,View.Source Control Explorer
+2014-06-03 15:59:32,452,View.Team Explorer
+2014-06-03 15:59:34,452,TeamFoundationContextMenus.PendingChangesPageChangestoInclude.TfsContextPendingChangesPageCompareWithLatestVersion
+2014-06-03 15:59:34,452,View.File
+2014-06-03 15:59:41,452,View.Source Control Explorer
+2014-06-03 15:59:43,452,View.Team Explorer
+2014-06-03 15:59:53,452,TeamFoundationContextMenus.PendingChangesPageChangestoInclude.TfsContextPendingChangesPageUndo
+2014-06-03 16:00:10,452,TeamFoundationContextMenus.PendingChangesPageChangestoInclude.TfsContextPendingChangesPageExcludeChanges
+2014-06-03 16:00:41,452,View.VisualStudioBgOrFg
+2014-06-03 16:10:12,452,View.VisualStudioBgOrFg
+2014-06-03 18:16:40,452,TeamFoundationContextMenus.PendingChangesPageChangestoInclude.TfsContextPendingChangesPageUndo
+2014-06-03 18:18:52,452,TeamFoundationContextMenus.PendingChangesPageChangestoInclude.TfsContextPendingChangesPageUndo
+2014-06-03 18:19:21,452,View.Source Control Explorer
+2014-06-03 18:19:30,452,View.History
+2014-06-03 18:22:21,452,View.Team Explorer
+2014-06-03 18:22:57,452,View.History
+2014-06-03 18:23:06,452,View.File
+2014-06-03 18:23:08,452,View.History
+2014-06-03 18:23:09,452,View.Source Control Explorer
+2014-06-03 18:23:56,452,View.Team Explorer
+2014-06-03 18:24:01,452,TeamFoundationContextMenus.PendingChangesPageChangestoInclude.TfsContextPendingChangesPageUndo
+2014-06-03 18:24:44,452,View.VisualStudioBgOrFg
+2014-06-03 18:34:14,452,View.VisualStudioBgOrFg
+2014-06-03 19:24:27,452,View.File
+2014-06-03 19:24:32,452,View.Source Control Explorer
+2014-06-03 19:25:57,452,View.File
+2014-06-03 19:26:07,452,View.OnChangeCaretLine
+2014-06-03 19:26:13,452,View.Source Control Explorer
+2014-06-03 19:26:45,452,View.VisualStudioBgOrFg
+2014-06-03 19:27:10,452,View.File
+2014-06-03 19:27:17,452,View.Source Control Explorer
+2014-06-03 19:27:21,452,View.File
+2014-06-03 19:27:45,452,View.VisualStudioBgOrFg
+2014-06-03 19:39:25,452,View.File
+2014-06-03 19:43:15,452,View.VisualStudioBgOrFg
+2014-06-03 19:55:36,452,View.File
+2014-06-03 19:56:15,452,View.VisualStudioBgOrFg
+2014-06-03 22:14:38,452,View.Team Explorer
+2014-06-03 22:15:20,452,View.VisualStudioBgOrFg
+2014-06-04 00:11:45,452,View.Source Control Explorer
+2014-06-04 00:12:35,452,View.Team Explorer
+2014-06-04 00:13:25,452,View.VisualStudioBgOrFg
+2014-06-04 00:15:26,452,View.Source Control Explorer
+2014-06-04 00:15:55,452,View.VisualStudioBgOrFg
+2014-06-04 00:33:40,452,View.Team Explorer
+2014-06-04 00:34:25,452,View.VisualStudioBgOrFg
+2014-06-04 00:43:58,452,View.Source Control Explorer
+2014-06-04 00:45:00,452,View.Team Explorer
+2014-06-04 00:45:55,452,View.VisualStudioBgOrFg
+2014-06-04 15:41:23,452,View.Source Control Explorer
+2014-06-04 15:42:33,452,View.File
+2014-06-04 15:42:35,452,View.Source Control Explorer
+2014-06-04 15:43:08,452,View.File
+2014-06-04 15:43:09,452,View.Source Control Explorer
+2014-06-04 15:43:42,452,View.File
+2014-06-04 15:43:44,452,View.Source Control Explorer
+2014-06-04 15:44:32,452,View.File
+2014-06-04 15:44:32,452,TSqlEditorDatabaseCombo
+2014-06-04 15:44:33,452,TSqlEditorDatabaseCombo
+2014-06-04 15:44:35,452,View.Source Control Explorer
+2014-06-04 15:45:23,452,View.VisualStudioBgOrFg
+2014-06-04 15:54:53,452,View.VisualStudioBgOrFg
+2014-06-04 18:18:23,452,Edit.Delete
+2014-06-04 18:18:35,452,View.File
+2014-06-04 18:18:35,452,TSqlEditorDatabaseCombo
+2014-06-04 18:18:36,452,TSqlEditorDatabaseCombo
+2014-06-04 18:18:37,452,View.Source Control Explorer
+2014-06-04 18:18:37,452,TSqlEditorDatabaseCombo
+2014-06-04 18:18:59,452,View.File
+2014-06-04 18:19:01,452,View.Source Control Explorer
+2014-06-04 18:19:05,452,View.File
+2014-06-04 18:19:06,452,View.Source Control Explorer
+2014-06-04 18:19:18,452,Edit.Delete
+2014-06-04 18:19:45,452,View.File
+2014-06-04 18:19:47,452,View.Source Control Explorer
+2014-06-04 18:19:49,452,Edit.Delete
+2014-06-04 18:20:58,452,View.File
+2014-06-04 18:21:03,452,View.Source Control Explorer
+2014-06-04 18:21:08,452,Edit.Delete
+2014-06-04 18:22:21,452,Edit.Delete
+2014-06-04 18:23:16,452,View.File
+2014-06-04 18:23:19,452,View.OnChangeScrollInfo
+2014-06-04 18:23:20,452,View.OnChangeScrollInfo
+2014-06-04 18:23:23,452,View.Source Control Explorer
+2014-06-04 18:23:28,452,View.File
+2014-06-04 18:23:30,452,View.Source Control Explorer
+2014-06-04 18:23:36,452,Edit.Delete
+2014-06-04 18:23:58,452,View.VisualStudioBgOrFg
+2014-06-04 18:24:08,452,View.Find Results 1
+2014-06-04 18:24:16,452,View.Source Control Explorer
+2014-06-04 18:24:35,452,View.File
+2014-06-04 18:24:38,452,View.Source Control Explorer
+2014-06-04 18:24:48,452,Edit.Delete
+2014-06-04 18:25:27,452,View.File
+2014-06-04 18:25:30,452,View.Source Control Explorer
+2014-06-04 18:25:37,452,Edit.Delete
+2014-06-04 18:27:05,452,View.File
+2014-06-04 18:27:06,452,View.Source Control Explorer
+2014-06-04 18:27:13,452,Edit.Delete
+2014-06-04 18:27:35,452,View.File
+2014-06-04 18:27:37,452,View.Source Control Explorer
+2014-06-04 18:27:58,452,View.VisualStudioBgOrFg
+2014-06-04 18:37:28,452,View.VisualStudioBgOrFg
+2014-06-04 19:37:26,452,View.Team Explorer
+2014-06-04 19:37:30,452,View.VisualStudioBgOrFg
+2014-06-04 19:40:30,452,View.VisualStudioBgOrFg
+2014-06-04 19:41:12,452,View.Source Control Explorer
+2014-06-04 19:41:54,452,View.Team Explorer
+2014-06-04 19:42:30,452,View.VisualStudioBgOrFg
+2014-06-04 20:18:45,452,View.File
+2014-06-04 20:18:52,452,View.Team Explorer
+2014-06-04 20:19:05,452,View.File
+2014-06-04 20:19:55,452,View.File
+2014-06-04 20:19:55,452,View.Team Explorer
+2014-06-04 20:20:05,452,View.Team Explorer
+2014-06-04 20:20:07,452,View.Team Explorer
+2014-06-04 20:20:07,452,View.File
+2014-06-04 20:21:01,452,View.VisualStudioBgOrFg
+2014-06-04 20:23:37,452,View.Team Explorer
+2014-06-04 20:23:39,452,View.Source Control Explorer
+2014-06-04 20:24:31,452,View.VisualStudioBgOrFg
+2014-06-04 20:27:51,452,View.History
+2014-06-04 20:28:00,452,View.Source Control Explorer
+2014-06-04 20:28:23,452,View.History
+2014-06-04 20:28:36,452,View.Source Control Explorer
+2014-06-04 20:29:01,452,View.VisualStudioBgOrFg
+2014-06-04 20:44:15,452,View.File
+2014-06-04 20:46:32,452,View.VisualStudioBgOrFg
+2014-06-04 20:50:02,452,View.VisualStudioBgOrFg
+2014-06-04 20:53:35,452,View.File
+2014-06-04 20:53:45,452,View.File
+2014-06-04 20:54:02,452,View.VisualStudioBgOrFg
+2014-06-04 21:06:32,452,View.VisualStudioBgOrFg
+2014-06-04 21:10:51,452,View.File
+2014-06-04 21:13:32,452,View.VisualStudioBgOrFg
+2014-06-04 21:15:02,452,View.VisualStudioBgOrFg
+2014-06-04 21:23:03,452,View.VisualStudioBgOrFg
+2014-06-04 21:26:33,452,View.VisualStudioBgOrFg
+2014-06-04 22:04:34,452,View.VisualStudioBgOrFg
+2014-06-04 22:12:28,452,View.Team Explorer
+2014-06-04 22:12:28,452,View.Source Control Explorer
+2014-06-04 22:12:29,452,View.Source Control Explorer
+2014-06-04 22:12:57,452,TeamFoundationContextMenus.SourceControlExplorer.Advanced.TfsContextExplorerProperties
+2014-06-04 22:13:04,452,View.VisualStudioBgOrFg
+2014-06-04 22:13:23,452,TeamFoundationContextMenus.SourceControlExplorer.Advanced.TfsContextExplorerProperties
+2014-06-04 22:13:39,452,TeamFoundationContextMenus.SourceControlExplorer.Advanced.TfsContextExplorerProperties
+2014-06-04 22:14:07,452,TeamFoundationContextMenus.SourceControlExplorer.Advanced.TfsContextExplorerSecurity
+2014-06-04 22:14:34,452,View.VisualStudioBgOrFg
+2014-06-04 22:14:46,452,TeamFoundationContextMenus.SourceControlExplorer.Advanced.TfsContextExplorerSecurity
+2014-06-04 22:16:05,452,TeamFoundationContextMenus.SourceControlExplorer.Advanced.TfsContextExplorerSecurity
+2014-06-04 22:16:34,452,View.VisualStudioBgOrFg
+2014-06-04 22:16:49,452,TeamFoundationContextMenus.SourceControlExplorer.Advanced.TfsContextExplorerSecurity
+2014-06-04 22:17:21,452,TeamFoundationContextMenus.SourceControlExplorer.Advanced.TfsContextExplorerSecurity
+2014-06-04 22:17:50,452,TeamFoundationContextMenus.SourceControlExplorer.Advanced.TfsContextExplorerSecurity
+2014-06-04 22:18:34,452,View.VisualStudioBgOrFg
+2014-06-04 22:28:05,452,View.VisualStudioBgOrFg
+2014-06-04 22:36:09,452,View.File
+2014-06-04 22:36:12,452,View.File
+2014-06-04 22:36:15,452,View.History
+2014-06-04 22:36:18,452,View.File
+2014-06-04 22:36:19,452,View.File
+2014-06-04 22:36:22,452,View.File
+2014-06-04 22:36:25,452,View.File
+2014-06-04 22:36:26,452,View.File
+2014-06-04 22:36:31,452,View.Resolve Conflicts
+2014-06-04 22:36:32,452,View.File
+2014-06-04 22:36:35,452,View.File
+2014-06-04 22:36:37,452,View.File
+2014-06-04 22:36:41,452,View.File
+2014-06-04 22:36:44,452,View.File
+2014-06-04 22:36:47,452,View.File
+2014-06-04 22:37:01,452,View.File
+2014-06-04 22:37:35,452,View.VisualStudioBgOrFg
+2014-06-04 22:41:35,452,View.VisualStudioBgOrFg
+2014-06-04 22:42:29,452,View.Team Explorer
+2014-06-04 22:42:34,452,View.File
+2014-06-04 22:45:35,452,View.VisualStudioBgOrFg
+2014-06-04 23:03:58,452,View.Source Control Explorer
+2014-06-04 23:03:58,452,File.Exit
+2014-06-09 21:50:46,452,View.File
+2014-06-09 21:51:12,452,View.VisualStudioBgOrFg
+2014-06-09 21:58:12,452,View.VisualStudioBgOrFg
+2014-06-09 22:02:00,452,View.File
+2014-06-09 22:04:12,452,View.VisualStudioBgOrFg
+2014-06-09 22:09:40,452,View.Navigation Context Window
+2014-06-09 22:10:12,452,View.VisualStudioBgOrFg
+2014-06-09 22:10:59,452,View.File
+2014-06-09 22:15:02,452,View.File
+2014-06-09 22:15:42,452,View.VisualStudioBgOrFg
+2014-06-09 22:19:51,452,View.File
+2014-06-09 22:20:42,452,View.VisualStudioBgOrFg
+2014-06-09 22:37:47,452,View.File
+2014-06-09 22:37:50,452,View.File
+2014-06-09 22:37:55,452,View.File
+2014-06-09 22:37:57,452,View.File
+2014-06-09 22:38:03,452,View.File
+2014-06-09 22:38:11,452,View.File
+2014-06-09 22:38:43,452,View.VisualStudioBgOrFg
+2014-06-09 22:44:06,452,View.File
+2014-06-09 22:44:41,452,View.File
+2014-06-09 22:45:13,452,View.VisualStudioBgOrFg
+2014-06-09 22:55:09,452,View.File
+2014-06-09 22:55:43,452,View.VisualStudioBgOrFg
+2014-06-09 23:01:13,452,View.VisualStudioBgOrFg
+2014-06-09 23:03:21,452,View.File
+2014-06-09 23:12:07,452,View.File
+2014-06-09 23:12:33,452,View.File
+2014-06-09 23:12:44,452,View.VisualStudioBgOrFg
+2014-06-09 23:16:06,452,View.Navigation Context Window
+2014-06-09 23:16:09,452,View.File
+2014-06-09 23:16:11,452,View.File
+2014-06-09 23:16:44,452,View.VisualStudioBgOrFg
+2014-06-10 14:17:31,452,View.VisualStudioBgOrFg
+2014-06-10 15:09:24,452,View.File
+2014-06-10 15:10:32,452,View.VisualStudioBgOrFg
+2014-06-10 15:10:59,452,View.Navigation Context Window
+2014-06-10 15:24:25,452,View.File
+2014-06-10 15:48:03,452,View.VisualStudioBgOrFg
+2014-06-10 15:49:57,452,View.File
+2014-06-10 15:50:10,452,View.File
+2014-06-10 15:50:33,452,View.VisualStudioBgOrFg
+2014-06-10 15:58:04,452,View.VisualStudioBgOrFg
+2014-06-10 15:59:04,452,View.VisualStudioBgOrFg
+2014-06-10 16:01:04,452,View.VisualStudioBgOrFg
+2014-06-10 16:02:50,452,View.File
+2014-06-10 16:03:34,452,View.VisualStudioBgOrFg
+2014-06-10 16:07:04,452,View.VisualStudioBgOrFg
+2014-06-10 16:07:27,452,View.File
+2014-06-10 16:08:05,452,View.File
+2014-06-10 16:10:04,452,View.VisualStudioBgOrFg
+2014-06-10 16:17:40,452,View.File
+2014-06-10 16:18:34,452,View.VisualStudioBgOrFg
+2014-06-10 16:24:31,452,View.File
+2014-06-10 16:25:04,452,View.VisualStudioBgOrFg
+2014-06-10 16:27:17,452,View.File
+2014-06-10 16:28:35,452,View.VisualStudioBgOrFg
+2014-06-10 16:57:44,452,View.File
+2014-06-10 16:57:45,452,View.File
+2014-06-10 16:57:55,452,View.Notifications
+2014-06-10 16:59:54,452,View.File
+2014-06-10 17:00:05,452,View.VisualStudioBgOrFg
+2014-06-10 18:25:49,452,View.File
+2014-06-10 18:27:08,452,View.VisualStudioBgOrFg
+2014-06-10 20:48:45,452,View.File
+2014-06-10 22:13:08,452,View.Source Control Explorer
+2014-07-07 16:22:56,452,View.File
+2014-07-07 16:22:58,452,View.VisualStudioBgOrFg
+2014-07-07 16:24:21,452,View.Team Explorer
+2014-07-07 16:24:39,452,View.File
+2014-07-07 16:25:28,452,View.VisualStudioBgOrFg
+2014-07-07 18:55:40,452,View.File
+2014-07-07 18:59:02,452,View.VisualStudioBgOrFg
+2014-07-07 19:02:02,452,View.VisualStudioBgOrFg
+2014-07-07 19:15:33,452,View.VisualStudioBgOrFg
+2014-07-07 21:53:08,452,View.VisualStudioBgOrFg
+2014-07-07 22:17:09,452,View.VisualStudioBgOrFg
+2014-07-07 22:19:09,452,View.VisualStudioBgOrFg
+2014-07-07 22:37:40,452,View.VisualStudioBgOrFg
+2014-07-07 22:47:10,452,View.VisualStudioBgOrFg
+2014-07-07 22:58:50,452,View.File
+2014-07-07 22:58:51,452,View.File
+2014-07-07 23:00:11,452,View.VisualStudioBgOrFg
+2014-07-07 23:57:12,452,View.VisualStudioBgOrFg
+2014-07-07 23:57:48,452,View.Source Control Explorer
+2014-07-07 23:57:48,452,File.Exit
+2014-08-13 18:56:06,452,View.VisualStudioBgOrFg
+2014-08-13 18:56:13,452,View.Team Explorer
+2014-08-13 18:56:13,452,View.TfsPendingChanges
+2014-08-13 18:58:36,452,View.VisualStudioBgOrFg
+2014-08-13 19:06:37,452,View.VisualStudioBgOrFg
+2014-08-14 19:44:45,452,View.File
+2014-08-14 19:48:44,452,View.VisualStudioBgOrFg
+2014-08-14 20:38:18,452,View.Team Explorer
+2014-08-14 22:34:23,452,View.File
+2014-08-14 22:35:19,452,View.VisualStudioBgOrFg
+2014-08-15 21:52:03,452,View.File
+2014-08-15 21:52:44,452,View.VisualStudioBgOrFg
+2014-08-16 05:52:43,452,View.Source Control Explorer
+2014-08-16 05:52:45,452,File.Exit
+2014-08-20 19:45:38,452,View.VisualStudioBgOrFg
+2014-08-20 19:54:38,452,View.VisualStudioBgOrFg
+2014-08-21 19:36:01,452,View.VisualStudioBgOrFg
+2014-08-21 19:49:01,452,View.VisualStudioBgOrFg
+2014-08-21 22:10:37,452,View.File
+2014-08-21 22:11:35,452,View.VisualStudioBgOrFg
+2014-08-23 01:08:17,452,View.Source Control Explorer
+2014-08-23 01:08:17,452,File.Exit
+2014-08-26 21:01:37,452,View.Navigation Context Window
+2014-08-26 21:01:37,452,View.Output
+2014-08-26 21:01:37,452,View.Code Navigation Window
+2014-08-26 21:01:37,452,View.Output
+2014-08-26 21:01:46,452,View.Solution Explorer
+2014-08-26 21:02:07,452,View.File
+2014-08-26 21:02:09,452,Edit.Find
+2014-08-26 21:02:26,452,View.OnChangeScrollInfo
+2014-08-26 21:02:26,452,View.File
+2014-08-26 21:02:46,452,View.Find Results 1
+2014-08-26 21:03:15,452,View.File
+2014-08-26 21:03:20,452,View.OnChangeScrollInfo
+2014-08-26 21:04:30,452,View.VisualStudioBgOrFg
+2014-08-26 21:12:31,452,View.VisualStudioBgOrFg
+2014-08-26 23:37:52,452,View.Find Results 1
+2014-09-05 18:39:08,452,View.VisualStudioBgOrFg
+2014-09-05 18:40:16,452,View.Source Control Explorer
+2014-09-05 18:40:51,452,View.File
+2014-09-05 18:40:56,452,View.File
+2014-09-05 18:40:59,452,View.File
+2014-09-05 18:41:01,452,View.File
+2014-09-05 18:41:07,452,View.File
+2014-09-05 18:41:11,452,View.OnChangeCaretLine
+2014-09-05 18:41:14,452,View.File
+2014-09-05 18:44:38,452,View.VisualStudioBgOrFg
+2014-09-05 18:46:04,452,View.File
+2014-09-05 18:46:05,452,View.Source Control Explorer
+2014-09-05 18:46:09,452,View.Team Explorer
+2014-09-05 18:46:37,452,View.History
+2014-09-05 18:46:46,452,View.Team Explorer
+2014-09-05 18:47:34,452,View.History
+2014-09-05 18:48:18,452,View.Team Explorer
+2014-09-05 18:48:21,452,View.History
+2014-09-05 18:48:39,452,View.VisualStudioBgOrFg
+2014-09-05 20:22:24,452,View.Source Control Explorer
+2014-09-05 20:24:50,452,View.Team Explorer
+2014-09-05 20:24:50,452,View.TfsPendingChanges
+2014-09-05 20:25:41,452,View.VisualStudioBgOrFg
+2014-09-05 20:26:18,452,View.Source Control Explorer
+2014-09-05 20:26:40,452,View.Team Explorer
+2014-09-05 20:26:48,452,View.Navigation Context Window
+2014-09-05 20:26:50,452,View.Solution Explorer
+2014-09-05 20:26:51,452,View.Team Explorer
+2014-09-05 20:26:53,452,View.Navigation Context Window
+2014-09-05 20:27:11,452,View.TfsPendingChanges
+2014-09-05 20:27:11,452,View.Team Explorer
+2014-09-05 20:27:41,452,View.VisualStudioBgOrFg
+2014-09-05 20:28:15,452,View.Source Control Explorer
+2014-09-05 20:28:33,452,View.Source Control Explorer
+2014-09-05 20:28:41,452,View.VisualStudioBgOrFg
+2014-09-05 20:29:24,452,View.Team Explorer
+2014-09-05 20:29:59,452,View.Source Control Explorer
+2014-09-05 20:30:12,452,View.VisualStudioBgOrFg
+2014-09-05 20:31:26,452,View.Output
+2014-09-05 20:31:33,452,View.Team Explorer
+2014-09-05 20:32:42,452,View.VisualStudioBgOrFg
+2014-09-05 20:37:12,452,View.VisualStudioBgOrFg
+2014-09-05 20:43:46,452,View.Source Control Explorer
+2014-09-05 20:44:06,452,View.Team Explorer
+2014-09-05 20:44:53,452,View.Source Control Explorer
+2014-09-05 20:45:12,452,View.VisualStudioBgOrFg
+2014-09-08 20:25:00,452,View.File
+2014-09-08 20:26:06,452,View.VisualStudioBgOrFg
+2014-09-08 20:29:06,452,View.VisualStudioBgOrFg
+2014-09-08 20:49:07,452,View.VisualStudioBgOrFg
+2014-09-08 20:51:37,452,View.VisualStudioBgOrFg
+2014-09-08 20:53:11,452,View.Source Control Explorer
+2014-09-08 20:53:37,452,View.VisualStudioBgOrFg
+2014-09-08 20:55:37,452,View.VisualStudioBgOrFg
+2014-09-09 16:56:11,452,View.Output
+2014-09-09 18:14:07,452,View.Source Control Explorer
+2014-09-09 18:14:31,452,View.VisualStudioBgOrFg
+2014-09-09 18:39:32,452,View.File
+2014-09-09 18:40:31,452,View.VisualStudioBgOrFg
+2014-09-09 18:42:38,452,View.Team Explorer
+2014-09-09 18:42:43,452,View.File
+2014-09-09 18:43:01,452,View.VisualStudioBgOrFg
+2014-09-09 18:44:31,452,View.VisualStudioBgOrFg
+2014-09-09 19:30:03,452,View.VisualStudioBgOrFg
+2014-09-10 22:55:59,452,View.Source Control Explorer
+2014-09-10 22:56:44,452,View.VisualStudioBgOrFg
+2014-09-10 23:08:45,452,View.VisualStudioBgOrFg
+2014-09-10 23:23:45,452,View.VisualStudioBgOrFg
+2014-09-11 22:31:26,452,View.VisualStudioBgOrFg
+2014-09-12 18:06:50,452,View.History
+2014-09-12 18:07:22,452,View.Source Control Explorer
+2014-09-12 18:07:58,452,View.TfsPendingChanges
+2014-09-12 18:07:58,452,View.Team Explorer
+2014-09-12 18:09:11,452,View.VisualStudioBgOrFg
+2014-09-12 18:18:11,452,View.VisualStudioBgOrFg
+2014-09-12 18:20:30,452,View.Source Control Explorer
+2014-09-12 18:21:02,452,View.Team Explorer
+2014-09-12 18:21:37,452,View.Source Control Explorer
+2014-09-12 18:21:42,452,View.VisualStudioBgOrFg
+2014-09-12 18:22:04,452,View.Team Explorer
+2014-09-12 18:22:40,452,View.Source Control Explorer
+2014-09-12 18:22:42,452,View.VisualStudioBgOrFg
+2014-09-12 18:22:51,452,View.Team Explorer
+2014-09-12 18:23:42,452,View.VisualStudioBgOrFg
+2014-09-12 18:33:52,452,View.Source Control Explorer
+2014-09-12 18:33:59,452,View.Source Control Explorer
+2014-09-12 18:34:03,452,View.Source Control Explorer
+2014-09-12 18:34:06,452,View.File
+2014-09-12 18:34:08,452,View.Source Control Explorer
+2014-09-12 18:34:13,452,View.History
+2014-09-12 18:34:14,452,View.History
+2014-09-12 18:34:14,452,View.File
+2014-09-12 18:35:12,452,View.VisualStudioBgOrFg
+2014-09-12 20:37:14,452,View.File
+2014-09-12 20:37:30,452,View.File
+2014-09-12 20:37:55,452,View.File
+2014-09-12 20:37:58,452,View.File
+2014-09-12 20:38:16,452,View.VisualStudioBgOrFg
+2014-09-12 20:40:03,452,View.File
+2014-09-12 20:40:05,452,View.File
+2014-09-12 20:40:07,452,View.History
+2014-09-12 20:40:09,452,View.History
+2014-09-12 20:40:10,452,View.Source Control Explorer
+2014-09-12 20:40:12,452,View.History
+2014-09-12 20:44:44,452,View.Source Control Explorer
+2014-09-12 20:44:46,452,View.VisualStudioBgOrFg
+2014-09-12 20:48:41,452,View.Resolve Conflicts
+2014-09-12 20:56:00,452,File.Exit
+2014-09-13 03:09:43,452,View.VisualStudioBgOrFg
+2014-09-13 03:09:57,452,View.Team Explorer
+2014-09-13 03:10:43,452,View.VisualStudioBgOrFg
+2014-09-13 03:17:44,452,View.VisualStudioBgOrFg
+2014-09-13 03:21:19,452,View.History
+2014-09-13 03:21:33,452,View.Source Control Explorer
+2014-09-13 03:22:44,452,View.History
+2014-09-13 03:24:14,452,View.VisualStudioBgOrFg
+2014-09-13 03:28:44,452,View.VisualStudioBgOrFg
+2014-09-13 03:56:23,452,View.Team Explorer
+2014-09-13 03:57:45,452,View.VisualStudioBgOrFg
+2014-09-13 03:58:21,452,View.Resolve Conflicts
+2014-09-13 03:58:28,452,View.Source Control Explorer
+2014-09-13 03:58:40,452,View.TfsPendingChanges
+2014-09-13 03:58:40,452,View.Team Explorer
+2014-09-13 03:59:36,452,View.Team Explorer
+2014-09-13 04:01:32,452,View.Team Explorer
+2014-09-13 04:02:58,452,View.Team Explorer
+2014-09-13 04:03:15,452,View.VisualStudioBgOrFg
+2014-09-13 04:04:21,452,View.Team Explorer
+2014-09-13 04:05:44,452,View.Team Explorer
+2014-09-13 04:08:15,452,View.VisualStudioBgOrFg
+2014-09-13 04:08:45,452,View.VisualStudioBgOrFg
+2014-09-13 04:09:04,452,View.Team Explorer
+2014-09-13 04:10:15,452,View.VisualStudioBgOrFg
+2014-09-13 05:00:10,452,View.Team Explorer
+2014-09-13 05:00:24,452,View.Source Control Explorer
+2014-09-13 05:00:47,452,View.VisualStudioBgOrFg
+2014-09-13 05:22:46,452,View.History
+2014-09-13 05:23:18,452,View.Team Explorer
+2014-09-13 05:23:21,452,View.History
+2014-09-13 05:23:34,452,View.Team Explorer
+2014-09-13 05:23:57,452,TeamFoundationContextMenus.PendingChangesPageChangestoInclude.TfsContextPendingChangesPageHistory
+2014-09-13 05:23:57,452,View.History
+2014-09-13 05:24:09,452,View.Team Explorer
+2014-09-13 05:24:13,452,View.History
+2014-09-13 05:24:13,452,TeamFoundationContextMenus.PendingChangesPageChangestoInclude.TfsContextPendingChangesPageHistory
+2014-09-13 05:24:20,452,View.File
+2014-09-13 05:24:30,452,View.History
+2014-09-13 05:24:42,452,View.Team Explorer
+2014-09-13 05:24:48,452,View.History
+2014-09-13 05:24:55,452,View.File
+2014-09-13 05:25:01,452,View.History
+2014-09-13 05:25:17,452,View.VisualStudioBgOrFg
+2014-09-13 05:25:34,452,View.History
+2014-09-13 05:25:40,452,View.History
+2014-09-13 05:25:44,452,View.Team Explorer
+2014-09-13 05:25:47,452,TeamFoundationContextMenus.PendingChangesPageChangestoInclude.TfsContextPendingChangesPageHistory
+2014-09-13 05:25:47,452,View.History
+2014-09-13 05:25:59,452,View.Team Explorer
+2014-09-13 05:26:04,452,TeamFoundationContextMenus.PendingChangesPageChangestoInclude.TfsContextPendingChangesPageHistory
+2014-09-13 05:26:04,452,View.History
+2014-09-13 05:26:11,452,View.File
+2014-09-13 05:26:47,452,View.VisualStudioBgOrFg
+2014-09-13 05:27:09,452,View.History
+2014-09-13 05:27:30,452,View.Team Explorer
+2014-09-13 05:27:41,452,View.History
+2014-09-13 05:27:48,452,TeamFoundationContextMenus.SourceControlHistoryChangesets.TfsContextHistoryRollbackChangesInThisVersion
+2014-09-13 05:28:17,452,View.VisualStudioBgOrFg
+2014-09-13 05:29:40,452,View.Team Explorer
+2014-09-13 05:29:47,452,View.VisualStudioBgOrFg
+2014-09-13 05:29:56,452,View.Refresh
+2014-09-13 05:30:40,452,View.History
+2014-09-13 05:30:43,452,View.History
+2014-09-13 05:32:48,452,View.VisualStudioBgOrFg
+2014-09-13 05:40:18,452,View.VisualStudioBgOrFg
+2014-09-13 05:49:34,452,View.Team Explorer
+2014-09-13 05:50:18,452,View.VisualStudioBgOrFg
+2014-09-13 05:51:39,452,View.History
+2014-09-13 05:51:43,452,View.History
+2014-09-13 05:51:45,452,View.Source Control Explorer
+2014-09-13 05:52:30,452,View.History
+2014-09-13 05:53:06,452,View.Source Control Explorer
+2014-09-13 05:55:18,452,View.VisualStudioBgOrFg
+2014-09-13 05:57:18,452,View.VisualStudioBgOrFg
+2014-09-13 06:28:50,452,File.Exit
+2014-09-17 19:47:05,452,View.VisualStudioBgOrFg
+2014-09-17 19:48:54,452,Edit.Find
+2014-09-17 19:50:45,452,View.History
+2014-09-17 19:50:49,452,View.Source Control Explorer
+2014-09-17 19:57:35,452,View.VisualStudioBgOrFg
+2014-09-17 19:59:05,452,View.VisualStudioBgOrFg
+2014-09-17 23:14:41,452,View.VisualStudioBgOrFg
+2014-09-17 23:24:41,452,View.VisualStudioBgOrFg
+2014-09-18 18:59:18,452,View.File
+2014-09-18 19:00:13,452,View.Team Explorer
+2014-09-18 19:00:20,452,View.File
+2014-09-18 19:00:23,452,View.Team Explorer
+2014-09-18 19:07:44,452,View.VisualStudioBgOrFg
+2014-09-18 21:06:52,452,View.File
+2014-09-18 21:09:18,452,View.VisualStudioBgOrFg
+2014-09-18 22:55:59,452,View.File
+2014-09-18 23:00:51,452,View.VisualStudioBgOrFg
+2014-09-18 23:07:21,452,View.VisualStudioBgOrFg
+2014-09-18 23:41:15,452,View.Source Control Explorer
+2014-09-18 23:43:22,452,View.VisualStudioBgOrFg
+2014-09-19 15:47:56,452,View.History
+2014-09-19 15:48:00,452,View.Team Explorer
+2014-09-19 15:48:03,452,View.History
+2014-09-19 15:48:43,452,View.Source Control Explorer
+2014-09-19 15:49:17,452,View.VisualStudioBgOrFg
+2014-09-19 15:56:17,452,View.VisualStudioBgOrFg
+2014-09-19 16:08:17,452,View.VisualStudioBgOrFg
+2014-09-19 19:05:51,452,View.Team Explorer
+2014-09-19 19:06:52,452,View.VisualStudioBgOrFg
+2014-10-02 14:45:27,452,View.VisualStudioBgOrFg
+2014-10-02 14:46:06,452,View.File
+2014-10-02 14:46:26,452,View.Team Explorer
+2014-10-02 14:46:29,452,View.File
+2014-10-02 14:46:30,452,View.Team Explorer
+2014-10-02 14:46:33,452,View.File
+2014-10-02 14:47:29,452,Edit.Find
+2014-10-02 14:48:07,452,View.File
+2014-10-02 14:49:19,452,View.File
+2014-10-02 14:52:27,452,View.VisualStudioBgOrFg
+2014-10-02 14:57:57,452,View.VisualStudioBgOrFg
+2014-10-02 16:09:29,452,View.VisualStudioBgOrFg
+2014-10-02 16:12:57,452,View.Team Explorer
+2014-10-02 16:13:15,452,View.File
+2014-10-02 16:14:59,452,View.Source Control Explorer
+2014-10-02 16:15:30,452,View.VisualStudioBgOrFg
+2014-10-02 16:56:31,452,View.VisualStudioBgOrFg
+2014-10-09 23:20:01,452,View.VisualStudioBgOrFg
+2014-10-09 23:20:13,452,View.OnChangeCaretLine
+2014-10-09 23:20:13,452,View.OnChangeScrollInfo
+2014-10-09 23:20:13,452,View.File
+2014-10-09 23:20:16,452,View.OnChangeScrollInfo
+2014-10-09 23:20:18,452,View.OnChangeScrollInfo
+2014-10-09 23:20:32,452,View.VisualStudioBgOrFg
+2014-10-09 23:23:06,452,View.OnChangeScrollInfo
+2014-10-09 23:23:07,452,View.OnChangeScrollInfo
+2014-10-09 23:23:23,452,View.OnChangeScrollInfo
+2014-10-09 23:23:24,452,View.OnChangeScrollInfo
+2014-10-09 23:23:25,452,View.OnChangeScrollInfo
+2014-10-09 23:24:28,452,View.OnChangeCaretLine
+2014-10-09 23:25:36,452,View.OnChangeCaretLine
+2014-10-09 23:25:39,452,View.Source Control Explorer
+2014-10-09 23:25:44,452,Edit.FindinFiles
+2014-10-09 23:25:44,452,View.Find and Replace
+2014-10-09 23:25:56,452,View.Find Results 1
+2014-10-09 23:26:23,452,View.File
+2014-10-09 23:26:59,452,View.OnChangeCaretLine
+2014-10-09 23:26:59,452,View.OnChangeScrollInfo
+2014-10-09 23:27:12,452,View.OnChangeCaretLine
+2014-10-09 23:27:46,452,View.OnChangeScrollInfo
+2014-10-09 23:27:46,452,View.OnChangeCaretLine
+2014-10-09 23:27:46,452,View.Find Results 1
+2014-10-09 23:27:46,452,View.File
+2014-10-09 23:27:50,452,View.Find Results 1
+2014-10-09 23:27:50,452,View.File
+2014-10-09 23:27:50,452,View.OnChangeCaretLine
+2014-10-09 23:27:52,452,View.Find Results 1
+2014-10-09 23:27:52,452,View.File
+2014-10-09 23:27:53,452,View.OnChangeCaretLine
+2014-10-09 23:27:53,452,View.OnChangeScrollInfo
+2014-10-09 23:28:07,452,View.OnChangeScrollInfo
+2014-10-09 23:28:08,452,View.OnChangeScrollInfo
+2014-10-09 23:28:09,452,View.OnChangeScrollInfo
+2014-10-09 23:28:40,452,View.OnChangeScrollInfo
+2014-10-09 23:28:55,452,View.OnChangeScrollInfo
+2014-10-09 23:28:55,452,View.Find Results 1
+2014-10-09 23:28:55,452,View.File
+2014-10-09 23:28:55,452,View.OnChangeCaretLine
+2014-10-09 23:29:32,452,View.VisualStudioBgOrFg
+2014-10-09 23:29:37,452,View.OnChangeScrollInfo
+2014-10-09 23:29:38,452,View.OnChangeScrollInfo
+2014-10-09 23:29:42,452,View.OnChangeScrollInfo
+2014-10-09 23:29:49,452,View.OnChangeCaretLine
+2014-10-09 23:29:54,452,View.Find Results 1
+2014-10-09 23:30:03,452,View.OnChangeCaretLine
+2014-10-09 23:30:03,452,View.OnChangeScrollInfo
+2014-10-09 23:30:05,452,View.OnChangeCaretLine
+2014-10-09 23:30:05,452,View.OnChangeScrollInfo
+2014-10-09 23:30:13,452,View.File
+2014-10-09 23:30:25,452,View.OnChangeScrollInfo
+2014-10-09 23:30:33,452,View.OnChangeScrollInfo
+2014-10-09 23:30:38,452,View.Source Control Explorer
+2014-10-09 23:31:02,452,View.VisualStudioBgOrFg
+2014-10-09 23:33:32,452,View.VisualStudioBgOrFg
+2014-10-09 23:36:02,452,View.VisualStudioBgOrFg
+2014-10-10 13:54:41,452,View.File
+2014-10-10 13:55:02,452,View.VisualStudioBgOrFg
+2014-10-10 13:55:24,452,View.File
+2014-10-10 13:57:33,452,View.Team Explorer
+2014-10-10 13:58:00,452,File.Exit
+2014-10-10 14:00:02,452,View.Team Explorer
+2014-10-10 14:00:14,452,View.Server Explorer
+2014-10-10 14:00:16,452,View.VisualStudioBgOrFg
+2014-10-10 14:00:16,452,View.Toolbox
+2014-10-10 14:00:18,452,View.Team Explorer
+2014-10-10 14:00:45,452,File.Exit
+2014-10-20 21:41:16,452,View.VisualStudioBgOrFg
+2014-10-20 21:42:16,452,View.VisualStudioBgOrFg
+2014-10-20 21:43:46,452,View.VisualStudioBgOrFg
+2014-10-20 21:46:49,452,View.File
+2014-10-20 21:47:02,452,View.Team Explorer
+2014-10-20 21:47:09,452,File.Exit
+2014-10-27 19:09:07,452,View.History
+2014-10-27 19:09:10,452,View.History
+2014-10-27 19:09:11,452,View.History
+2014-10-27 19:09:12,452,View.VisualStudioBgOrFg
+2014-10-27 19:09:39,452,View.File
+2014-10-27 19:10:42,452,View.VisualStudioBgOrFg
+2014-10-27 19:10:54,452,View.File
+2014-10-27 19:11:04,452,View.Source Control Explorer
+2014-10-27 19:11:26,452,View.History
+2014-10-27 19:11:35,452,View.Team Explorer
+2014-10-27 19:11:51,452,View.File
+2014-10-27 19:11:51,452,TeamFoundationContextMenus.PendingChangesPageChangestoInclude.TfsContextPendingChangesPageCompareWithPreviousVersion
+2014-10-27 19:11:55,452,View.History
+2014-10-27 19:11:56,452,View.Team Explorer
+2014-10-27 19:11:59,452,TeamFoundationContextMenus.PendingChangesPageChangestoInclude.TfsContextPendingChangesPageCompareWithPreviousVersion
+2014-10-27 19:11:59,452,View.File
+2014-10-27 19:12:02,452,View.History
+2014-10-27 19:12:03,452,View.Team Explorer
+2014-10-27 19:12:09,452,TeamFoundationContextMenus.PendingChangesPageChangestoInclude.TfsContextPendingChangesPageCompareWithPreviousVersion
+2014-10-27 19:12:09,452,View.File
+2014-10-27 19:12:12,452,View.History
+2014-10-27 19:12:28,452,View.Team Explorer
+2014-10-27 19:12:48,452,View.Team Explorer
+2014-10-27 19:13:26,452,View.History
+2014-10-27 19:14:42,452,View.VisualStudioBgOrFg
+2014-10-27 19:22:13,452,View.VisualStudioBgOrFg
+2014-10-27 19:33:43,452,View.VisualStudioBgOrFg
+2014-10-27 20:02:56,452,View.Source Control Explorer
+2014-10-27 20:04:12,452,View.History
+2014-10-27 20:04:37,452,View.Team Explorer
+2014-10-27 20:04:53,452,View.Team Explorer
+2014-10-27 20:04:55,452,View.History
+2014-10-27 20:04:56,452,TeamFoundationContextMenus.PendingChangesPageChangestoInclude.TfsContextPendingChangesPageHistory
+2014-10-27 20:05:00,452,View.Team Explorer
+2014-10-27 20:05:03,452,View.Team Explorer
+2014-10-27 20:05:05,452,View.Team Explorer
+2014-10-27 20:05:10,452,TeamFoundationContextMenus.PendingChangesPageChangestoInclude.TfsContextPendingChangesPageCompareWithLatestVersion
+2014-10-27 20:05:11,452,View.File
+2014-10-27 20:05:16,452,View.Team Explorer
+2014-10-27 20:05:21,452,View.File
+2014-10-27 20:05:21,452,TeamFoundationContextMenus.PendingChangesPageChangestoInclude.TfsContextPendingChangesPageCompareWithPreviousVersion
+2014-10-27 20:05:28,452,View.Team Explorer
+2014-10-27 20:06:14,452,View.VisualStudioBgOrFg
+2014-10-27 20:11:40,452,View.Team Explorer
+2014-10-27 20:12:14,452,View.VisualStudioBgOrFg
+2014-10-27 20:12:57,452,View.File
+2014-10-27 20:13:44,452,View.VisualStudioBgOrFg
+2014-10-27 20:14:59,452,View.File
+2014-10-27 20:15:44,452,View.VisualStudioBgOrFg
+2014-10-27 20:21:04,452,View.File
+2014-10-27 20:21:45,452,View.VisualStudioBgOrFg
+2014-10-27 20:21:49,452,View.File
+2014-10-27 20:21:49,452,View.Find Results 1
+2014-10-27 20:33:01,452,View.File
+2014-10-27 20:33:19,452,View.Find Results 1
+2014-10-27 20:33:45,452,View.VisualStudioBgOrFg
+2014-10-27 20:34:27,452,View.File
+2014-10-27 20:35:37,452,View.File
+2014-10-27 20:35:46,452,View.File
+2014-10-27 20:37:39,452,View.File
+2014-10-27 20:37:54,452,View.Find Results 1
+2014-10-27 20:38:00,452,View.File
+2014-10-27 20:38:15,452,View.Source Control Explorer
+2014-10-27 20:38:21,452,View.History
+2014-10-27 20:38:23,452,View.Source Control Explorer
+2014-10-27 20:38:41,452,View.File
+2014-10-27 20:38:44,452,View.Source Control Explorer
+2014-10-27 20:38:53,452,View.File
+2014-10-27 20:38:59,452,View.Source Control Explorer
+2014-10-27 20:39:23,452,View.File
+2014-10-27 20:39:25,452,View.Source Control Explorer
+2014-10-27 20:39:34,452,View.History
+2014-10-27 20:39:39,452,View.Team Explorer
+2014-10-27 20:40:15,452,View.VisualStudioBgOrFg
+2014-10-27 20:43:23,452,View.Team Explorer
+2014-10-27 20:44:18,452,View.File
+2014-10-27 20:45:03,452,View.File
+2014-10-27 20:45:45,452,View.VisualStudioBgOrFg
+2014-10-27 20:48:45,452,View.VisualStudioBgOrFg
+2014-10-27 20:49:48,452,View.Find Results 1
+2014-10-27 20:49:56,452,View.File
+2014-10-27 20:50:38,452,View.Find Results 1
+2014-10-27 20:50:40,452,View.File
+2014-10-27 20:51:15,452,View.VisualStudioBgOrFg
+2014-10-27 20:51:43,452,View.File
+2014-10-27 20:52:15,452,View.VisualStudioBgOrFg
+2014-10-27 20:53:15,452,View.VisualStudioBgOrFg
+2014-10-27 20:55:55,452,View.File
+2014-10-27 20:56:20,452,View.File
+2014-10-27 21:09:40,452,View.File
+2014-10-27 21:10:46,452,View.VisualStudioBgOrFg
+2014-10-27 21:12:35,452,View.File
+2014-10-27 21:12:49,452,View.File
+2014-10-27 21:15:16,452,View.VisualStudioBgOrFg
+2014-10-27 21:16:16,452,View.VisualStudioBgOrFg
+2014-10-27 21:19:34,452,View.File
+2014-10-27 21:19:59,452,View.File
+2014-10-27 21:20:07,452,View.File
+2014-10-27 21:21:16,452,View.VisualStudioBgOrFg
+2014-10-27 21:22:46,452,View.File
+2014-10-27 21:23:03,452,View.File
+2014-10-27 21:23:16,452,View.VisualStudioBgOrFg
+2014-10-27 21:28:50,452,View.File
+2014-10-27 21:29:46,452,View.VisualStudioBgOrFg
+2014-10-27 21:30:07,452,View.File
+2014-10-27 21:30:28,452,View.File
+2014-10-27 21:32:16,452,View.VisualStudioBgOrFg
+2014-10-27 21:36:48,452,View.File
+2014-10-27 21:37:17,452,View.VisualStudioBgOrFg
+2014-10-27 21:39:44,452,View.File
+2014-10-27 21:40:17,452,View.VisualStudioBgOrFg
+2014-10-27 21:41:47,452,View.File
+2014-10-27 21:42:17,452,View.VisualStudioBgOrFg
+2014-10-27 21:43:18,452,View.File
+2014-10-27 21:46:42,452,View.File
+2014-10-27 21:47:17,452,View.VisualStudioBgOrFg
+2014-10-27 21:50:19,452,View.File
+2014-10-27 21:51:17,452,View.VisualStudioBgOrFg
+2014-10-27 21:54:46,452,View.File
+2014-10-27 21:55:17,452,View.VisualStudioBgOrFg
+2014-10-27 21:56:47,452,View.File
+2014-10-27 21:57:57,452,View.File
+2014-10-27 21:58:17,452,View.VisualStudioBgOrFg
+2014-10-27 21:58:50,452,View.File
+2014-10-27 22:00:57,452,View.File
+2014-10-27 22:02:18,452,View.VisualStudioBgOrFg
+2014-10-27 22:03:57,452,View.File
+2014-10-27 22:04:08,452,View.File
+2014-10-28 00:25:37,452,View.File
+2014-10-28 00:26:19,452,View.File
+2014-10-28 00:26:52,452,View.VisualStudioBgOrFg
+2014-10-28 00:51:36,452,View.File
+2014-10-28 00:51:40,452,View.File
+2014-10-28 00:51:43,452,View.File
+2014-10-28 00:51:44,452,View.File
+2014-10-28 00:51:47,452,View.Source Control Explorer
+2014-10-28 00:52:49,452,View.History
+2014-10-28 00:52:59,452,View.Team Explorer
+2014-10-28 00:53:10,452,View.History
+2014-10-28 00:53:14,452,View.Team Explorer
+2014-10-28 00:53:25,452,View.History
+2014-10-28 00:53:30,452,View.Team Explorer
+2014-10-28 00:53:39,452,View.History
+2014-10-28 00:53:42,452,View.Team Explorer
+2014-10-28 00:53:50,452,View.History
+2014-10-28 00:53:53,452,View.Team Explorer
+2014-10-28 00:54:01,452,View.History
+2014-10-28 00:54:03,452,View.Team Explorer
+2014-10-28 00:54:10,452,View.History
+2014-10-28 00:54:12,452,View.Team Explorer
+2014-10-28 00:54:20,452,View.History
+2014-10-28 00:54:23,452,View.Team Explorer
+2014-10-28 00:54:37,452,View.History
+2014-10-28 00:54:41,452,View.Team Explorer
+2014-10-28 00:55:13,452,View.Refresh
+2014-10-28 00:55:24,452,View.Source Control Explorer
+2014-10-28 00:55:27,452,View.History
+2014-10-28 00:55:41,452,View.Team Explorer
+2014-10-28 00:56:03,452,View.History
+2014-10-28 00:56:05,452,View.Team Explorer
+2014-10-28 00:56:16,452,View.History
+2014-10-28 00:56:19,452,View.Team Explorer
+2014-10-28 00:56:25,452,View.History
+2014-10-28 00:56:28,452,View.Team Explorer
+2014-10-28 00:56:36,452,View.History
+2014-10-28 00:56:38,452,View.Team Explorer
+2014-10-28 00:56:44,452,View.History
+2014-10-28 00:56:47,452,View.Team Explorer
+2014-10-28 00:56:54,452,View.History
+2014-10-28 00:56:56,452,View.Team Explorer
+2014-10-28 00:57:02,452,View.History
+2014-10-28 00:57:04,452,View.Team Explorer
+2014-10-28 00:57:13,452,View.History
+2014-10-28 00:57:21,452,View.Source Control Explorer
+2014-10-28 00:57:25,452,View.History
+2014-10-28 00:57:37,452,View.Team Explorer
+2014-10-28 00:57:52,452,View.History
+2014-10-28 00:57:55,452,View.Team Explorer
