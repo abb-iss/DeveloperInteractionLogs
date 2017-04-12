@@ -10,6 +10,7 @@
     <title>ABB Developer Interaction Data</title>
 
     <link href="bootstrap-dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="addstyle.css" rel="stylesheet">
   </head>
 
   <body>
@@ -39,7 +40,7 @@
     <div class="container">
 
       <div class="container" id="advantages">
-        <h3>Advantages</h3>
+        <h3>Details</h3>
           Dataset was captured during developers' daily interactions with Visual Studio, consisting of:
           <ul>
             <li>32,811 development hours</li> 
@@ -47,9 +48,17 @@
             <li>400+ different messages, representing developer actions and events from the IDE</li>
           </ul>
 
-        <!-- recommended workflow -->
+          <p>**Please cite the following paper when publishing based on this dataset:<br>
+          K. Damevski, D. Shepherd, J. Schneider, L. Pollock.<b>"Mining Sequences of Developer Interactions in Visual Studio for Usage Smells"</b>.<i>IEEE Transactions on Software Engineering</i>. 2016.&nbsp;<a href="http://damevski.github.io/files/blaze_pattern_mining.pdf">PDF</a>&nbsp;<a href="http://dx.doi.org/10.1109/TSE.2016.2592905">DOI</a></p>
+
+          <img width="750px" class="img-responsive" src="hoursMessages.png" style="border:1px solid gray"/> 
+
+
+        <!-- recommended workflow 
         <p><i>A useful research workflow has been to first extract interesting behavior from this data, then
-        confirm and understand it via developer surveys</i></p>
+        confirm and understand it via developer surveys</i></p> -->
+
+
         <hr>
       </div>
       <div class="container" id="samples">
@@ -98,7 +107,6 @@
       <div class="container" id="data-uses">
         <h3>List of data uses</h3>
           <p>The following research papers have used this dataset:</p>
-
           <div class="well">
             <p><i>K. Damevski, D. Shepherd, J. Schneider, L. Pollock.</i><b>"Mining Sequences of Developer Interactions in Visual Studio for Usage Smells"</b>.<i>IEEE Transactions on Software Engineering</i>. 2016.&nbsp;<a href="http://damevski.github.io/files/blaze_pattern_mining.pdf">PDF</a>&nbsp;<a href="http://dx.doi.org/10.1109/TSE.2016.2592905">DOI</a></p>
           </div>
@@ -108,7 +116,9 @@
           <div class="well">
             <p><i>K. Damevski, D. Shepherd, L. Pollock.</i><b>"A Field Study of How Developers Locate Features in Source Code"</b>.<i>Journal of Empirical Software Engineering</i>&nbsp;pp.1-24.&nbsp;<a href="http://damevski.github.io/files/cst-field-study.pdf">PDF</a>&nbsp;<a href="http://dx.doi.org/10.1007/s10664-015-9373-9">DOI</a></p>
           </div>
-
+          <div class="well">
+            <p><i>W. Snipes, A. Nair, E. Murphy-Hill.</i><b>"Experiences Gamifying Developer Adoption of Practices and Tools"</b>.<i>Proceedings of the 36th International Conference on Software Engineering (ICSE 2013) -- SEIP Track</i>&nbsp;pp.1-24.&nbsp;<a href="https://doi.org/10.1145/2591062.2591171">DOI</a></p>
+          </div>
         <hr>
       </div>
       <div class="container" id="Data Format">
