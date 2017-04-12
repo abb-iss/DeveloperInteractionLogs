@@ -19,10 +19,10 @@
     <div class="jumbotron">
 
       <div class="row">
-        <div class="col-lg-2 col-md-3 col-sm-4">
+        <div class="col-lg-2 col-md-3">
             <img width="150px" class="img-responsive" align="right" src="data-logo.svg"/> 
         </div>
-        <div class="col-lg-9 col-md-8 col-sm-7">      
+        <div class="col-lg-9 col-md-8">      
           <h1>ABB Developer Interaction Data</h1>
         </div>
       </div>
@@ -41,6 +41,10 @@
 
       <div class="container" id="advantages">
         <h3>Details</h3>
+
+      <div class="row">
+        <div class="col-lg-5 col-md-5">
+
           Dataset was captured during developers' daily interactions with Visual Studio, consisting of:
           <ul>
             <li>32,811 development hours</li> 
@@ -48,11 +52,16 @@
             <li>400+ different messages, representing developer actions and events from the IDE</li>
           </ul>
 
-          <p>**Please cite the following paper when publishing based on this dataset:<br>
-          K. Damevski, D. Shepherd, J. Schneider, L. Pollock.<b>"Mining Sequences of Developer Interactions in Visual Studio for Usage Smells"</b>.<i>IEEE Transactions on Software Engineering</i>. 2016.&nbsp;<a href="http://damevski.github.io/files/blaze_pattern_mining.pdf">PDF</a>&nbsp;<a href="http://dx.doi.org/10.1109/TSE.2016.2592905">DOI</a></p>
+          <p>**Please cite the following:<br>
+          <small>K. Damevski, D. Shepherd, J. Schneider, L. Pollock.<b>"Mining Sequences of Developer Interactions in Visual Studio for Usage Smells"</b>.<i>IEEE Transactions on Software Engineering</i>. 2016.&nbsp;<a href="http://damevski.github.io/files/blaze_pattern_mining.pdf">PDF</a>&nbsp;<a href="http://dx.doi.org/10.1109/TSE.2016.2592905">DOI</a></small>
+          </p>
+        </div>
+                
+        <div class="col-lg-6 col-md-6">
 
-          <img width="750px" class="img-responsive" src="hoursMessages.png" style="border:1px solid gray"/> 
-
+          <img class="img-responsive" src="hoursMessages.png" style="border:1px solid gray"/> 
+        </div>
+       </div>
 
         <!-- recommended workflow 
         <p><i>A useful research workflow has been to first extract interesting behavior from this data, then
