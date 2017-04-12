@@ -1,0 +1,13 @@
+2017-04-12 13:35:07Z,125,View.File,WindowView,b6b68c59973bdf1415a79d79875faeffaa7d50d2,View
+2017-04-12 13:35:09Z,125,View.Find and Replace,WindowView,Find and Replace,View
+2017-04-12 13:35:09Z,125,Edit.Find,Immediate,Find and Replace,Navigation.Unstructured
+2017-04-12 13:35:14Z,125,View.File,WindowView,b6b68c59973bdf1415a79d79875faeffaa7d50d2,View
+2017-04-12 13:35:14Z,125,View.Find and Replace,WindowView,Find and Replace,View
+2017-04-12 13:35:15Z,125,View.File,WindowView,b6b68c59973bdf1415a79d79875faeffaa7d50d2,View
+2017-04-12 13:35:15Z,125,View.Find and Replace,WindowView,Find and Replace,View
+2017-04-12 13:35:16Z,125,View.File,WindowView,b6b68c59973bdf1415a79d79875faeffaa7d50d2,View
+2017-04-12 13:35:17Z,125,View.Find and Replace,WindowView,Find and Replace,View
+2017-04-12 13:35:18Z,125,View.File,WindowView,b6b68c59973bdf1415a79d79875faeffaa7d50d2,View
+2017-04-12 13:35:18Z,125,View.Find and Replace,WindowView,Find and Replace,View
+2017-04-12 13:35:19Z,125,View.File,WindowView,b6b68c59973bdf1415a79d79875faeffaa7d50d2,View
+2017-04-12 13:35:19Z,125,View.Find and Replace,WindowView,Find and Replace,View
