@@ -1,0 +1,8 @@
+2017-04-12 14:01:44Z,125,View.File,WindowView,2d5f566d26f4a9dde79488d4106317681011edbc,View
+2017-04-12 14:01:48Z,125,View.Call Hierarchy,WindowView,Call Hierarchy,View
+2017-04-12 14:01:48Z,125,EditorContextMenus.CodeWindow.ViewCallHierarchy,Immediate,Call Hierarchy,Navigation.Structured
+2017-04-12 14:01:53Z,125,View.File,WindowView,2d5f566d26f4a9dde79488d4106317681011edbc,View
+2017-04-12 14:01:55Z,125,View.Call Hierarchy,WindowView,Call Hierarchy,View
+2017-04-12 14:01:56Z,125,View.File,WindowView,51471e6912d5cdbf46f582e2a2cf0ea8d5e7ad6b,View
+2017-04-12 14:01:57Z,125,View.File,WindowView,2d5f566d26f4a9dde79488d4106317681011edbc,View
+2017-04-12 14:01:57Z,125,View.Call Hierarchy,WindowView,Call Hierarchy,View
